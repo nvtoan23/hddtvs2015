@@ -1,0 +1,25 @@
+E:\LEARNING\HDDT\libSin\bin\Debug\libSin.dll
+E:\LEARNING\HDDT\libSin\bin\Debug\libSin.pdb
+E:\LEARNING\HDDT\libSin\obj\Debug\ResolveAssemblyReference.cache
+E:\LEARNING\HDDT\libSin\obj\Debug\libSin.dll
+E:\LEARNING\HDDT\libSin\obj\Debug\libSin.pdb
+E:\LEARNING\TS24\HDDT\libSin\bin\Debug\libSin.dll
+E:\LEARNING\TS24\HDDT\libSin\bin\Debug\libSin.pdb
+E:\LEARNING\TS24\HDDT\libSin\obj\Debug\ResolveAssemblyReference.cache
+E:\LEARNING\TS24\HDDT\libSin\obj\Debug\libSin.dll
+E:\LEARNING\TS24\HDDT\libSin\obj\Debug\libSin.pdb
+E:\LEARNING\TONA\TS24\HDDT\libSin\bin\Debug\libSin.dll
+E:\LEARNING\TONA\TS24\HDDT\libSin\bin\Debug\libSin.pdb
+E:\LEARNING\TONA\TS24\HDDT\libSin\obj\Debug\ResolveAssemblyReference.cache
+E:\LEARNING\TONA\TS24\HDDT\libSin\obj\Debug\libSin.dll
+E:\LEARNING\TONA\TS24\HDDT\libSin\obj\Debug\libSin.pdb
+E:\LEARNING\TONA\TS24\HDDT\HDDT_trc khi Async\libSin\bin\Debug\libSin.dll
+E:\LEARNING\TONA\TS24\HDDT\HDDT_trc khi Async\libSin\bin\Debug\libSin.pdb
+E:\LEARNING\TONA\TS24\HDDT\HDDT_trc khi Async\libSin\obj\Debug\ResolveAssemblyReference.cache
+E:\LEARNING\TONA\TS24\HDDT\HDDT_trc khi Async\libSin\obj\Debug\libSin.dll
+E:\LEARNING\TONA\TS24\HDDT\HDDT_trc khi Async\libSin\obj\Debug\libSin.pdb
+C:\Users\nvtoan\Desktop\HDDT_9i\HDDT\HDDT\libSin\bin\Debug\libSin.dll
+C:\Users\nvtoan\Desktop\HDDT_9i\HDDT\HDDT\libSin\bin\Debug\libSin.pdb
+C:\Users\nvtoan\Desktop\HDDT_9i\HDDT\HDDT\libSin\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\nvtoan\Desktop\HDDT_9i\HDDT\HDDT\libSin\obj\Debug\libSin.dll
+C:\Users\nvtoan\Desktop\HDDT_9i\HDDT\HDDT\libSin\obj\Debug\libSin.pdb

@@ -1,0 +1,240 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="Table">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="STT" type="xs:decimal" minOccurs="0" />
+                <xs:element name="MA_BN" type="xs:string" minOccurs="0" />
+                <xs:element name="HO_TEN" type="xs:string" minOccurs="0" />
+                <xs:element name="NGAY_SINH" type="xs:string" minOccurs="0" />
+                <xs:element name="GIOI_TINH" type="xs:int" minOccurs="0" />
+                <xs:element name="DIA_CHI" type="xs:string" minOccurs="0" />
+                <xs:element name="MA_THE" type="xs:string" minOccurs="0" />
+                <xs:element name="MA_DKBD" type="xs:string" minOccurs="0" />
+                <xs:element name="GT_THE_TU" type="xs:string" minOccurs="0" />
+                <xs:element name="GT_THE_DEN" type="xs:string" minOccurs="0" />
+                <xs:element name="MA_BENH" type="xs:string" minOccurs="0" />
+                <xs:element name="MA_BENHKHAC" type="xs:string" minOccurs="0" />
+                <xs:element name="MA_LYDO_VVIEN" type="xs:int" minOccurs="0" />
+                <xs:element name="MA_NOI_CHUYEN" type="xs:string" minOccurs="0" />
+                <xs:element name="NGAY_VAO" type="xs:string" minOccurs="0" />
+                <xs:element name="NGAY_RA" type="xs:string" minOccurs="0" />
+                <xs:element name="SO_NGAY_DTRI" type="xs:int" minOccurs="0" />
+                <xs:element name="KET_QUA_DTRI" type="xs:int" minOccurs="0" />
+                <xs:element name="TINH_TRANG_RV" type="xs:int" minOccurs="0" />
+                <xs:element name="TENKP" type="xs:string" minOccurs="0" />
+                <xs:element name="T_TONGCHI" type="xs:decimal" default="0" minOccurs="0" />
+                <xs:element name="T_XN" type="xs:decimal" default="0" minOccurs="0" />
+                <xs:element name="T_CDHA" type="xs:decimal" default="0" minOccurs="0" />
+                <xs:element name="T_THUOC" type="xs:decimal" default="0" minOccurs="0" />
+                <xs:element name="T_MAU" type="xs:decimal" default="0" minOccurs="0" />
+                <xs:element name="T_PTTT" type="xs:decimal" default="0" minOccurs="0" />
+                <xs:element name="T_VTYT" type="xs:decimal" default="0" minOccurs="0" />
+                <xs:element name="T_DVKT_TYLE" type="xs:decimal" default="0" minOccurs="0" />
+                <xs:element name="T_THUOC_TYLE" type="xs:decimal" default="0" minOccurs="0" />
+                <xs:element name="T_VTYT_TYLE" type="xs:decimal" default="0" minOccurs="0" />
+                <xs:element name="T_KHAM" type="xs:decimal" default="0" minOccurs="0" />
+                <xs:element name="T_GIUONG" type="xs:decimal" default="0" minOccurs="0" />
+                <xs:element name="T_VCHUYEN" type="xs:decimal" default="0" minOccurs="0" />
+                <xs:element name="T_BNTT" type="xs:decimal" default="0" minOccurs="0" />
+                <xs:element name="T_BHTT" type="xs:decimal" default="0" minOccurs="0" />
+                <xs:element name="T_NGOAIDS" type="xs:decimal" default="0" minOccurs="0" />
+                <xs:element name="MA_KHOA" type="xs:string" minOccurs="0" />
+                <xs:element name="NAM_QT" type="xs:int" minOccurs="0" />
+                <xs:element name="THANG_QT" type="xs:int" minOccurs="0" />
+                <xs:element name="MA_KHUVUC" type="xs:string" minOccurs="0" />
+                <xs:element name="MA_LOAIKCB" type="xs:int" minOccurs="0" />
+                <xs:element name="MA_CSKCB" type="xs:string" minOccurs="0" />
+                <xs:element name="NGAYTHANHTOAN" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <Table>
+    <STT>0</STT>
+    <MA_BN>17053957</MA_BN>
+    <HO_TEN>NGUYỄN THỊ HOẠT</HO_TEN>
+    <NGAY_SINH>19510501</NGAY_SINH>
+    <GIOI_TINH>2</GIOI_TINH>
+    <DIA_CHI>D75.2-1411  Thị trấn Ân Thi,Huyện Ân Thi,Hưng Yên</DIA_CHI>
+    <MA_THE>HT3332396042708</MA_THE>
+    <MA_DKBD>33050</MA_DKBD>
+    <GT_THE_TU>20180210</GT_THE_TU>
+    <GT_THE_DEN>20201231</GT_THE_DEN>
+    <MA_BENH>D75.2</MA_BENH>
+    <MA_BENHKHAC />
+    <MA_LYDO_VVIEN>1</MA_LYDO_VVIEN>
+    <MA_NOI_CHUYEN />
+    <NGAY_VAO>201804090805</NGAY_VAO>
+    <NGAY_RA>201804091005</NGAY_RA>
+    <SO_NGAY_DTRI>1</SO_NGAY_DTRI>
+    <KET_QUA_DTRI>1</KET_QUA_DTRI>
+    <TINH_TRANG_RV>1</TINH_TRANG_RV>
+    <TENKP>Phòng Khám Bệnh</TENKP>
+    <T_TONGCHI>0</T_TONGCHI>
+    <T_XN>0</T_XN>
+    <T_CDHA>0</T_CDHA>
+    <T_THUOC>0</T_THUOC>
+    <T_MAU>0</T_MAU>
+    <T_PTTT>0</T_PTTT>
+    <T_VTYT>0</T_VTYT>
+    <T_DVKT_TYLE>0</T_DVKT_TYLE>
+    <T_THUOC_TYLE>0</T_THUOC_TYLE>
+    <T_VTYT_TYLE>0</T_VTYT_TYLE>
+    <T_KHAM>0</T_KHAM>
+    <T_GIUONG>0</T_GIUONG>
+    <T_VCHUYEN>0</T_VCHUYEN>
+    <T_BNTT>0</T_BNTT>
+    <T_BHTT>0</T_BHTT>
+    <T_NGOAIDS>0</T_NGOAIDS>
+    <MA_KHOA>K01</MA_KHOA>
+    <NAM_QT>2018</NAM_QT>
+    <THANG_QT>4</THANG_QT>
+    <MA_KHUVUC />
+    <MA_LOAIKCB>1</MA_LOAIKCB>
+    <MA_CSKCB>101.1.05</MA_CSKCB>
+    <NGAYTHANHTOAN>201804091612</NGAYTHANHTOAN>
+  </Table>
+  <Table>
+    <STT>1</STT>
+    <MA_BN>15003929</MA_BN>
+    <HO_TEN>ĐẶNG SỸ QUYẾT NAM</HO_TEN>
+    <NGAY_SINH>19930117</NGAY_SINH>
+    <GIOI_TINH>1</GIOI_TINH>
+    <DIA_CHI>706  Xã Tân Phúc,Huyện Ân Thi,Hưng Yên</DIA_CHI>
+    <MA_THE>DN4333316030180</MA_THE>
+    <MA_DKBD>33050</MA_DKBD>
+    <GT_THE_TU>20180101</GT_THE_TU>
+    <GT_THE_DEN>20181231</GT_THE_DEN>
+    <MA_BENH>C92.1</MA_BENH>
+    <MA_BENHKHAC />
+    <MA_LYDO_VVIEN>1</MA_LYDO_VVIEN>
+    <MA_NOI_CHUYEN />
+    <NGAY_VAO>201804090730</NGAY_VAO>
+    <NGAY_RA>201804090930</NGAY_RA>
+    <SO_NGAY_DTRI>1</SO_NGAY_DTRI>
+    <KET_QUA_DTRI>1</KET_QUA_DTRI>
+    <TINH_TRANG_RV>1</TINH_TRANG_RV>
+    <TENKP>Phòng Khám Bệnh</TENKP>
+    <T_TONGCHI>0</T_TONGCHI>
+    <T_XN>0</T_XN>
+    <T_CDHA>0</T_CDHA>
+    <T_THUOC>0</T_THUOC>
+    <T_MAU>0</T_MAU>
+    <T_PTTT>0</T_PTTT>
+    <T_VTYT>0</T_VTYT>
+    <T_DVKT_TYLE>0</T_DVKT_TYLE>
+    <T_THUOC_TYLE>0</T_THUOC_TYLE>
+    <T_VTYT_TYLE>0</T_VTYT_TYLE>
+    <T_KHAM>0</T_KHAM>
+    <T_GIUONG>0</T_GIUONG>
+    <T_VCHUYEN>0</T_VCHUYEN>
+    <T_BNTT>0</T_BNTT>
+    <T_BHTT>0</T_BHTT>
+    <T_NGOAIDS>0</T_NGOAIDS>
+    <MA_KHOA>K01</MA_KHOA>
+    <NAM_QT>2018</NAM_QT>
+    <THANG_QT>4</THANG_QT>
+    <MA_KHUVUC />
+    <MA_LOAIKCB>1</MA_LOAIKCB>
+    <MA_CSKCB>101.1.05</MA_CSKCB>
+    <NGAYTHANHTOAN>201804091704</NGAYTHANHTOAN>
+  </Table>
+  <Table>
+    <STT>2</STT>
+    <MA_BN>15032864</MA_BN>
+    <HO_TEN>PHẠM THỊ THUẦN</HO_TEN>
+    <NGAY_SINH>1981</NGAY_SINH>
+    <GIOI_TINH>2</GIOI_TINH>
+    <DIA_CHI>802  Xã Liên Hồng,Huyện Gia Lộc,Hải Dương</DIA_CHI>
+    <MA_THE>HN2303021349260</MA_THE>
+    <MA_DKBD>30172</MA_DKBD>
+    <GT_THE_TU>20180101</GT_THE_TU>
+    <GT_THE_DEN>20181231</GT_THE_DEN>
+    <MA_BENH>C92.1</MA_BENH>
+    <MA_BENHKHAC />
+    <MA_LYDO_VVIEN>1</MA_LYDO_VVIEN>
+    <MA_NOI_CHUYEN />
+    <NGAY_VAO>201804090836</NGAY_VAO>
+    <NGAY_RA>201804091036</NGAY_RA>
+    <SO_NGAY_DTRI>1</SO_NGAY_DTRI>
+    <KET_QUA_DTRI>1</KET_QUA_DTRI>
+    <TINH_TRANG_RV>1</TINH_TRANG_RV>
+    <TENKP>Phòng Khám Bệnh</TENKP>
+    <T_TONGCHI>0</T_TONGCHI>
+    <T_XN>0</T_XN>
+    <T_CDHA>0</T_CDHA>
+    <T_THUOC>0</T_THUOC>
+    <T_MAU>0</T_MAU>
+    <T_PTTT>0</T_PTTT>
+    <T_VTYT>0</T_VTYT>
+    <T_DVKT_TYLE>0</T_DVKT_TYLE>
+    <T_THUOC_TYLE>0</T_THUOC_TYLE>
+    <T_VTYT_TYLE>0</T_VTYT_TYLE>
+    <T_KHAM>0</T_KHAM>
+    <T_GIUONG>0</T_GIUONG>
+    <T_VCHUYEN>0</T_VCHUYEN>
+    <T_BNTT>0</T_BNTT>
+    <T_BHTT>0</T_BHTT>
+    <T_NGOAIDS>0</T_NGOAIDS>
+    <MA_KHOA>K01</MA_KHOA>
+    <NAM_QT>2018</NAM_QT>
+    <THANG_QT>4</THANG_QT>
+    <MA_KHUVUC />
+    <MA_LOAIKCB>1</MA_LOAIKCB>
+    <MA_CSKCB>101.1.05</MA_CSKCB>
+    <NGAYTHANHTOAN>201804091616</NGAYTHANHTOAN>
+  </Table>
+  <Table>
+    <STT>3</STT>
+    <MA_BN>14020666</MA_BN>
+    <HO_TEN>ĐÀO MINH NGỌC</HO_TEN>
+    <NGAY_SINH>20120704</NGAY_SINH>
+    <GIOI_TINH>2</GIOI_TINH>
+    <DIA_CHI>  Xã Thượng Cát,Huyện Từ Liêm,Hà Nội</DIA_CHI>
+    <MA_THE>TE1010120159755</MA_THE>
+    <MA_DKBD>01062</MA_DKBD>
+    <GT_THE_TU>20180401</GT_THE_TU>
+    <GT_THE_DEN>20180930</GT_THE_DEN>
+    <MA_BENH>D56.1</MA_BENH>
+    <MA_BENHKHAC />
+    <MA_LYDO_VVIEN>1</MA_LYDO_VVIEN>
+    <MA_NOI_CHUYEN />
+    <NGAY_VAO>201804090933</NGAY_VAO>
+    <NGAY_RA>201804091133</NGAY_RA>
+    <SO_NGAY_DTRI>1</SO_NGAY_DTRI>
+    <KET_QUA_DTRI>1</KET_QUA_DTRI>
+    <TINH_TRANG_RV>1</TINH_TRANG_RV>
+    <TENKP>Phòng khám thalassemia</TENKP>
+    <T_TONGCHI>0</T_TONGCHI>
+    <T_XN>0</T_XN>
+    <T_CDHA>0</T_CDHA>
+    <T_THUOC>0</T_THUOC>
+    <T_MAU>0</T_MAU>
+    <T_PTTT>0</T_PTTT>
+    <T_VTYT>0</T_VTYT>
+    <T_DVKT_TYLE>0</T_DVKT_TYLE>
+    <T_THUOC_TYLE>0</T_THUOC_TYLE>
+    <T_VTYT_TYLE>0</T_VTYT_TYLE>
+    <T_KHAM>0</T_KHAM>
+    <T_GIUONG>0</T_GIUONG>
+    <T_VCHUYEN>0</T_VCHUYEN>
+    <T_BNTT>0</T_BNTT>
+    <T_BHTT>0</T_BHTT>
+    <T_NGOAIDS>0</T_NGOAIDS>
+    <MA_KHOA>K01</MA_KHOA>
+    <NAM_QT>2018</NAM_QT>
+    <THANG_QT>4</THANG_QT>
+    <MA_KHUVUC />
+    <MA_LOAIKCB>1</MA_LOAIKCB>
+    <MA_CSKCB>101.1.05</MA_CSKCB>
+    <NGAYTHANHTOAN>201804091603</NGAYTHANHTOAN>
+  </Table>
+</NewDataSet>

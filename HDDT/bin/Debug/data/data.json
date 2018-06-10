@@ -1,0 +1,9 @@
+{
+	"api":"103.3.253.54:81",
+	"urlbase":"http://103.3.253.54:81/api/{0}/querydata",
+	"medibv":"",
+	"querydata":{
+		"1":" select to_char(a.id) as id,case when a.mavaovien=0 then to_char(a.maql) else to_char(a.mavaovien) end as sohoso,{0} as loaivp,0 as tongtien,a.userid as idthungan,g.hoten as hotenthungan, a.mabn as makhachhang,b.hoten as tenkhachhang,b.namsinh,b.diachi,to_char(a.ngay,'dd-mm-yyyy hh24:mi') as ngaylap,d.tenkp as TENKHOA,c.sohieubl as QUYENSO,a.sobienlai from {1}.v_vienphill a inner join ({2}) b on a.mabn=b.mabn left join {3}.v_dlogin g on a.userid=g.id inner join btdkp_bv d on a.makp=d.makp inner join v_quyenso c on c.id=a.quyenso where to_date(to_char(a.ngay,'dd/mm/yyyy'),'dd/mm/yyyy') between to_date('{4}.Substring(0, 10) + ','dd/mm/yyyy') and to_date('{5}.Substring(0, 10) + ','dd/mm/yyyy') and a.sobienlai<>-1 and a.quyenso<>-1 and a.userid<>-1",
+		"2":""
+	}
+}

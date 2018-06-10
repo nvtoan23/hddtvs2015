@@ -1,0 +1,5 @@
+C:\Users\nvtoan\Downloads\HDDT_Final\HDDT_2015\ConfigConnect\bin\Debug\ConfigConnect.dll
+C:\Users\nvtoan\Downloads\HDDT_Final\HDDT_2015\ConfigConnect\bin\Debug\ConfigConnect.pdb
+C:\Users\nvtoan\Downloads\HDDT_Final\HDDT_2015\ConfigConnect\obj\x86\Debug\ConfigConnect.csprojResolveAssemblyReference.cache
+C:\Users\nvtoan\Downloads\HDDT_Final\HDDT_2015\ConfigConnect\obj\x86\Debug\ConfigConnect.dll
+C:\Users\nvtoan\Downloads\HDDT_Final\HDDT_2015\ConfigConnect\obj\x86\Debug\ConfigConnect.pdb

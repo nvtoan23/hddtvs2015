@@ -1,0 +1,159 @@
+F:\LINKSTC\PG CHUNG\LEARN\LEARNING\HDDT\obj\Debug\HDDT.exe
+F:\LINKSTC\PG CHUNG\LEARN\LEARNING\HDDT\obj\Debug\HDDT.pdb
+F:\LINKSTC\PG CHUNG\LEARN\LEARNING\HDDT\bin\Debug\HDDT.exe.config
+F:\LINKSTC\PG CHUNG\LEARN\LEARNING\HDDT\bin\Debug\HDDT.exe
+F:\LINKSTC\PG CHUNG\LEARN\LEARNING\HDDT\bin\Debug\HDDT.pdb
+F:\LINKSTC\PG CHUNG\LEARN\LEARNING\HDDT\bin\Debug\libSin.dll
+F:\LINKSTC\PG CHUNG\LEARN\LEARNING\HDDT\bin\Debug\Npgsql.dll
+F:\LINKSTC\PG CHUNG\LEARN\LEARNING\HDDT\bin\Debug\Mono.Security.dll
+F:\LINKSTC\PG CHUNG\LEARN\LEARNING\HDDT\bin\Debug\libSin.pdb
+F:\LINKSTC\PG CHUNG\LEARN\LEARNING\HDDT\obj\Debug\HDDT.csprojResolveAssemblyReference.cache
+F:\LINKSTC\PG CHUNG\LEARN\LEARNING\HDDT\obj\Debug\HDDT.frmMain.resources
+F:\LINKSTC\PG CHUNG\LEARN\LEARNING\HDDT\obj\Debug\HDDT.Properties.Resources.resources
+F:\LINKSTC\PG CHUNG\LEARN\LEARNING\HDDT\obj\Debug\HDDT.csproj.GenerateResource.Cache
+E:\WORK\ORACLE\DK NGHE AN\LEARN\LEARNING\HDDT\bin\Debug\HDDT.exe.config
+E:\WORK\ORACLE\DK NGHE AN\LEARN\LEARNING\HDDT\obj\Debug\HDDT.exe
+E:\WORK\ORACLE\DK NGHE AN\LEARN\LEARNING\HDDT\obj\Debug\HDDT.pdb
+E:\WORK\ORACLE\DK NGHE AN\LEARN\LEARNING\HDDT\bin\Debug\HDDT.exe
+E:\WORK\ORACLE\DK NGHE AN\LEARN\LEARNING\HDDT\bin\Debug\HDDT.pdb
+E:\WORK\ORACLE\DK NGHE AN\LEARN\LEARNING\HDDT\bin\Debug\libSin.dll
+E:\WORK\ORACLE\DK NGHE AN\LEARN\LEARNING\HDDT\bin\Debug\Npgsql.dll
+E:\WORK\ORACLE\DK NGHE AN\LEARN\LEARNING\HDDT\bin\Debug\Mono.Security.dll
+E:\WORK\ORACLE\DK NGHE AN\LEARN\LEARNING\HDDT\bin\Debug\libSin.pdb
+E:\WORK\ORACLE\DK NGHE AN\LEARN\LEARNING\HDDT\obj\Debug\HDDT.csprojResolveAssemblyReference.cache
+E:\WORK\ORACLE\DK NGHE AN\LEARN\LEARNING\HDDT\obj\Debug\HDDT.frmMain.resources
+E:\WORK\ORACLE\DK NGHE AN\LEARN\LEARNING\HDDT\obj\Debug\HDDT.Properties.Resources.resources
+E:\WORK\ORACLE\DK NGHE AN\LEARN\LEARNING\HDDT\obj\Debug\HDDT.csproj.GenerateResource.Cache
+C:\LINKS\pg chung\LEARN\LEARNING\HDDT\bin\Debug\HDDT.exe.config
+C:\LINKS\pg chung\LEARN\LEARNING\HDDT\obj\Debug\HDDT.exe
+C:\LINKS\pg chung\LEARN\LEARNING\HDDT\obj\Debug\HDDT.pdb
+C:\LINKS\pg chung\LEARN\LEARNING\HDDT\bin\Debug\HDDT.exe
+C:\LINKS\pg chung\LEARN\LEARNING\HDDT\bin\Debug\HDDT.pdb
+C:\LINKS\pg chung\LEARN\LEARNING\HDDT\bin\Debug\libSin.dll
+C:\LINKS\pg chung\LEARN\LEARNING\HDDT\bin\Debug\Npgsql.dll
+C:\LINKS\pg chung\LEARN\LEARNING\HDDT\bin\Debug\Mono.Security.dll
+C:\LINKS\pg chung\LEARN\LEARNING\HDDT\bin\Debug\libSin.pdb
+C:\LINKS\pg chung\LEARN\LEARNING\HDDT\obj\Debug\HDDT.csprojResolveAssemblyReference.cache
+C:\LINKS\pg chung\LEARN\LEARNING\HDDT\obj\Debug\HDDT.frmMain.resources
+C:\LINKS\pg chung\LEARN\LEARNING\HDDT\obj\Debug\HDDT.Properties.Resources.resources
+C:\LINKS\pg chung\LEARN\LEARNING\HDDT\obj\Debug\HDDT.csproj.GenerateResource.Cache
+C:\Users\nvtoan\Downloads\HDDT_Final\HDDT_2015\HDDT\bin\Debug\HDDT.exe.config
+C:\Users\nvtoan\Downloads\HDDT_Final\HDDT_2015\HDDT\bin\Debug\HDDT.exe
+C:\Users\nvtoan\Downloads\HDDT_Final\HDDT_2015\HDDT\bin\Debug\HDDT.pdb
+C:\Users\nvtoan\Downloads\HDDT_Final\HDDT_2015\HDDT\bin\Debug\libHDDT.dll
+C:\Users\nvtoan\Downloads\HDDT_Final\HDDT_2015\HDDT\bin\Debug\LibMedi.dll
+C:\Users\nvtoan\Downloads\HDDT_Final\HDDT_2015\HDDT\bin\Debug\Newtonsoft.Json.dll
+C:\Users\nvtoan\Downloads\HDDT_Final\HDDT_2015\HDDT\bin\Debug\System.Net.Http.dll
+C:\Users\nvtoan\Downloads\HDDT_Final\HDDT_2015\HDDT\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\nvtoan\Downloads\HDDT_Final\HDDT_2015\HDDT\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\nvtoan\Downloads\HDDT_Final\HDDT_2015\HDDT\bin\Debug\System.Net.Http.WebRequest.dll
+C:\Users\nvtoan\Downloads\HDDT_Final\HDDT_2015\HDDT\bin\Debug\MySql.Data.dll
+C:\Users\nvtoan\Downloads\HDDT_Final\HDDT_2015\HDDT\bin\Debug\ThongSoData.dll
+C:\Users\nvtoan\Downloads\HDDT_Final\HDDT_2015\HDDT\bin\Debug\ConfigConnect.dll
+C:\Users\nvtoan\Downloads\HDDT_Final\HDDT_2015\HDDT\bin\Debug\libHDDT.pdb
+C:\Users\nvtoan\Downloads\HDDT_Final\HDDT_2015\HDDT\bin\Debug\LibMedi.pdb
+C:\Users\nvtoan\Downloads\HDDT_Final\HDDT_2015\HDDT\bin\Debug\Newtonsoft.Json.xml
+C:\Users\nvtoan\Downloads\HDDT_Final\HDDT_2015\HDDT\bin\Debug\System.Net.Http.xml
+C:\Users\nvtoan\Downloads\HDDT_Final\HDDT_2015\HDDT\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\nvtoan\Downloads\HDDT_Final\HDDT_2015\HDDT\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\nvtoan\Downloads\HDDT_Final\HDDT_2015\HDDT\bin\Debug\System.Net.Http.WebRequest.xml
+C:\Users\nvtoan\Downloads\HDDT_Final\HDDT_2015\HDDT\bin\Debug\ThongSoData.pdb
+C:\Users\nvtoan\Downloads\HDDT_Final\HDDT_2015\HDDT\obj\Debug\HDDT.csproj.App.config
+C:\Users\nvtoan\Downloads\HDDT_Final\HDDT_2015\HDDT\obj\Debug\HDDT.csprojResolveAssemblyReference.cache
+C:\Users\nvtoan\Downloads\HDDT_Final\HDDT_2015\HDDT\obj\Debug\HDDT.Form1.resources
+C:\Users\nvtoan\Downloads\HDDT_Final\HDDT_2015\HDDT\obj\Debug\HDDT.FormAsynTask.resources
+C:\Users\nvtoan\Downloads\HDDT_Final\HDDT_2015\HDDT\obj\Debug\HDDT.frmMain.resources
+C:\Users\nvtoan\Downloads\HDDT_Final\HDDT_2015\HDDT\obj\Debug\HDDT.Properties.Resources.resources
+C:\Users\nvtoan\Downloads\HDDT_Final\HDDT_2015\HDDT\obj\Debug\HDDT.csproj.GenerateResource.Cache
+C:\Users\nvtoan\Downloads\HDDT_Final\HDDT_2015\HDDT\obj\Debug\HDDT.exe
+C:\Users\nvtoan\Downloads\HDDT_Final\HDDT_2015\HDDT\obj\Debug\HDDT.pdb
+C:\Users\nvtoan\Downloads\HDDT_Final\HDDT_2015_LOCALHOST\HDDT\bin\Debug\HDDT.exe.config
+C:\Users\nvtoan\Downloads\HDDT_Final\HDDT_2015_LOCALHOST\HDDT\obj\Debug\HDDT.exe
+C:\Users\nvtoan\Downloads\HDDT_Final\HDDT_2015_LOCALHOST\HDDT\obj\Debug\HDDT.pdb
+C:\Users\nvtoan\Downloads\HDDT_Final\HDDT_2015_LOCALHOST\HDDT\bin\Debug\HDDT.exe
+C:\Users\nvtoan\Downloads\HDDT_Final\HDDT_2015_LOCALHOST\HDDT\bin\Debug\HDDT.pdb
+C:\Users\nvtoan\Downloads\HDDT_Final\HDDT_2015_LOCALHOST\HDDT\bin\Debug\libHDDT.dll
+C:\Users\nvtoan\Downloads\HDDT_Final\HDDT_2015_LOCALHOST\HDDT\bin\Debug\LibMedi.dll
+C:\Users\nvtoan\Downloads\HDDT_Final\HDDT_2015_LOCALHOST\HDDT\bin\Debug\Newtonsoft.Json.dll
+C:\Users\nvtoan\Downloads\HDDT_Final\HDDT_2015_LOCALHOST\HDDT\bin\Debug\System.Net.Http.dll
+C:\Users\nvtoan\Downloads\HDDT_Final\HDDT_2015_LOCALHOST\HDDT\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\nvtoan\Downloads\HDDT_Final\HDDT_2015_LOCALHOST\HDDT\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\nvtoan\Downloads\HDDT_Final\HDDT_2015_LOCALHOST\HDDT\bin\Debug\System.Net.Http.WebRequest.dll
+C:\Users\nvtoan\Downloads\HDDT_Final\HDDT_2015_LOCALHOST\HDDT\bin\Debug\MySql.Data.dll
+C:\Users\nvtoan\Downloads\HDDT_Final\HDDT_2015_LOCALHOST\HDDT\bin\Debug\ThongSoData.dll
+C:\Users\nvtoan\Downloads\HDDT_Final\HDDT_2015_LOCALHOST\HDDT\bin\Debug\ConfigConnect.dll
+C:\Users\nvtoan\Downloads\HDDT_Final\HDDT_2015_LOCALHOST\HDDT\bin\Debug\libHDDT.pdb
+C:\Users\nvtoan\Downloads\HDDT_Final\HDDT_2015_LOCALHOST\HDDT\bin\Debug\LibMedi.pdb
+C:\Users\nvtoan\Downloads\HDDT_Final\HDDT_2015_LOCALHOST\HDDT\bin\Debug\Newtonsoft.Json.xml
+C:\Users\nvtoan\Downloads\HDDT_Final\HDDT_2015_LOCALHOST\HDDT\bin\Debug\System.Net.Http.xml
+C:\Users\nvtoan\Downloads\HDDT_Final\HDDT_2015_LOCALHOST\HDDT\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\nvtoan\Downloads\HDDT_Final\HDDT_2015_LOCALHOST\HDDT\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\nvtoan\Downloads\HDDT_Final\HDDT_2015_LOCALHOST\HDDT\bin\Debug\System.Net.Http.WebRequest.xml
+C:\Users\nvtoan\Downloads\HDDT_Final\HDDT_2015_LOCALHOST\HDDT\bin\Debug\ThongSoData.pdb
+C:\Users\nvtoan\Downloads\HDDT_Final\HDDT_2015_LOCALHOST\HDDT\obj\Debug\HDDT.csproj.App.config
+C:\Users\nvtoan\Downloads\HDDT_Final\HDDT_2015_LOCALHOST\HDDT\obj\Debug\HDDT.csprojResolveAssemblyReference.cache
+C:\Users\nvtoan\Downloads\HDDT_Final\HDDT_2015_LOCALHOST\HDDT\obj\Debug\HDDT.Form1.resources
+C:\Users\nvtoan\Downloads\HDDT_Final\HDDT_2015_LOCALHOST\HDDT\obj\Debug\HDDT.FormAsynTask.resources
+C:\Users\nvtoan\Downloads\HDDT_Final\HDDT_2015_LOCALHOST\HDDT\obj\Debug\HDDT.frmMain.resources
+C:\Users\nvtoan\Downloads\HDDT_Final\HDDT_2015_LOCALHOST\HDDT\obj\Debug\HDDT.Properties.Resources.resources
+C:\Users\nvtoan\Downloads\HDDT_Final\HDDT_2015_LOCALHOST\HDDT\obj\Debug\HDDT.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\HDDT_2015_LOCALHOST\HDDT\bin\Debug\HDDT.exe.config
+C:\Users\Administrator\Desktop\HDDT_2015_LOCALHOST\HDDT\bin\Debug\HDDT.exe
+C:\Users\Administrator\Desktop\HDDT_2015_LOCALHOST\HDDT\bin\Debug\HDDT.pdb
+C:\Users\Administrator\Desktop\HDDT_2015_LOCALHOST\HDDT\bin\Debug\libHDDT.dll
+C:\Users\Administrator\Desktop\HDDT_2015_LOCALHOST\HDDT\bin\Debug\LibMedi.dll
+C:\Users\Administrator\Desktop\HDDT_2015_LOCALHOST\HDDT\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\HDDT_2015_LOCALHOST\HDDT\bin\Debug\System.Net.Http.dll
+C:\Users\Administrator\Desktop\HDDT_2015_LOCALHOST\HDDT\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\Administrator\Desktop\HDDT_2015_LOCALHOST\HDDT\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\Administrator\Desktop\HDDT_2015_LOCALHOST\HDDT\bin\Debug\System.Net.Http.WebRequest.dll
+C:\Users\Administrator\Desktop\HDDT_2015_LOCALHOST\HDDT\bin\Debug\MySql.Data.dll
+C:\Users\Administrator\Desktop\HDDT_2015_LOCALHOST\HDDT\bin\Debug\ThongSoData.dll
+C:\Users\Administrator\Desktop\HDDT_2015_LOCALHOST\HDDT\bin\Debug\ConfigConnect.dll
+C:\Users\Administrator\Desktop\HDDT_2015_LOCALHOST\HDDT\bin\Debug\libHDDT.pdb
+C:\Users\Administrator\Desktop\HDDT_2015_LOCALHOST\HDDT\bin\Debug\LibMedi.pdb
+C:\Users\Administrator\Desktop\HDDT_2015_LOCALHOST\HDDT\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Administrator\Desktop\HDDT_2015_LOCALHOST\HDDT\bin\Debug\System.Net.Http.xml
+C:\Users\Administrator\Desktop\HDDT_2015_LOCALHOST\HDDT\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\Administrator\Desktop\HDDT_2015_LOCALHOST\HDDT\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\Administrator\Desktop\HDDT_2015_LOCALHOST\HDDT\bin\Debug\System.Net.Http.WebRequest.xml
+C:\Users\Administrator\Desktop\HDDT_2015_LOCALHOST\HDDT\bin\Debug\ThongSoData.pdb
+C:\Users\Administrator\Desktop\HDDT_2015_LOCALHOST\HDDT\obj\Debug\HDDT.csproj.App.config
+C:\Users\Administrator\Desktop\HDDT_2015_LOCALHOST\HDDT\obj\Debug\HDDT.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\HDDT_2015_LOCALHOST\HDDT\obj\Debug\HDDT.Form1.resources
+C:\Users\Administrator\Desktop\HDDT_2015_LOCALHOST\HDDT\obj\Debug\HDDT.FormAsynTask.resources
+C:\Users\Administrator\Desktop\HDDT_2015_LOCALHOST\HDDT\obj\Debug\HDDT.frmMain.resources
+C:\Users\Administrator\Desktop\HDDT_2015_LOCALHOST\HDDT\obj\Debug\HDDT.Properties.Resources.resources
+C:\Users\Administrator\Desktop\HDDT_2015_LOCALHOST\HDDT\obj\Debug\HDDT.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\HDDT_2015_LOCALHOST\HDDT\obj\Debug\HDDT.exe
+C:\Users\Administrator\Desktop\HDDT_2015_LOCALHOST\HDDT\obj\Debug\HDDT.pdb
+C:\WORK\HDDT_2015_LOCALHOST\HDDT\bin\Debug\MedAna.exe.config
+C:\WORK\HDDT_2015_LOCALHOST\HDDT\bin\Debug\MedAna.exe
+C:\WORK\HDDT_2015_LOCALHOST\HDDT\bin\Debug\MedAna.pdb
+C:\WORK\HDDT_2015_LOCALHOST\HDDT\bin\Debug\libHDDT.dll
+C:\WORK\HDDT_2015_LOCALHOST\HDDT\bin\Debug\LibMedi.dll
+C:\WORK\HDDT_2015_LOCALHOST\HDDT\bin\Debug\Newtonsoft.Json.dll
+C:\WORK\HDDT_2015_LOCALHOST\HDDT\bin\Debug\System.Net.Http.dll
+C:\WORK\HDDT_2015_LOCALHOST\HDDT\bin\Debug\System.Net.Http.Extensions.dll
+C:\WORK\HDDT_2015_LOCALHOST\HDDT\bin\Debug\System.Net.Http.Primitives.dll
+C:\WORK\HDDT_2015_LOCALHOST\HDDT\bin\Debug\System.Net.Http.WebRequest.dll
+C:\WORK\HDDT_2015_LOCALHOST\HDDT\bin\Debug\MySql.Data.dll
+C:\WORK\HDDT_2015_LOCALHOST\HDDT\bin\Debug\ThongSoData.dll
+C:\WORK\HDDT_2015_LOCALHOST\HDDT\bin\Debug\ConfigConnect.dll
+C:\WORK\HDDT_2015_LOCALHOST\HDDT\bin\Debug\libHDDT.pdb
+C:\WORK\HDDT_2015_LOCALHOST\HDDT\bin\Debug\LibMedi.pdb
+C:\WORK\HDDT_2015_LOCALHOST\HDDT\bin\Debug\Newtonsoft.Json.xml
+C:\WORK\HDDT_2015_LOCALHOST\HDDT\bin\Debug\System.Net.Http.xml
+C:\WORK\HDDT_2015_LOCALHOST\HDDT\bin\Debug\System.Net.Http.Extensions.xml
+C:\WORK\HDDT_2015_LOCALHOST\HDDT\bin\Debug\System.Net.Http.Primitives.xml
+C:\WORK\HDDT_2015_LOCALHOST\HDDT\bin\Debug\System.Net.Http.WebRequest.xml
+C:\WORK\HDDT_2015_LOCALHOST\HDDT\bin\Debug\ThongSoData.pdb
+C:\WORK\HDDT_2015_LOCALHOST\HDDT\obj\Debug\HDDT.csproj.App.config
+C:\WORK\HDDT_2015_LOCALHOST\HDDT\obj\Debug\HDDT.csprojResolveAssemblyReference.cache
+C:\WORK\HDDT_2015_LOCALHOST\HDDT\obj\Debug\HDDT.Form1.resources
+C:\WORK\HDDT_2015_LOCALHOST\HDDT\obj\Debug\HDDT.FormAsynTask.resources
+C:\WORK\HDDT_2015_LOCALHOST\HDDT\obj\Debug\HDDT.frmMain.resources
+C:\WORK\HDDT_2015_LOCALHOST\HDDT\obj\Debug\HDDT.Properties.Resources.resources
+C:\WORK\HDDT_2015_LOCALHOST\HDDT\obj\Debug\HDDT.csproj.GenerateResource.Cache
+C:\WORK\HDDT_2015_LOCALHOST\HDDT\obj\Debug\MedAna.exe
+C:\WORK\HDDT_2015_LOCALHOST\HDDT\obj\Debug\MedAna.pdb

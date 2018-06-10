@@ -1,0 +1,145 @@
+ else
+                    {
+                        #region Query lấy dữ liệu
+
+                        #region bn noi tru + ngoai tru
+                        #region select
+                        asql = "select a.loaibn,to_char(a.id) id, to_char(a.quyenso) quyensoid"
+                            + " , to_char(a.sobienlai) sobienlai, to_char(a.ngay,'dd/mm/yyyy') ngay"
+                            + " , d.sohieu quyenso, d.sohieu||' - '||to_char(a.sobienlai) sochungtu"
+                            + ", c.ghichu, ccc.ten lydomien, cc.ten nguoikymien, aaa.mabn" 
+                            + ", '' as ghichu, '' as lydomien, '' as nguoikymien, aaa.mabn"
+                            + ", aaa.hoten, aaa.namsinh, sum(nvl(b.sotien,0)*" + s_tyle + "/100) sotien"
+                            + ", sum(nvl(b.mien,0)) mien, sum(nvl(b.bhyttra,0)) bhyt"
+                            + ((chkkhongtinhchenhlech.Checked) ? "" : ",i.chenhlechdv")
+                            + ", nvl(a.tamung,0) tamung"
+                            + ", nvl(case when sum(nvl(b.sotien,0))"
+                            + "-nvl(a.tamung,0)-sum(nvl(b.bhyttra,0))-sum(nvl(b.mien,0))>=0 "
+                            + " then sum(nvl(b.sotien,0))-nvl(a.tamung,0)-sum(nvl(b.bhyttra,0))"
+                            + "-sum(nvl(b.mien,0)) end,0)*" + s_tyle + "/100 thucthu"
+                            + ", nvl(case when sum(nvl(b.sotien,0))-nvl(a.tamung,0)"
+                            + "-sum(nvl(b.bhyttra,0))-sum(nvl(b.mien,0))<0 then (sum(nvl(b.sotien,0))"
+                            + "-nvl(a.tamung,0)-sum(nvl(b.bhyttra,0))-sum(nvl(b.mien,0)))*-1 end,0)*"
+                            + s_tyle + "/100 thucchi, e.hoten nguoithu"
+                            + ",0.0 tongtamung"
+                            + ",0.0 tonghoantamung"
+                            + ",to_char(aa.ngayvao,'dd/mm/yyyy') ngayvao"
+                            + ",to_char(aa.ngayra,'dd/mm/yyyy') ngayra"
+                            + ",to_char(aa.maql) maql,'' doituong"
+                            + ", e.hoten ||' ('||to_char(e.userid)||')' userid,g2.makp"
+                            + ",g2.tenkp " + atmp;
+                        #endregion
+                        #region from
+                        asql += " from  v_ttrvds aa"
+                            + " inner join v_ttrvll a on aa.id=a.id"
+                            + " left join btdbn aaa on aa.mabn=aaa.mabn"
+                            + " left join (" + asqlht + ") aht on a.quyenso=aht.quyenso and a.sobienlai=aht.sobienlai"
+                            + " left join v_ttrvct b on a.id=b.id"
+                            + " left join v_miennoitru c on a.id=c.id"
+                            + " left join v_dsduyet cc on c.maduyet=cc.ma"
+                            + " left join v_lydomien ccc on c.lydo=ccc.id"
+                            + " left join v_quyenso d on a.quyenso=d.id"
+                            + " left join v_dlogin e on a.userid=e.id"
+                            + " left join (select id, id_loai from v_giavp union all select id"
+                                + ",id_loai from (" + asqldmbd + ")) f on b.mavp= f.id"
+                            + " left join (select id, id_nhom from v_loaivp union all select 0 id"
+                                + ",0 id_nhom from dual) g on f.id_loai=g.id"
+                            + " left join (select ma from v_nhomvp union all "
+                                + "select 0 from dual) h on g.id_nhom=h.ma"
+                            + " inner join btdkp_bv g2 on a.makp=g2.makp"
+
+                            + ((chkkhongtinhchenhlech.Checked) ? "" : ",V_TTRVCT_chenhlech i ")
+
+                        #endregion
+                        #region where
+                            + " where to_date(to_char(a.ngay,'dd/mm/yyyy'),'dd/mm/yyyy')"
+                            + " >=to_date('" + tungay.Text.Trim().Substring(0, 10) + "','dd/mm/yyyy') "
+                            + " and to_date(to_char(a.ngay,'dd/mm/yyyy'),'dd/mm/yyyy')"
+                            + " <=to_date('" + denngay.Text.Trim().Substring(0, 10) + "','dd/mm/yyyy') "
+                            + " and aht.id is null "
+                            + ((chkkhongtinhchenhlech.Checked) ? "" : " and a.id=i.id and a.makp=i.makp  ")
+                            + aexp;
+                        //if (hddtID.Length > 0)
+                        //    asql += "  and lower(d.sohieu) ||' - '|| to_char(a.sobienlai ) in (" + hddtID + ")";
+                        #endregion
+                        #region group by
+                        asql += " group by a.id, a.quyenso, a.sobienlai, d.sohieu, aaa.mabn"
+                            + ", aaa.hoten, aaa.namsinh, a.sotien, a.tamung, a.bhyt"
+                            + ", a.mien, e.hoten, a.ngay "
+                            + ",c.ghichu, cc.ten, ccc.ten" 
+                            + ", e.hoten ||' ('||to_char(e.userid)||')',g2.makp,g2.tenkp"
+                            + ((chkkhongtinhchenhlech.Checked) ? "" : ",i.chenhlechdv ")
+                            + ",aa.ngayvao"
+                            + ",aa.ngayra"
+                            + ",aa.maql,a.loaibn";
+                        #endregion
+                        #endregion
+
+                        #region bn phong kham(thu truc tiep)
+
+                        if (aloaibn == "" || aloaibn.IndexOf("3") > -1)
+                        {
+                            asql += " union all ";
+                            asql = asql + " select a.loaibn,to_char(a.id) id"
+                                + ", to_char(a.quyenso) quyensoid, to_char(a.sobienlai) sobienlai"
+                                + ", to_char(a.ngay,'dd/mm/yyyy') ngay, d.sohieu quyenso"
+                                //+ ", d.sohieu||' - '||to_char(a.sobienlai,'0000000') sochungtu"
+                                + ", d.sohieu||' - '||to_char(a.sobienlai) sochungtu"
+                                + ", c.ghichu, ccc.ten lydomien, cc.ten nguoikymien" 
+                                + ", '' as ghichu, '' as lydomien, '' as nguoikymien"
+                                + ", a.mabn, a.hoten, a.namsinh"
+                                + ", sum(nvl(b.soluong,0)*nvl(b.dongia,0))*" + s_tyle + "/100 sotien"
+                                + ", sum(decode(b.madoituong,1,nvl(b.mien,0),0)) bhyt"
+                                + ", nvl(c.sotien,0) mien"//, sum(nvl(b.thieu,0)) thieu"  
+                                + ", 0 as mien"
+                                + ((chkkhongtinhchenhlech.Checked) ? "" : ",0 chenhlechdv")
+                                + ",0 tamung, sum(nvl(b.soluong,0)*nvl(b.dongia,0)*" + s_tyle + "/100"
+                                + "-nvl(decode(b.madoituong,1,b.mien,0),0)-nvl(b.thieu,0)) -nvl(c.sotien,0) thucthu" 
+                                + ",0 thucchi, e.hoten nguoithu"
+                                + ",0.0 tongtamung"
+                                + ",0.0 tonghoantamung"
+                                + ",to_char(a.ngay,'dd/mm/yyyy') ngayvao"
+                                + ",to_char(a.ngay,'dd/mm/yyyy') ngayra"
+                                + ",to_char(a.maql) maql,'' doituong "
+                                + ", e.hoten ||' ('||to_char(e.userid)||')' userid "
+                                + ",i.makp,i.tenkp " + aphongkham
+
+                                + " from v_vienphill a"
+                                + " left join v_vienphict b on a.id=b.id"
+                                + " left join (" + asqlht + ") aa on a.quyenso=aa.quyenso and a.sobienlai=aa.sobienlai"
+                                + " left join v_mienngtru c on a.id=c.id"
+                                + " left join v_dsduyet cc on c.maduyet=cc.ma "
+                                + " left join v_lydomien ccc on c.lydo=ccc.id "
+                                + " left join v_quyenso d on a.quyenso=d.id"
+                                + " left join v_dlogin e on a.userid=e.id"
+                                + " left join (select id, id_loai from v_giavp union all "
+                                + "select id, nvl(id_loai,0) id_loai from (" + asqldmbd + "))"
+                                + " f on b.mavp= f.id"
+                                + " left join (select id, id_nhom from v_loaivp union all "
+                                + " select 0 id, 0 id_nhom from dual) g on f.id_loai=g.id"
+                                + " left join (select ma from v_nhomvp "
+                                + " union all select 0 from dual) h on g.id_nhom=h.ma"
+                                + " left join btdkp_bv i on b.makp=i.makp"
+
+
+                                + " where to_date(to_char(a.ngay,'dd/mm/yyyy'),'dd/mm/yyyy')"
+                                + " >=to_date('" + tungay.Text.Trim().Substring(0, 10) + "','dd/mm/yyyy') "
+                                + " and to_date(to_char(a.ngay,'dd/mm/yyyy'),'dd/mm/yyyy')"
+                                + " <=to_date('" + denngay.Text.Trim().Substring(0, 10) + "','dd/mm/yyyy') "
+                                + " and aa.id is null "
+                                + aexp;
+                            //if (hddtID.Length > 0)
+                            //    asql += "  and lower(d.sohieu) ||' - '|| to_char(a.sobienlai ) in (" + hddtID + ")";
+                            asql += " group by a.id, a.quyenso, a.sobienlai, d.sohieu"
+                            + ", a.mabn, a.hoten, a.namsinh, e.hoten"
+                            + ",a.ngay,e.hoten ||' ('||to_char(e.userid)||')'"
+                            + ",a.maql,a.ngay,i.tenkp,i.makp,a.loaibn"
+                            ;
+                        }
+                        #endregion
+
+                        asql = "select * from (" + asql + ") "
+                            + " where thucthu=0 order by quyenso asc, sobienlai asc, ngay asc"
+                            ;
+                        #endregion
+                    }

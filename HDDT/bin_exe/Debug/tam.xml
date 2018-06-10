@@ -1,0 +1,222 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="Table1">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="mabn" type="xs:string" minOccurs="0" />
+                <xs:element name="HOTEN" type="xs:string" minOccurs="0" />
+                <xs:element name="ngaysinh" type="xs:string" minOccurs="0" />
+                <xs:element name="phai" type="xs:int" default="0" minOccurs="0" />
+                <xs:element name="diachi" type="xs:string" minOccurs="0" />
+                <xs:element name="sothe" type="xs:string" minOccurs="0" />
+                <xs:element name="manoidk" type="xs:string" minOccurs="0" />
+                <xs:element name="tungay" type="xs:string" minOccurs="0" />
+                <xs:element name="denngay" type="xs:string" minOccurs="0" />
+                <xs:element name="maicd" type="xs:string" minOccurs="0" />
+                <xs:element name="maicdkt" type="xs:string" minOccurs="0" />
+                <xs:element name="lydo" type="xs:string" minOccurs="0" />
+                <xs:element name="traituyen" type="xs:int" minOccurs="0" />
+                <xs:element name="ngayvao" type="xs:string" minOccurs="0" />
+                <xs:element name="ngayra" type="xs:string" minOccurs="0" />
+                <xs:element name="songay" type="xs:int" minOccurs="0" />
+                <xs:element name="tongcong" type="xs:decimal" default="0" minOccurs="0" />
+                <xs:element name="st_1" type="xs:decimal" default="0" minOccurs="0" />
+                <xs:element name="st_2" type="xs:decimal" default="0" minOccurs="0" />
+                <xs:element name="st_3" type="xs:decimal" default="0" minOccurs="0" />
+                <xs:element name="st_4" type="xs:decimal" default="0" minOccurs="0" />
+                <xs:element name="st_5" type="xs:decimal" default="0" minOccurs="0" />
+                <xs:element name="st_6" type="xs:decimal" default="0" minOccurs="0" />
+                <xs:element name="st_7" type="xs:decimal" default="0" minOccurs="0" />
+                <xs:element name="st_8" type="xs:decimal" default="0" minOccurs="0" />
+                <xs:element name="st_9" type="xs:decimal" default="0" minOccurs="0" />
+                <xs:element name="st_10" type="xs:decimal" default="0" minOccurs="0" />
+                <xs:element name="st_11" type="xs:decimal" default="0" minOccurs="0" />
+                <xs:element name="st_12" type="xs:decimal" default="0" minOccurs="0" />
+                <xs:element name="st_13" type="xs:decimal" default="0" minOccurs="0" />
+                <xs:element name="st_14" type="xs:decimal" default="0" minOccurs="0" />
+                <xs:element name="bntra" type="xs:decimal" default="0" minOccurs="0" />
+                <xs:element name="bhyttra" type="xs:decimal" default="0" minOccurs="0" />
+                <xs:element name="makhuvuc" type="xs:string" minOccurs="0" />
+                <xs:element name="tenkp" type="xs:string" minOccurs="0" />
+                <xs:element name="t_thuoc" type="xs:decimal" default="0" minOccurs="0" />
+                <xs:element name="t_cls" type="xs:decimal" default="0" minOccurs="0" />
+                <xs:element name="tyle" type="xs:decimal" default="0" minOccurs="0" />
+                <xs:element name="makp_byt" type="xs:string" minOccurs="0" />
+                <xs:element name="maql" type="xs:decimal" default="0" minOccurs="0" />
+                <xs:element name="ngaythu" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <Table1>
+    <mabn>17053957</mabn>
+    <HOTEN>NGUYá»„N THá»Š HOáº T</HOTEN>
+    <ngaysinh>19510501</ngaysinh>
+    <phai>1</phai>
+    <diachi>D75.2-1411  Thá»‹ tráº¥n Ã‚n Thi,Huyá»‡n Ã‚n Thi,HÆ°ng YÃªn</diachi>
+    <sothe>HT3332396042708</sothe>
+    <manoidk>33050</manoidk>
+    <tungay>20180210</tungay>
+    <denngay>20201231</denngay>
+    <maicd>D75.2</maicd>
+    <lydo>1</lydo>
+    <traituyen>0</traituyen>
+    <ngayvao>201804090805</ngayvao>
+    <ngayra>201804091005</ngayra>
+    <songay>1</songay>
+    <tongcong>0</tongcong>
+    <st_1>0</st_1>
+    <st_2>0</st_2>
+    <st_3>0</st_3>
+    <st_4>0</st_4>
+    <st_5>0</st_5>
+    <st_6>0</st_6>
+    <st_7>0</st_7>
+    <st_8>0</st_8>
+    <st_9>0</st_9>
+    <st_10>0</st_10>
+    <st_11>0</st_11>
+    <st_12>0</st_12>
+    <st_13>0</st_13>
+    <st_14>0</st_14>
+    <bntra>36303</bntra>
+    <bhyttra>0</bhyttra>
+    <tenkp>PhÃ²ng KhÃ¡m Bá»‡nh</tenkp>
+    <t_thuoc>0</t_thuoc>
+    <t_cls>0</t_cls>
+    <tyle>0</tyle>
+    <makp_byt>K01</makp_byt>
+    <maql>180409080559096431</maql>
+    <ngaythu>201804091612</ngaythu>
+  </Table1>
+  <Table1>
+    <mabn>15003929</mabn>
+    <HOTEN>Äáº¶NG Sá»¸ QUYáº¾T NAM</HOTEN>
+    <ngaysinh>19930117</ngaysinh>
+    <phai>0</phai>
+    <diachi>706  XÃ£ TÃ¢n PhÃºc,Huyá»‡n Ã‚n Thi,HÆ°ng YÃªn</diachi>
+    <sothe>DN4333316030180</sothe>
+    <manoidk>33050</manoidk>
+    <tungay>20180101</tungay>
+    <denngay>20181231</denngay>
+    <maicd>C92.1</maicd>
+    <lydo>1</lydo>
+    <traituyen>0</traituyen>
+    <ngayvao>201804090730</ngayvao>
+    <ngayra>201804090930</ngayra>
+    <songay>1</songay>
+    <tongcong>0</tongcong>
+    <st_1>0</st_1>
+    <st_2>0</st_2>
+    <st_3>0</st_3>
+    <st_4>0</st_4>
+    <st_5>0</st_5>
+    <st_6>0</st_6>
+    <st_7>0</st_7>
+    <st_8>0</st_8>
+    <st_9>0</st_9>
+    <st_10>0</st_10>
+    <st_11>0</st_11>
+    <st_12>0</st_12>
+    <st_13>0</st_13>
+    <st_14>0</st_14>
+    <bntra>743962</bntra>
+    <bhyttra>0</bhyttra>
+    <tenkp>PhÃ²ng KhÃ¡m Bá»‡nh</tenkp>
+    <t_thuoc>0</t_thuoc>
+    <t_cls>0</t_cls>
+    <tyle>0</tyle>
+    <makp_byt>K01</makp_byt>
+    <maql>180409073014407003</maql>
+    <ngaythu>201804091704</ngaythu>
+  </Table1>
+  <Table1>
+    <mabn>15032864</mabn>
+    <HOTEN>PHáº M THá»Š THUáº¦N</HOTEN>
+    <ngaysinh>1981</ngaysinh>
+    <phai>1</phai>
+    <diachi>802  XÃ£ LiÃªn Há»“ng,Huyá»‡n Gia Lá»™c,Háº£i DÆ°Æ¡ng</diachi>
+    <sothe>HN2303021349260</sothe>
+    <manoidk>30172</manoidk>
+    <tungay>20180101</tungay>
+    <denngay>20181231</denngay>
+    <maicd>C92.1</maicd>
+    <lydo>1</lydo>
+    <traituyen>0</traituyen>
+    <ngayvao>201804090836</ngayvao>
+    <ngayra>201804091036</ngayra>
+    <songay>1</songay>
+    <tongcong>0</tongcong>
+    <st_1>0</st_1>
+    <st_2>0</st_2>
+    <st_3>0</st_3>
+    <st_4>0</st_4>
+    <st_5>0</st_5>
+    <st_6>0</st_6>
+    <st_7>0</st_7>
+    <st_8>0</st_8>
+    <st_9>0</st_9>
+    <st_10>0</st_10>
+    <st_11>0</st_11>
+    <st_12>0</st_12>
+    <st_13>0</st_13>
+    <st_14>0</st_14>
+    <bntra>0</bntra>
+    <bhyttra>0</bhyttra>
+    <tenkp>PhÃ²ng KhÃ¡m Bá»‡nh</tenkp>
+    <t_thuoc>0</t_thuoc>
+    <t_cls>0</t_cls>
+    <tyle>0</tyle>
+    <makp_byt>K01</makp_byt>
+    <maql>180409083706909431</maql>
+    <ngaythu>201804091616</ngaythu>
+  </Table1>
+  <Table1>
+    <mabn>14020666</mabn>
+    <HOTEN>ÄÃ€O MINH NGá»ŒC</HOTEN>
+    <ngaysinh>20120704</ngaysinh>
+    <phai>1</phai>
+    <diachi>  XÃ£ ThÆ°á»£ng CÃ¡t,Huyá»‡n Tá»« LiÃªm,HÃ  Ná»™i</diachi>
+    <sothe>TE1010120159755</sothe>
+    <manoidk>01062</manoidk>
+    <tungay>20180401</tungay>
+    <denngay>20180930</denngay>
+    <maicd>D56.1; ^^D56.1;</maicd>
+    <lydo>1</lydo>
+    <traituyen>0</traituyen>
+    <ngayvao>201804090933</ngayvao>
+    <ngayra>201804091133</ngayra>
+    <songay>1</songay>
+    <tongcong>0</tongcong>
+    <st_1>0</st_1>
+    <st_2>0</st_2>
+    <st_3>0</st_3>
+    <st_4>0</st_4>
+    <st_5>0</st_5>
+    <st_6>0</st_6>
+    <st_7>0</st_7>
+    <st_8>0</st_8>
+    <st_9>0</st_9>
+    <st_10>0</st_10>
+    <st_11>0</st_11>
+    <st_12>0</st_12>
+    <st_13>0</st_13>
+    <st_14>0</st_14>
+    <bntra>2457</bntra>
+    <bhyttra>0</bhyttra>
+    <tenkp>PhÃ²ng khÃ¡m thalassemia</tenkp>
+    <t_thuoc>0</t_thuoc>
+    <t_cls>0</t_cls>
+    <tyle>0</tyle>
+    <makp_byt>K01</makp_byt>
+    <maql>180409093350871082</maql>
+    <ngaythu>201804091603</ngaythu>
+  </Table1>
+</NewDataSet>

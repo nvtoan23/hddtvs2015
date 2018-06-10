@@ -1,0 +1,140 @@
+E:\LEARNING\HDDT\HDDT\obj\Debug\ResolveAssemblyReference.cache
+E:\LEARNING\HDDT\HDDT\obj\Debug\HDDT.csproj.GenerateResource.Cache
+E:\LEARNING\HDDT\HDDT\obj\Debug\HDDT.exe
+E:\LEARNING\HDDT\HDDT\obj\Debug\HDDT.pdb
+E:\LEARNING\HDDT\HDDT\bin\Debug\HDDT.exe
+E:\LEARNING\HDDT\HDDT\bin\Debug\HDDT.pdb
+E:\LEARNING\HDDT\HDDT\bin\Debug\libSin.dll
+E:\LEARNING\HDDT\HDDT\bin\Debug\Npgsql.dll
+E:\LEARNING\HDDT\HDDT\bin\Debug\Mono.Security.dll
+E:\LEARNING\HDDT\HDDT\bin\Debug\libSin.pdb
+E:\LEARNING\HDDT\HDDT\obj\Debug\HDDT.frmMain.resources
+E:\LEARNING\HDDT\HDDT\obj\Debug\HDDT.Properties.Resources.resources
+E:\LEARNING\TS24\HDDT\HDDT\obj\Debug\HDDT.exe
+E:\LEARNING\TS24\HDDT\HDDT\obj\Debug\HDDT.pdb
+E:\LEARNING\TS24\HDDT\HDDT\bin\Debug\HDDT.exe
+E:\LEARNING\TS24\HDDT\HDDT\bin\Debug\HDDT.pdb
+E:\LEARNING\TS24\HDDT\HDDT\bin\Debug\libSin.dll
+E:\LEARNING\TS24\HDDT\HDDT\bin\Debug\Npgsql.dll
+E:\LEARNING\TS24\HDDT\HDDT\bin\Debug\Mono.Security.dll
+E:\LEARNING\TS24\HDDT\HDDT\bin\Debug\libSin.pdb
+E:\LEARNING\TS24\HDDT\HDDT\obj\Debug\ResolveAssemblyReference.cache
+E:\LEARNING\TS24\HDDT\HDDT\obj\Debug\HDDT.frmMain.resources
+E:\LEARNING\TS24\HDDT\HDDT\obj\Debug\HDDT.Properties.Resources.resources
+E:\LEARNING\TS24\HDDT\HDDT\obj\Debug\HDDT.csproj.GenerateResource.Cache
+E:\LEARNING\TS24\HDDT\HDDT\obj\Debug\HDDT.Form1.resources
+E:\LEARNING\TONA\TS24\HDDT\HDDT\obj\Debug\HDDT.exe
+E:\LEARNING\TONA\TS24\HDDT\HDDT\obj\Debug\HDDT.pdb
+E:\LEARNING\TONA\TS24\HDDT\HDDT\obj\Debug\ResolveAssemblyReference.cache
+E:\LEARNING\TONA\TS24\HDDT\HDDT\obj\Debug\HDDT.frmMain.resources
+E:\LEARNING\TONA\TS24\HDDT\HDDT\obj\Debug\HDDT.Properties.Resources.resources
+E:\LEARNING\TONA\TS24\HDDT\HDDT\obj\Debug\HDDT.csproj.GenerateResource.Cache
+E:\LEARNING\TONA\TS24\HDDT\HDDT\bin\Debug\HDDT.exe
+E:\LEARNING\TONA\TS24\HDDT\HDDT\bin\Debug\HDDT.pdb
+E:\LEARNING\TONA\TS24\HDDT\HDDT\bin\Debug\libSin.dll
+E:\LEARNING\TONA\TS24\HDDT\HDDT\bin\Debug\Npgsql.dll
+E:\LEARNING\TONA\TS24\HDDT\HDDT\bin\Debug\Mono.Security.dll
+E:\LEARNING\TONA\TS24\HDDT\HDDT\bin\Debug\libSin.pdb
+E:\LEARNING\TONA\TS24\HDDT\HDDT\obj\Debug\HDDT.FormAsynTask.resources
+E:\LEARNING\TONA\TS24\HDDT\HDDT_trc khi Async\HDDT\obj\Debug\HDDT.exe
+E:\LEARNING\TONA\TS24\HDDT\HDDT_trc khi Async\HDDT\obj\Debug\HDDT.pdb
+E:\LEARNING\TONA\TS24\HDDT\HDDT_trc khi Async\HDDT\obj\Debug\ResolveAssemblyReference.cache
+E:\LEARNING\TONA\TS24\HDDT\HDDT_trc khi Async\HDDT\obj\Debug\HDDT.FormAsynTask.resources
+E:\LEARNING\TONA\TS24\HDDT\HDDT_trc khi Async\HDDT\obj\Debug\HDDT.frmMain.resources
+E:\LEARNING\TONA\TS24\HDDT\HDDT_trc khi Async\HDDT\obj\Debug\HDDT.Properties.Resources.resources
+E:\LEARNING\TONA\TS24\HDDT\HDDT_trc khi Async\HDDT\obj\Debug\HDDT.csproj.GenerateResource.Cache
+E:\LEARNING\TONA\TS24\HDDT\HDDT_trc khi Async\HDDT\bin\Debug\HDDT.exe
+E:\LEARNING\TONA\TS24\HDDT\HDDT_trc khi Async\HDDT\bin\Debug\HDDT.pdb
+E:\LEARNING\TONA\TS24\HDDT\HDDT_trc khi Async\HDDT\bin\Debug\libSin.dll
+E:\LEARNING\TONA\TS24\HDDT\HDDT_trc khi Async\HDDT\bin\Debug\Npgsql.dll
+E:\LEARNING\TONA\TS24\HDDT\HDDT_trc khi Async\HDDT\bin\Debug\Mono.Security.dll
+E:\LEARNING\TONA\TS24\HDDT\HDDT_trc khi Async\HDDT\bin\Debug\libSin.pdb
+C:\Users\nvtoan\Desktop\HDDT_9i\HDDT\HDDT\HDDT\bin\Debug\HDDT.exe
+C:\Users\nvtoan\Desktop\HDDT_9i\HDDT\HDDT\HDDT\bin\Debug\HDDT.pdb
+C:\Users\nvtoan\Desktop\HDDT_9i\HDDT\HDDT\HDDT\bin\Debug\LibMedi.dll
+C:\Users\nvtoan\Desktop\HDDT_9i\HDDT\HDDT\HDDT\bin\Debug\ConfigConnect.dll
+C:\Users\nvtoan\Desktop\HDDT_9i\HDDT\HDDT\HDDT\bin\Debug\ThongSoData.dll
+C:\Users\nvtoan\Desktop\HDDT_9i\HDDT\HDDT\HDDT\bin\Debug\ThongSoData.pdb
+C:\Users\nvtoan\Desktop\HDDT_9i\HDDT\HDDT\HDDT\bin\Debug\LibMedi.pdb
+C:\Users\nvtoan\Desktop\HDDT_9i\HDDT\HDDT\HDDT\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\nvtoan\Desktop\HDDT_9i\HDDT\HDDT\HDDT\obj\Debug\HDDT.FormAsynTask.resources
+C:\Users\nvtoan\Desktop\HDDT_9i\HDDT\HDDT\HDDT\obj\Debug\HDDT.frmMain.resources
+C:\Users\nvtoan\Desktop\HDDT_9i\HDDT\HDDT\HDDT\obj\Debug\HDDT.Properties.Resources.resources
+C:\Users\nvtoan\Desktop\HDDT_9i\HDDT\HDDT\HDDT\obj\Debug\HDDT.csproj.GenerateResource.Cache
+C:\Users\nvtoan\Desktop\HDDT_9i\HDDT\HDDT\HDDT\obj\Debug\HDDT.exe
+C:\Users\nvtoan\Desktop\HDDT_9i\HDDT\HDDT\HDDT\obj\Debug\HDDT.pdb
+D:\HDDT_9i\HDDT\HDDT\HDDT\obj\Debug\HDDT.exe
+D:\HDDT_9i\HDDT\HDDT\HDDT\obj\Debug\HDDT.pdb
+D:\HDDT_9i\HDDT\HDDT\HDDT\bin\Debug\HDDT.exe
+D:\HDDT_9i\HDDT\HDDT\HDDT\bin\Debug\HDDT.pdb
+D:\HDDT_9i\HDDT\HDDT\HDDT\bin\Debug\LibMedi.dll
+D:\HDDT_9i\HDDT\HDDT\HDDT\bin\Debug\ConfigConnect.dll
+D:\HDDT_9i\HDDT\HDDT\HDDT\bin\Debug\ThongSoData.dll
+D:\HDDT_9i\HDDT\HDDT\HDDT\bin\Debug\ThongSoData.pdb
+D:\HDDT_9i\HDDT\HDDT\HDDT\bin\Debug\LibMedi.pdb
+D:\HDDT_9i\HDDT\HDDT\HDDT\obj\Debug\ResolveAssemblyReference.cache
+D:\HDDT_9i\HDDT\HDDT\HDDT\obj\Debug\HDDT.FormAsynTask.resources
+D:\HDDT_9i\HDDT\HDDT\HDDT\obj\Debug\HDDT.frmMain.resources
+D:\HDDT_9i\HDDT\HDDT\HDDT\obj\Debug\HDDT.Properties.Resources.resources
+D:\HDDT_9i\HDDT\HDDT\HDDT\obj\Debug\HDDT.csproj.GenerateResource.Cache
+D:\HDDT_9i\HDDT\HDDT\obj\Debug\HDDT.exe
+D:\HDDT_9i\HDDT\HDDT\obj\Debug\HDDT.pdb
+D:\HDDT_9i\HDDT\HDDT\obj\Debug\ResolveAssemblyReference.cache
+D:\HDDT_9i\HDDT\HDDT\obj\Debug\HDDT.FormAsynTask.resources
+D:\HDDT_9i\HDDT\HDDT\obj\Debug\HDDT.frmMain.resources
+D:\HDDT_9i\HDDT\HDDT\obj\Debug\HDDT.Properties.Resources.resources
+D:\HDDT_9i\HDDT\HDDT\obj\Debug\HDDT.csproj.GenerateResource.Cache
+D:\HDDT_9i\HDDT\HDDT\bin\Debug\HDDT.exe
+D:\HDDT_9i\HDDT\HDDT\bin\Debug\HDDT.pdb
+D:\HDDT_9i\HDDT\HDDT\bin\Debug\LibMedi.dll
+D:\HDDT_9i\HDDT\HDDT\bin\Debug\ConfigConnect.dll
+D:\HDDT_9i\HDDT\HDDT\bin\Debug\ThongSoData.dll
+D:\HDDT_9i\HDDT\HDDT\bin\Debug\ThongSoData.pdb
+D:\HDDT_9i\HDDT\HDDT\bin\Debug\LibMedi.pdb
+D:\HDDT_9i\HDDT\HDDT\obj\Debug\HDDT.Form1.resources
+F:\HDDT\HDDT\HDDT\obj\Debug\HDDT.exe
+F:\HDDT\HDDT\HDDT\obj\Debug\HDDT.pdb
+F:\HDDT\HDDT\HDDT\bin\Debug\HDDT.exe
+F:\HDDT\HDDT\HDDT\bin\Debug\HDDT.pdb
+F:\HDDT\HDDT\HDDT\bin\Debug\LibMedi.dll
+F:\HDDT\HDDT\HDDT\bin\Debug\ConfigConnect.dll
+F:\HDDT\HDDT\HDDT\bin\Debug\ThongSoData.dll
+F:\HDDT\HDDT\HDDT\bin\Debug\ThongSoData.pdb
+F:\HDDT\HDDT\HDDT\bin\Debug\LibMedi.pdb
+F:\HDDT\HDDT\HDDT\obj\Debug\ResolveAssemblyReference.cache
+F:\HDDT\HDDT\HDDT\obj\Debug\HDDT.Form1.resources
+F:\HDDT\HDDT\HDDT\obj\Debug\HDDT.FormAsynTask.resources
+F:\HDDT\HDDT\HDDT\obj\Debug\HDDT.frmMain.resources
+F:\HDDT\HDDT\HDDT\obj\Debug\HDDT.Properties.Resources.resources
+F:\HDDT\HDDT\HDDT\obj\Debug\HDDT.csproj.GenerateResource.Cache
+D:\new\HDDT\HDDT\obj\Debug\HDDT.exe
+D:\new\HDDT\HDDT\obj\Debug\HDDT.pdb
+D:\new\HDDT\HDDT\bin\Debug\HDDT.exe
+D:\new\HDDT\HDDT\bin\Debug\HDDT.pdb
+D:\new\HDDT\HDDT\bin\Debug\LibMedi.dll
+D:\new\HDDT\HDDT\bin\Debug\ConfigConnect.dll
+D:\new\HDDT\HDDT\bin\Debug\ThongSoData.dll
+D:\new\HDDT\HDDT\bin\Debug\ThongSoData.pdb
+D:\new\HDDT\HDDT\bin\Debug\LibMedi.pdb
+D:\new\HDDT\HDDT\obj\Debug\ResolveAssemblyReference.cache
+D:\new\HDDT\HDDT\obj\Debug\HDDT.Form1.resources
+D:\new\HDDT\HDDT\obj\Debug\HDDT.FormAsynTask.resources
+D:\new\HDDT\HDDT\obj\Debug\HDDT.frmMain.resources
+D:\new\HDDT\HDDT\obj\Debug\HDDT.Properties.Resources.resources
+D:\new\HDDT\HDDT\obj\Debug\HDDT.csproj.GenerateResource.Cache
+C:\Users\nvtoan\Downloads\HDDT_Final\HDDT\HDDT\obj\Debug\HDDT.exe
+C:\Users\nvtoan\Downloads\HDDT_Final\HDDT\HDDT\obj\Debug\HDDT.pdb
+C:\Users\nvtoan\Downloads\HDDT_Final\HDDT\HDDT\bin\Debug\HDDT.exe
+C:\Users\nvtoan\Downloads\HDDT_Final\HDDT\HDDT\bin\Debug\HDDT.pdb
+C:\Users\nvtoan\Downloads\HDDT_Final\HDDT\HDDT\bin\Debug\LibMedi.dll
+C:\Users\nvtoan\Downloads\HDDT_Final\HDDT\HDDT\bin\Debug\ConfigConnect.dll
+C:\Users\nvtoan\Downloads\HDDT_Final\HDDT\HDDT\bin\Debug\ThongSoData.dll
+C:\Users\nvtoan\Downloads\HDDT_Final\HDDT\HDDT\bin\Debug\ThongSoData.pdb
+C:\Users\nvtoan\Downloads\HDDT_Final\HDDT\HDDT\bin\Debug\LibMedi.pdb
+C:\Users\nvtoan\Downloads\HDDT_Final\HDDT\HDDT\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\nvtoan\Downloads\HDDT_Final\HDDT\HDDT\obj\Debug\HDDT.Form1.resources
+C:\Users\nvtoan\Downloads\HDDT_Final\HDDT\HDDT\obj\Debug\HDDT.FormAsynTask.resources
+C:\Users\nvtoan\Downloads\HDDT_Final\HDDT\HDDT\obj\Debug\HDDT.frmMain.resources
+C:\Users\nvtoan\Downloads\HDDT_Final\HDDT\HDDT\obj\Debug\HDDT.Properties.Resources.resources
+C:\Users\nvtoan\Downloads\HDDT_Final\HDDT\HDDT\obj\Debug\HDDT.csproj.GenerateResource.Cache
+C:\Users\nvtoan\Downloads\HDDT_Final\HDDT\HDDT\bin\Debug\MySql.Data.dll

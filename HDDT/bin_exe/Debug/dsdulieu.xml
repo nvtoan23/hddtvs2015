@@ -1,0 +1,259 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true">
+      <xs:complexType>
+        <xs:choice maxOccurs="unbounded">
+          <xs:element name="Table">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="LOAIBN" type="xs:decimal" minOccurs="0" />
+                <xs:element name="IDVP" type="xs:decimal" minOccurs="0" />
+                <xs:element name="MAVP" type="xs:string" minOccurs="0" />
+                <xs:element name="TEN" type="xs:string" minOccurs="0" />
+                <xs:element name="DVT" type="xs:string" minOccurs="0" />
+                <xs:element name="DONGIA" type="xs:decimal" minOccurs="0" />
+                <xs:element name="MANHOMBHYT" type="xs:string" minOccurs="0" />
+                <xs:element name="DONVI" type="xs:string" minOccurs="0" />
+                <xs:element name="TENHC" type="xs:string" minOccurs="0" />
+                <xs:element name="HAMLUONG" type="xs:string" minOccurs="0" />
+                <xs:element name="DUONGDUNG" type="xs:string" minOccurs="0" />
+                <xs:element name="SODK" type="xs:string" minOccurs="0" />
+                <xs:element name="LIEULUONG" type="xs:string" minOccurs="0" />
+                <xs:element name="NHOMBHYT" type="xs:decimal" minOccurs="0" />
+                <xs:element name="MAVATTU" type="xs:string" minOccurs="0" />
+                <xs:element name="MASOBYT" type="xs:string" minOccurs="0" />
+                <xs:element name="TENBYT" type="xs:string" minOccurs="0" />
+                <xs:element name="SOLUONG" type="xs:decimal" minOccurs="0" />
+                <xs:element name="SOTIEN" type="xs:decimal" minOccurs="0" />
+                <xs:element name="SOTIEN1" type="xs:decimal" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <Table>
+    <LOAIBN>3</LOAIBN>
+    <IDVP>1341</IDVP>
+    <MAVP>DAY002</MAVP>
+    <TEN>Dây truyền máu</TEN>
+    <DVT>Bộ</DVT>
+    <DONGIA>26880</DONGIA>
+    <MANHOMBHYT>10</MANHOMBHYT>
+    <DONVI>50 bộ/hộp</DONVI>
+    <NHOMBHYT>6</NHOMBHYT>
+    <MASOBYT>N03.05.030</MASOBYT>
+    <TENBYT>Dây dẫn, dây truyền máu, truyền chế phẩm máu các loại, các cỡ</TENBYT>
+    <SOLUONG>50</SOLUONG>
+    <SOTIEN>1344000</SOTIEN>
+    <SOTIEN1>1344000</SOTIEN1>
+  </Table>
+  <Table>
+    <LOAIBN>3</LOAIBN>
+    <IDVP>33312</IDVP>
+    <MAVP>PLHCLB</MAVP>
+    <TEN>Phin lọc bạch cầu truyền hồng cầu (Labo)</TEN>
+    <DVT>Cái</DVT>
+    <DONGIA>556500</DONGIA>
+    <MANHOMBHYT>10</MANHOMBHYT>
+    <DONVI>Cái</DONVI>
+    <NHOMBHYT>6</NHOMBHYT>
+    <MASOBYT>	N07.07.040</MASOBYT>
+    <TENBYT>	Phin lọc bạch cầu</TENBYT>
+    <SOLUONG>2</SOLUONG>
+    <SOTIEN>1113000</SOTIEN>
+    <SOTIEN1>1113000</SOTIEN1>
+  </Table>
+  <Table>
+    <LOAIBN>3</LOAIBN>
+    <IDVP>28656</IDVP>
+    <MAVP>NCK001</MAVP>
+    <TEN>Nút chặn kim luồn </TEN>
+    <DVT>Chiếc</DVT>
+    <DONGIA>2700</DONGIA>
+    <MANHOMBHYT>10</MANHOMBHYT>
+    <DONVI>Chiếc</DONVI>
+    <NHOMBHYT>6</NHOMBHYT>
+    <MASOBYT>N03.02.090</MASOBYT>
+    <TENBYT>Nút chặn kim luồn</TENBYT>
+    <SOLUONG>1</SOLUONG>
+    <SOTIEN>2700</SOTIEN>
+    <SOTIEN1>2700</SOTIEN1>
+  </Table>
+  <Table>
+    <LOAIBN>2</LOAIBN>
+    <IDVP>24532</IDVP>
+    <MAVP>KIM023</MAVP>
+    <TEN>Kim luồn Catheter - Terumo</TEN>
+    <DVT>Cái</DVT>
+    <DONGIA>8400</DONGIA>
+    <MANHOMBHYT>10</MANHOMBHYT>
+    <DONVI>Cái</DONVI>
+    <NHOMBHYT>6</NHOMBHYT>
+    <MASOBYT>N03.02.070</MASOBYT>
+    <TENBYT>Kim luồn mạch máu các loại các cỡ</TENBYT>
+    <SOLUONG>578</SOLUONG>
+    <SOTIEN>4855200</SOTIEN>
+    <SOTIEN1>4855200</SOTIEN1>
+  </Table>
+  <Table>
+    <LOAIBN>2</LOAIBN>
+    <IDVP>1341</IDVP>
+    <MAVP>DAY002</MAVP>
+    <TEN>Dây truyền máu</TEN>
+    <DVT>Bộ</DVT>
+    <DONGIA>26880</DONGIA>
+    <MANHOMBHYT>10</MANHOMBHYT>
+    <DONVI>50 bộ/hộp</DONVI>
+    <NHOMBHYT>6</NHOMBHYT>
+    <MASOBYT>N03.05.030</MASOBYT>
+    <TENBYT>Dây dẫn, dây truyền máu, truyền chế phẩm máu các loại, các cỡ</TENBYT>
+    <SOLUONG>555</SOLUONG>
+    <SOTIEN>14918400</SOTIEN>
+    <SOTIEN1>14918400</SOTIEN1>
+  </Table>
+  <Table>
+    <LOAIBN>3</LOAIBN>
+    <IDVP>1329</IDVP>
+    <MAVP>BOM002</MAVP>
+    <TEN>Bơm tiêm nhựa dùng 1 lần 10ml</TEN>
+    <DVT>Cái</DVT>
+    <DONGIA>905</DONGIA>
+    <MANHOMBHYT>10</MANHOMBHYT>
+    <DONVI>100 chiếc/hộp</DONVI>
+    <NHOMBHYT>6</NHOMBHYT>
+    <MASOBYT>N03.01.020</MASOBYT>
+    <TENBYT>Bơm tiêm (syringe) dùng một lần các loại, các cỡ</TENBYT>
+    <SOLUONG>20</SOLUONG>
+    <SOTIEN>18100</SOTIEN>
+    <SOTIEN1>18100</SOTIEN1>
+  </Table>
+  <Table>
+    <LOAIBN>2</LOAIBN>
+    <IDVP>1389</IDVP>
+    <MAVP>KIM005.</MAVP>
+    <TEN>Kim cánh  bướm</TEN>
+    <DVT>Cái</DVT>
+    <DONGIA>980</DONGIA>
+    <MANHOMBHYT>10</MANHOMBHYT>
+    <NHOMBHYT>6</NHOMBHYT>
+    <MASOBYT>N03.02.020</MASOBYT>
+    <TENBYT>Kim cánh bướm các loại, các cỡ</TENBYT>
+    <SOLUONG>519</SOLUONG>
+    <SOTIEN>508620</SOTIEN>
+    <SOTIEN1>508620</SOTIEN1>
+  </Table>
+  <Table>
+    <LOAIBN>3</LOAIBN>
+    <IDVP>25840</IDVP>
+    <MAVP>KIM025</MAVP>
+    <TEN>Kim chọc hút tủy xương một lần </TEN>
+    <DVT>Cái</DVT>
+    <DONGIA>185000</DONGIA>
+    <MANHOMBHYT>10</MANHOMBHYT>
+    <DONVI>Cái</DONVI>
+    <NHOMBHYT>6</NHOMBHYT>
+    <MASOBYT>N03.03.030</MASOBYT>
+    <TENBYT>Kim chọc hút tủy xương</TENBYT>
+    <SOLUONG>1</SOLUONG>
+    <SOTIEN>185000</SOTIEN>
+    <SOTIEN1>185000</SOTIEN1>
+  </Table>
+  <Table>
+    <LOAIBN>3</LOAIBN>
+    <IDVP>24532</IDVP>
+    <MAVP>KIM023</MAVP>
+    <TEN>Kim luồn Catheter - Terumo</TEN>
+    <DVT>Cái</DVT>
+    <DONGIA>8400</DONGIA>
+    <MANHOMBHYT>10</MANHOMBHYT>
+    <DONVI>Cái</DONVI>
+    <NHOMBHYT>6</NHOMBHYT>
+    <MASOBYT>N03.02.070</MASOBYT>
+    <TENBYT>Kim luồn mạch máu các loại các cỡ</TENBYT>
+    <SOLUONG>51</SOLUONG>
+    <SOTIEN>428400</SOTIEN>
+    <SOTIEN1>428400</SOTIEN1>
+  </Table>
+  <Table>
+    <LOAIBN>2</LOAIBN>
+    <IDVP>1329</IDVP>
+    <MAVP>BOM002</MAVP>
+    <TEN>Bơm tiêm nhựa dùng 1 lần 10ml</TEN>
+    <DVT>Cái</DVT>
+    <DONGIA>905</DONGIA>
+    <MANHOMBHYT>10</MANHOMBHYT>
+    <DONVI>100 chiếc/hộp</DONVI>
+    <NHOMBHYT>6</NHOMBHYT>
+    <MASOBYT>N03.01.020</MASOBYT>
+    <TENBYT>Bơm tiêm (syringe) dùng một lần các loại, các cỡ</TENBYT>
+    <SOLUONG>767</SOLUONG>
+    <SOTIEN>694135</SOTIEN>
+    <SOTIEN1>694135</SOTIEN1>
+  </Table>
+  <Table>
+    <LOAIBN>2</LOAIBN>
+    <IDVP>1328</IDVP>
+    <MAVP>BOM001</MAVP>
+    <TEN>Bơm tiêm nhựa dùng 1 lần 5ml</TEN>
+    <DVT>Cái</DVT>
+    <DONGIA>613</DONGIA>
+    <MANHOMBHYT>10</MANHOMBHYT>
+    <DONVI>100</DONVI>
+    <NHOMBHYT>6</NHOMBHYT>
+    <MASOBYT>N03.01.020</MASOBYT>
+    <TENBYT>Bơm tiêm (syringe) dùng một lần các loại, các cỡ</TENBYT>
+    <SOLUONG>10</SOLUONG>
+    <SOTIEN>6130</SOTIEN>
+    <SOTIEN1>6130</SOTIEN1>
+  </Table>
+  <Table>
+    <LOAIBN>2</LOAIBN>
+    <IDVP>33312</IDVP>
+    <MAVP>PLHCLB</MAVP>
+    <TEN>Phin lọc bạch cầu truyền hồng cầu (Labo)</TEN>
+    <DVT>Cái</DVT>
+    <DONGIA>556500</DONGIA>
+    <MANHOMBHYT>10</MANHOMBHYT>
+    <DONVI>Cái</DONVI>
+    <NHOMBHYT>6</NHOMBHYT>
+    <MASOBYT>	N07.07.040</MASOBYT>
+    <TENBYT>	Phin lọc bạch cầu</TENBYT>
+    <SOLUONG>16</SOLUONG>
+    <SOTIEN>8904000</SOTIEN>
+    <SOTIEN1>8904000</SOTIEN1>
+  </Table>
+  <Table>
+    <LOAIBN>3</LOAIBN>
+    <IDVP>1389</IDVP>
+    <MAVP>KIM005.</MAVP>
+    <TEN>Kim cánh  bướm</TEN>
+    <DVT>Cái</DVT>
+    <DONGIA>980</DONGIA>
+    <MANHOMBHYT>10</MANHOMBHYT>
+    <NHOMBHYT>6</NHOMBHYT>
+    <MASOBYT>N03.02.020</MASOBYT>
+    <TENBYT>Kim cánh bướm các loại, các cỡ</TENBYT>
+    <SOLUONG>15</SOLUONG>
+    <SOTIEN>14700</SOTIEN>
+    <SOTIEN1>14700</SOTIEN1>
+  </Table>
+  <Table>
+    <LOAIBN>3</LOAIBN>
+    <IDVP>25841</IDVP>
+    <MAVP>KIM026</MAVP>
+    <TEN>Kim sinh thiết tủy xương một lần</TEN>
+    <DVT>Cái</DVT>
+    <DONGIA>273000</DONGIA>
+    <MANHOMBHYT>10</MANHOMBHYT>
+    <DONVI>Cái</DONVI>
+    <NHOMBHYT>6</NHOMBHYT>
+    <MASOBYT>N03.03.090</MASOBYT>
+    <TENBYT>Kim sinh thiết dùng một lần</TENBYT>
+    <SOLUONG>1</SOLUONG>
+    <SOTIEN>273000</SOTIEN>
+    <SOTIEN1>273000</SOTIEN1>
+  </Table>
+</NewDataSet>

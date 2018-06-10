@@ -1,0 +1,1896 @@
+-------------------------- 14/07/2017 15:47
+System.ArgumentOutOfRangeException: Index and length must refer to a location within the string.
+Parameter name: length
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at BaocaoBHYT.frmxuatxml.f_get_xuat_ngoaitru_cv324moi(String tungay, String denngay)
+-------------------------- 18/07/2017 16:28
+System.ArgumentOutOfRangeException: Index and length must refer to a location within the string.
+Parameter name: length
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at BaocaoBHYT.frmxuatxml.f_get_xuat_ngoaitru_cv324moi(String tungay, String denngay)
+-------------------------- 18/07/2017 16:59
+System.ArgumentOutOfRangeException: Index and length must refer to a location within the string.
+Parameter name: length
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at BaocaoBHYT.frmxuatxml.f_get_xuat_ngoaitru_cv324moi(String tungay, String denngay)
+-------------------------- 18/07/2017 18:38
+System.ArgumentOutOfRangeException: Index and length must refer to a location within the string.
+Parameter name: length
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at BaocaoBHYT.frmxuatxml.f_get_xuat_ngoaitru_cv324moi(String tungay, String denngay)
+-------------------------- 18/07/2017 18:38
+System.ArgumentOutOfRangeException: Index and length must refer to a location within the string.
+Parameter name: length
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at BaocaoBHYT.frmxuatxml.f_get_xuat_ngoaitru_cv324moi(String tungay, String denngay)
+-------------------------- 19/07/2017 15:14
+System.ArgumentOutOfRangeException: Index and length must refer to a location within the string.
+Parameter name: length
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at BaocaoBHYT.frmxuatxml.f_get_xuat_ngoaitru_cv324moi(String tungay, String denngay)
+-------------------------- 24/07/2017 08:12
+System.ArgumentOutOfRangeException: Index and length must refer to a location within the string.
+Parameter name: length
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at BaocaoBHYT.frmxuatxml.f_get_xuat_ngoaitru_cv324moi(String tungay, String denngay)
+-------------------------- 24/07/2017 10:28
+System.ArgumentOutOfRangeException: Index and length must refer to a location within the string.
+Parameter name: length
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at BaocaoBHYT.frmxuatxml.f_get_xuat_ngoaitru_cv324moi(String tungay, String denngay)
+-------------------------------------
+30/10/2017 15:36:58
+duong dan file glivec: System.ArgumentException: The path is not of a legal form.
+   at System.IO.Path.nGetFullPathHelper(String path, Char[] invalidPathChars, Char[] whitespaceChars, Char directorySeparator, Char altDirectorySeparator, Boolean fullCheck, String& newPath)
+   at System.IO.Path.GetFullPathInternal(String path)
+   at System.IO.Directory.GetFiles(String path, String searchPattern)
+   at System.IO.Directory.GetFiles(String path)
+   at BaocaoBHYT.frmthongsocv324.f_get_thuocGlivec()
+-------------------------------------
+30/10/2017 15:37:21
+duong dan file glivec: System.ArgumentException: The path is not of a legal form.
+   at System.IO.Path.nGetFullPathHelper(String path, Char[] invalidPathChars, Char[] whitespaceChars, Char directorySeparator, Char altDirectorySeparator, Boolean fullCheck, String& newPath)
+   at System.IO.Path.GetFullPathInternal(String path)
+   at System.IO.Directory.GetFiles(String path, String searchPattern)
+   at System.IO.Directory.GetFiles(String path)
+   at BaocaoBHYT.frmthongsocv324.f_get_thuocGlivec()
+-------------------------------------
+30/10/2017 15:39:39
+duong dan file glivec: System.ArgumentException: The path is not of a legal form.
+   at System.IO.Path.nGetFullPathHelper(String path, Char[] invalidPathChars, Char[] whitespaceChars, Char directorySeparator, Char altDirectorySeparator, Boolean fullCheck, String& newPath)
+   at System.IO.Path.GetFullPathInternal(String path)
+   at System.IO.Directory.GetFiles(String path, String searchPattern)
+   at System.IO.Directory.GetFiles(String path)
+   at BaocaoBHYT.frmthongsocv324.f_get_thuocGlivec()
+-------------------------------------
+30/10/2017 15:40:28
+copy file glivec: System.Data.OracleClient.OracleException: ORA-00942: table or view does not exist
+
+   at System.Data.OracleClient.OracleConnection.CheckError(OciHandle errorHandle, Int32 rc)
+   at System.Data.OracleClient.OracleCommand.Execute(OciHandle statementHandle, CommandBehavior behavior, Boolean isReader, Boolean needRowid, OciHandle& rowidDescriptor, ArrayList& refCursorParameterOrdinals)
+   at System.Data.OracleClient.OracleCommand.Execute(OciHandle statementHandle, CommandBehavior behavior, Boolean needRowid, OciHandle& rowidDescriptor)
+   at System.Data.OracleClient.OracleCommand.ExecuteNonQueryInternal(Boolean needRowid, OciHandle& rowidDescriptor)
+   at System.Data.OracleClient.OracleCommand.ExecuteNonQuery()
+   at dllbhyt.LibClass.upd_xuatsd_glivec(String mabn, Int32 mabd, Decimal soluong, Decimal dongia, String makp_bhyt, String manhom_bhyt, String ngay)
+   at BaocaoBHYT.frmthongsocv324.f_get_thuocGlivec()
+-------------------------------------
+30/10/2017 15:40:28
+copy file glivec: System.Data.OracleClient.OracleException: ORA-00942: table or view does not exist
+
+   at System.Data.OracleClient.OracleConnection.CheckError(OciHandle errorHandle, Int32 rc)
+   at System.Data.OracleClient.OracleCommand.Execute(OciHandle statementHandle, CommandBehavior behavior, Boolean isReader, Boolean needRowid, OciHandle& rowidDescriptor, ArrayList& refCursorParameterOrdinals)
+   at System.Data.OracleClient.OracleCommand.Execute(OciHandle statementHandle, CommandBehavior behavior, Boolean needRowid, OciHandle& rowidDescriptor)
+   at System.Data.OracleClient.OracleCommand.ExecuteNonQueryInternal(Boolean needRowid, OciHandle& rowidDescriptor)
+   at System.Data.OracleClient.OracleCommand.ExecuteNonQuery()
+   at dllbhyt.LibClass.upd_xuatsd_glivec(String mabn, Int32 mabd, Decimal soluong, Decimal dongia, String makp_bhyt, String manhom_bhyt, String ngay)
+   at BaocaoBHYT.frmthongsocv324.f_get_thuocGlivec()
+-------------------------------------
+30/10/2017 15:40:28
+copy file glivec: System.Data.OracleClient.OracleException: ORA-00942: table or view does not exist
+
+   at System.Data.OracleClient.OracleConnection.CheckError(OciHandle errorHandle, Int32 rc)
+   at System.Data.OracleClient.OracleCommand.Execute(OciHandle statementHandle, CommandBehavior behavior, Boolean isReader, Boolean needRowid, OciHandle& rowidDescriptor, ArrayList& refCursorParameterOrdinals)
+   at System.Data.OracleClient.OracleCommand.Execute(OciHandle statementHandle, CommandBehavior behavior, Boolean needRowid, OciHandle& rowidDescriptor)
+   at System.Data.OracleClient.OracleCommand.ExecuteNonQueryInternal(Boolean needRowid, OciHandle& rowidDescriptor)
+   at System.Data.OracleClient.OracleCommand.ExecuteNonQuery()
+   at dllbhyt.LibClass.upd_xuatsd_glivec(String mabn, Int32 mabd, Decimal soluong, Decimal dongia, String makp_bhyt, String manhom_bhyt, String ngay)
+   at BaocaoBHYT.frmthongsocv324.f_get_thuocGlivec()
+-------------------------------------
+30/10/2017 15:40:28
+copy file glivec: System.Data.OracleClient.OracleException: ORA-00942: table or view does not exist
+
+   at System.Data.OracleClient.OracleConnection.CheckError(OciHandle errorHandle, Int32 rc)
+   at System.Data.OracleClient.OracleCommand.Execute(OciHandle statementHandle, CommandBehavior behavior, Boolean isReader, Boolean needRowid, OciHandle& rowidDescriptor, ArrayList& refCursorParameterOrdinals)
+   at System.Data.OracleClient.OracleCommand.Execute(OciHandle statementHandle, CommandBehavior behavior, Boolean needRowid, OciHandle& rowidDescriptor)
+   at System.Data.OracleClient.OracleCommand.ExecuteNonQueryInternal(Boolean needRowid, OciHandle& rowidDescriptor)
+   at System.Data.OracleClient.OracleCommand.ExecuteNonQuery()
+   at dllbhyt.LibClass.upd_xuatsd_glivec(String mabn, Int32 mabd, Decimal soluong, Decimal dongia, String makp_bhyt, String manhom_bhyt, String ngay)
+   at BaocaoBHYT.frmthongsocv324.f_get_thuocGlivec()
+-------------------------------------
+30/10/2017 15:40:28
+copy file glivec: System.Data.OracleClient.OracleException: ORA-00942: table or view does not exist
+
+   at System.Data.OracleClient.OracleConnection.CheckError(OciHandle errorHandle, Int32 rc)
+   at System.Data.OracleClient.OracleCommand.Execute(OciHandle statementHandle, CommandBehavior behavior, Boolean isReader, Boolean needRowid, OciHandle& rowidDescriptor, ArrayList& refCursorParameterOrdinals)
+   at System.Data.OracleClient.OracleCommand.Execute(OciHandle statementHandle, CommandBehavior behavior, Boolean needRowid, OciHandle& rowidDescriptor)
+   at System.Data.OracleClient.OracleCommand.ExecuteNonQueryInternal(Boolean needRowid, OciHandle& rowidDescriptor)
+   at System.Data.OracleClient.OracleCommand.ExecuteNonQuery()
+   at dllbhyt.LibClass.upd_xuatsd_glivec(String mabn, Int32 mabd, Decimal soluong, Decimal dongia, String makp_bhyt, String manhom_bhyt, String ngay)
+   at BaocaoBHYT.frmthongsocv324.f_get_thuocGlivec()
+-------------------------------------
+30/10/2017 15:40:28
+copy file glivec: System.Data.OracleClient.OracleException: ORA-00942: table or view does not exist
+
+   at System.Data.OracleClient.OracleConnection.CheckError(OciHandle errorHandle, Int32 rc)
+   at System.Data.OracleClient.OracleCommand.Execute(OciHandle statementHandle, CommandBehavior behavior, Boolean isReader, Boolean needRowid, OciHandle& rowidDescriptor, ArrayList& refCursorParameterOrdinals)
+   at System.Data.OracleClient.OracleCommand.Execute(OciHandle statementHandle, CommandBehavior behavior, Boolean needRowid, OciHandle& rowidDescriptor)
+   at System.Data.OracleClient.OracleCommand.ExecuteNonQueryInternal(Boolean needRowid, OciHandle& rowidDescriptor)
+   at System.Data.OracleClient.OracleCommand.ExecuteNonQuery()
+   at dllbhyt.LibClass.upd_xuatsd_glivec(String mabn, Int32 mabd, Decimal soluong, Decimal dongia, String makp_bhyt, String manhom_bhyt, String ngay)
+   at BaocaoBHYT.frmthongsocv324.f_get_thuocGlivec()
+-------------------------------------
+30/10/2017 15:40:28
+copy file glivec: System.Data.OracleClient.OracleException: ORA-00942: table or view does not exist
+
+   at System.Data.OracleClient.OracleConnection.CheckError(OciHandle errorHandle, Int32 rc)
+   at System.Data.OracleClient.OracleCommand.Execute(OciHandle statementHandle, CommandBehavior behavior, Boolean isReader, Boolean needRowid, OciHandle& rowidDescriptor, ArrayList& refCursorParameterOrdinals)
+   at System.Data.OracleClient.OracleCommand.Execute(OciHandle statementHandle, CommandBehavior behavior, Boolean needRowid, OciHandle& rowidDescriptor)
+   at System.Data.OracleClient.OracleCommand.ExecuteNonQueryInternal(Boolean needRowid, OciHandle& rowidDescriptor)
+   at System.Data.OracleClient.OracleCommand.ExecuteNonQuery()
+   at dllbhyt.LibClass.upd_xuatsd_glivec(String mabn, Int32 mabd, Decimal soluong, Decimal dongia, String makp_bhyt, String manhom_bhyt, String ngay)
+   at BaocaoBHYT.frmthongsocv324.f_get_thuocGlivec()
+-------------------------------------
+30/10/2017 15:40:28
+copy file glivec: System.Data.OracleClient.OracleException: ORA-00942: table or view does not exist
+
+   at System.Data.OracleClient.OracleConnection.CheckError(OciHandle errorHandle, Int32 rc)
+   at System.Data.OracleClient.OracleCommand.Execute(OciHandle statementHandle, CommandBehavior behavior, Boolean isReader, Boolean needRowid, OciHandle& rowidDescriptor, ArrayList& refCursorParameterOrdinals)
+   at System.Data.OracleClient.OracleCommand.Execute(OciHandle statementHandle, CommandBehavior behavior, Boolean needRowid, OciHandle& rowidDescriptor)
+   at System.Data.OracleClient.OracleCommand.ExecuteNonQueryInternal(Boolean needRowid, OciHandle& rowidDescriptor)
+   at System.Data.OracleClient.OracleCommand.ExecuteNonQuery()
+   at dllbhyt.LibClass.upd_xuatsd_glivec(String mabn, Int32 mabd, Decimal soluong, Decimal dongia, String makp_bhyt, String manhom_bhyt, String ngay)
+   at BaocaoBHYT.frmthongsocv324.f_get_thuocGlivec()
+-------------------------------------
+30/10/2017 15:40:28
+copy file glivec: System.Data.OracleClient.OracleException: ORA-00942: table or view does not exist
+
+   at System.Data.OracleClient.OracleConnection.CheckError(OciHandle errorHandle, Int32 rc)
+   at System.Data.OracleClient.OracleCommand.Execute(OciHandle statementHandle, CommandBehavior behavior, Boolean isReader, Boolean needRowid, OciHandle& rowidDescriptor, ArrayList& refCursorParameterOrdinals)
+   at System.Data.OracleClient.OracleCommand.Execute(OciHandle statementHandle, CommandBehavior behavior, Boolean needRowid, OciHandle& rowidDescriptor)
+   at System.Data.OracleClient.OracleCommand.ExecuteNonQueryInternal(Boolean needRowid, OciHandle& rowidDescriptor)
+   at System.Data.OracleClient.OracleCommand.ExecuteNonQuery()
+   at dllbhyt.LibClass.upd_xuatsd_glivec(String mabn, Int32 mabd, Decimal soluong, Decimal dongia, String makp_bhyt, String manhom_bhyt, String ngay)
+   at BaocaoBHYT.frmthongsocv324.f_get_thuocGlivec()
+-------------------------------------
+30/10/2017 15:40:28
+copy file glivec: System.Data.OracleClient.OracleException: ORA-00942: table or view does not exist
+
+   at System.Data.OracleClient.OracleConnection.CheckError(OciHandle errorHandle, Int32 rc)
+   at System.Data.OracleClient.OracleCommand.Execute(OciHandle statementHandle, CommandBehavior behavior, Boolean isReader, Boolean needRowid, OciHandle& rowidDescriptor, ArrayList& refCursorParameterOrdinals)
+   at System.Data.OracleClient.OracleCommand.Execute(OciHandle statementHandle, CommandBehavior behavior, Boolean needRowid, OciHandle& rowidDescriptor)
+   at System.Data.OracleClient.OracleCommand.ExecuteNonQueryInternal(Boolean needRowid, OciHandle& rowidDescriptor)
+   at System.Data.OracleClient.OracleCommand.ExecuteNonQuery()
+   at dllbhyt.LibClass.upd_xuatsd_glivec(String mabn, Int32 mabd, Decimal soluong, Decimal dongia, String makp_bhyt, String manhom_bhyt, String ngay)
+   at BaocaoBHYT.frmthongsocv324.f_get_thuocGlivec()
+-------------------------------------
+30/10/2017 15:40:28
+copy file glivec: System.Data.OracleClient.OracleException: ORA-00942: table or view does not exist
+
+   at System.Data.OracleClient.OracleConnection.CheckError(OciHandle errorHandle, Int32 rc)
+   at System.Data.OracleClient.OracleCommand.Execute(OciHandle statementHandle, CommandBehavior behavior, Boolean isReader, Boolean needRowid, OciHandle& rowidDescriptor, ArrayList& refCursorParameterOrdinals)
+   at System.Data.OracleClient.OracleCommand.Execute(OciHandle statementHandle, CommandBehavior behavior, Boolean needRowid, OciHandle& rowidDescriptor)
+   at System.Data.OracleClient.OracleCommand.ExecuteNonQueryInternal(Boolean needRowid, OciHandle& rowidDescriptor)
+   at System.Data.OracleClient.OracleCommand.ExecuteNonQuery()
+   at dllbhyt.LibClass.upd_xuatsd_glivec(String mabn, Int32 mabd, Decimal soluong, Decimal dongia, String makp_bhyt, String manhom_bhyt, String ngay)
+   at BaocaoBHYT.frmthongsocv324.f_get_thuocGlivec()
+-------------------------------------
+30/10/2017 15:40:28
+copy file glivec: System.Data.OracleClient.OracleException: ORA-00942: table or view does not exist
+
+   at System.Data.OracleClient.OracleConnection.CheckError(OciHandle errorHandle, Int32 rc)
+   at System.Data.OracleClient.OracleCommand.Execute(OciHandle statementHandle, CommandBehavior behavior, Boolean isReader, Boolean needRowid, OciHandle& rowidDescriptor, ArrayList& refCursorParameterOrdinals)
+   at System.Data.OracleClient.OracleCommand.Execute(OciHandle statementHandle, CommandBehavior behavior, Boolean needRowid, OciHandle& rowidDescriptor)
+   at System.Data.OracleClient.OracleCommand.ExecuteNonQueryInternal(Boolean needRowid, OciHandle& rowidDescriptor)
+   at System.Data.OracleClient.OracleCommand.ExecuteNonQuery()
+   at dllbhyt.LibClass.upd_xuatsd_glivec(String mabn, Int32 mabd, Decimal soluong, Decimal dongia, String makp_bhyt, String manhom_bhyt, String ngay)
+   at BaocaoBHYT.frmthongsocv324.f_get_thuocGlivec()
+-------------------------------------
+30/10/2017 15:40:28
+copy file glivec: System.Data.OracleClient.OracleException: ORA-00942: table or view does not exist
+
+   at System.Data.OracleClient.OracleConnection.CheckError(OciHandle errorHandle, Int32 rc)
+   at System.Data.OracleClient.OracleCommand.Execute(OciHandle statementHandle, CommandBehavior behavior, Boolean isReader, Boolean needRowid, OciHandle& rowidDescriptor, ArrayList& refCursorParameterOrdinals)
+   at System.Data.OracleClient.OracleCommand.Execute(OciHandle statementHandle, CommandBehavior behavior, Boolean needRowid, OciHandle& rowidDescriptor)
+   at System.Data.OracleClient.OracleCommand.ExecuteNonQueryInternal(Boolean needRowid, OciHandle& rowidDescriptor)
+   at System.Data.OracleClient.OracleCommand.ExecuteNonQuery()
+   at dllbhyt.LibClass.upd_xuatsd_glivec(String mabn, Int32 mabd, Decimal soluong, Decimal dongia, String makp_bhyt, String manhom_bhyt, String ngay)
+   at BaocaoBHYT.frmthongsocv324.f_get_thuocGlivec()
+-------------------------------------
+30/10/2017 15:40:28
+copy file glivec: System.Data.OracleClient.OracleException: ORA-00942: table or view does not exist
+
+   at System.Data.OracleClient.OracleConnection.CheckError(OciHandle errorHandle, Int32 rc)
+   at System.Data.OracleClient.OracleCommand.Execute(OciHandle statementHandle, CommandBehavior behavior, Boolean isReader, Boolean needRowid, OciHandle& rowidDescriptor, ArrayList& refCursorParameterOrdinals)
+   at System.Data.OracleClient.OracleCommand.Execute(OciHandle statementHandle, CommandBehavior behavior, Boolean needRowid, OciHandle& rowidDescriptor)
+   at System.Data.OracleClient.OracleCommand.ExecuteNonQueryInternal(Boolean needRowid, OciHandle& rowidDescriptor)
+   at System.Data.OracleClient.OracleCommand.ExecuteNonQuery()
+   at dllbhyt.LibClass.upd_xuatsd_glivec(String mabn, Int32 mabd, Decimal soluong, Decimal dongia, String makp_bhyt, String manhom_bhyt, String ngay)
+   at BaocaoBHYT.frmthongsocv324.f_get_thuocGlivec()
+-------------------------------------
+30/10/2017 15:40:28
+copy file glivec: System.Data.OracleClient.OracleException: ORA-00942: table or view does not exist
+
+   at System.Data.OracleClient.OracleConnection.CheckError(OciHandle errorHandle, Int32 rc)
+   at System.Data.OracleClient.OracleCommand.Execute(OciHandle statementHandle, CommandBehavior behavior, Boolean isReader, Boolean needRowid, OciHandle& rowidDescriptor, ArrayList& refCursorParameterOrdinals)
+   at System.Data.OracleClient.OracleCommand.Execute(OciHandle statementHandle, CommandBehavior behavior, Boolean needRowid, OciHandle& rowidDescriptor)
+   at System.Data.OracleClient.OracleCommand.ExecuteNonQueryInternal(Boolean needRowid, OciHandle& rowidDescriptor)
+   at System.Data.OracleClient.OracleCommand.ExecuteNonQuery()
+   at dllbhyt.LibClass.upd_xuatsd_glivec(String mabn, Int32 mabd, Decimal soluong, Decimal dongia, String makp_bhyt, String manhom_bhyt, String ngay)
+   at BaocaoBHYT.frmthongsocv324.f_get_thuocGlivec()
+-------------------------------------
+30/10/2017 15:40:28
+copy file glivec: System.Data.OracleClient.OracleException: ORA-00942: table or view does not exist
+
+   at System.Data.OracleClient.OracleConnection.CheckError(OciHandle errorHandle, Int32 rc)
+   at System.Data.OracleClient.OracleCommand.Execute(OciHandle statementHandle, CommandBehavior behavior, Boolean isReader, Boolean needRowid, OciHandle& rowidDescriptor, ArrayList& refCursorParameterOrdinals)
+   at System.Data.OracleClient.OracleCommand.Execute(OciHandle statementHandle, CommandBehavior behavior, Boolean needRowid, OciHandle& rowidDescriptor)
+   at System.Data.OracleClient.OracleCommand.ExecuteNonQueryInternal(Boolean needRowid, OciHandle& rowidDescriptor)
+   at System.Data.OracleClient.OracleCommand.ExecuteNonQuery()
+   at dllbhyt.LibClass.upd_xuatsd_glivec(String mabn, Int32 mabd, Decimal soluong, Decimal dongia, String makp_bhyt, String manhom_bhyt, String ngay)
+   at BaocaoBHYT.frmthongsocv324.f_get_thuocGlivec()
+-------------------------------------
+30/10/2017 15:40:28
+copy file glivec: System.Data.OracleClient.OracleException: ORA-00942: table or view does not exist
+
+   at System.Data.OracleClient.OracleConnection.CheckError(OciHandle errorHandle, Int32 rc)
+   at System.Data.OracleClient.OracleCommand.Execute(OciHandle statementHandle, CommandBehavior behavior, Boolean isReader, Boolean needRowid, OciHandle& rowidDescriptor, ArrayList& refCursorParameterOrdinals)
+   at System.Data.OracleClient.OracleCommand.Execute(OciHandle statementHandle, CommandBehavior behavior, Boolean needRowid, OciHandle& rowidDescriptor)
+   at System.Data.OracleClient.OracleCommand.ExecuteNonQueryInternal(Boolean needRowid, OciHandle& rowidDescriptor)
+   at System.Data.OracleClient.OracleCommand.ExecuteNonQuery()
+   at dllbhyt.LibClass.upd_xuatsd_glivec(String mabn, Int32 mabd, Decimal soluong, Decimal dongia, String makp_bhyt, String manhom_bhyt, String ngay)
+   at BaocaoBHYT.frmthongsocv324.f_get_thuocGlivec()
+-------------------------------------
+30/10/2017 15:40:28
+copy file glivec: System.Data.OracleClient.OracleException: ORA-00942: table or view does not exist
+
+   at System.Data.OracleClient.OracleConnection.CheckError(OciHandle errorHandle, Int32 rc)
+   at System.Data.OracleClient.OracleCommand.Execute(OciHandle statementHandle, CommandBehavior behavior, Boolean isReader, Boolean needRowid, OciHandle& rowidDescriptor, ArrayList& refCursorParameterOrdinals)
+   at System.Data.OracleClient.OracleCommand.Execute(OciHandle statementHandle, CommandBehavior behavior, Boolean needRowid, OciHandle& rowidDescriptor)
+   at System.Data.OracleClient.OracleCommand.ExecuteNonQueryInternal(Boolean needRowid, OciHandle& rowidDescriptor)
+   at System.Data.OracleClient.OracleCommand.ExecuteNonQuery()
+   at dllbhyt.LibClass.upd_xuatsd_glivec(String mabn, Int32 mabd, Decimal soluong, Decimal dongia, String makp_bhyt, String manhom_bhyt, String ngay)
+   at BaocaoBHYT.frmthongsocv324.f_get_thuocGlivec()
+-------------------------------------
+30/10/2017 15:40:28
+copy file glivec: System.Data.OracleClient.OracleException: ORA-00942: table or view does not exist
+
+   at System.Data.OracleClient.OracleConnection.CheckError(OciHandle errorHandle, Int32 rc)
+   at System.Data.OracleClient.OracleCommand.Execute(OciHandle statementHandle, CommandBehavior behavior, Boolean isReader, Boolean needRowid, OciHandle& rowidDescriptor, ArrayList& refCursorParameterOrdinals)
+   at System.Data.OracleClient.OracleCommand.Execute(OciHandle statementHandle, CommandBehavior behavior, Boolean needRowid, OciHandle& rowidDescriptor)
+   at System.Data.OracleClient.OracleCommand.ExecuteNonQueryInternal(Boolean needRowid, OciHandle& rowidDescriptor)
+   at System.Data.OracleClient.OracleCommand.ExecuteNonQuery()
+   at dllbhyt.LibClass.upd_xuatsd_glivec(String mabn, Int32 mabd, Decimal soluong, Decimal dongia, String makp_bhyt, String manhom_bhyt, String ngay)
+   at BaocaoBHYT.frmthongsocv324.f_get_thuocGlivec()
+-------------------------------------
+30/10/2017 15:40:28
+copy file glivec: System.Data.OracleClient.OracleException: ORA-00942: table or view does not exist
+
+   at System.Data.OracleClient.OracleConnection.CheckError(OciHandle errorHandle, Int32 rc)
+   at System.Data.OracleClient.OracleCommand.Execute(OciHandle statementHandle, CommandBehavior behavior, Boolean isReader, Boolean needRowid, OciHandle& rowidDescriptor, ArrayList& refCursorParameterOrdinals)
+   at System.Data.OracleClient.OracleCommand.Execute(OciHandle statementHandle, CommandBehavior behavior, Boolean needRowid, OciHandle& rowidDescriptor)
+   at System.Data.OracleClient.OracleCommand.ExecuteNonQueryInternal(Boolean needRowid, OciHandle& rowidDescriptor)
+   at System.Data.OracleClient.OracleCommand.ExecuteNonQuery()
+   at dllbhyt.LibClass.upd_xuatsd_glivec(String mabn, Int32 mabd, Decimal soluong, Decimal dongia, String makp_bhyt, String manhom_bhyt, String ngay)
+   at BaocaoBHYT.frmthongsocv324.f_get_thuocGlivec()
+-------------------------------------
+30/10/2017 15:40:28
+copy file glivec: System.Data.OracleClient.OracleException: ORA-00942: table or view does not exist
+
+   at System.Data.OracleClient.OracleConnection.CheckError(OciHandle errorHandle, Int32 rc)
+   at System.Data.OracleClient.OracleCommand.Execute(OciHandle statementHandle, CommandBehavior behavior, Boolean isReader, Boolean needRowid, OciHandle& rowidDescriptor, ArrayList& refCursorParameterOrdinals)
+   at System.Data.OracleClient.OracleCommand.Execute(OciHandle statementHandle, CommandBehavior behavior, Boolean needRowid, OciHandle& rowidDescriptor)
+   at System.Data.OracleClient.OracleCommand.ExecuteNonQueryInternal(Boolean needRowid, OciHandle& rowidDescriptor)
+   at System.Data.OracleClient.OracleCommand.ExecuteNonQuery()
+   at dllbhyt.LibClass.upd_xuatsd_glivec(String mabn, Int32 mabd, Decimal soluong, Decimal dongia, String makp_bhyt, String manhom_bhyt, String ngay)
+   at BaocaoBHYT.frmthongsocv324.f_get_thuocGlivec()
+-------------------------------------
+30/10/2017 15:40:28
+copy file glivec: System.Data.OracleClient.OracleException: ORA-00942: table or view does not exist
+
+   at System.Data.OracleClient.OracleConnection.CheckError(OciHandle errorHandle, Int32 rc)
+   at System.Data.OracleClient.OracleCommand.Execute(OciHandle statementHandle, CommandBehavior behavior, Boolean isReader, Boolean needRowid, OciHandle& rowidDescriptor, ArrayList& refCursorParameterOrdinals)
+   at System.Data.OracleClient.OracleCommand.Execute(OciHandle statementHandle, CommandBehavior behavior, Boolean needRowid, OciHandle& rowidDescriptor)
+   at System.Data.OracleClient.OracleCommand.ExecuteNonQueryInternal(Boolean needRowid, OciHandle& rowidDescriptor)
+   at System.Data.OracleClient.OracleCommand.ExecuteNonQuery()
+   at dllbhyt.LibClass.upd_xuatsd_glivec(String mabn, Int32 mabd, Decimal soluong, Decimal dongia, String makp_bhyt, String manhom_bhyt, String ngay)
+   at BaocaoBHYT.frmthongsocv324.f_get_thuocGlivec()
+-------------------------------------
+30/10/2017 15:40:28
+copy file glivec: System.Data.OracleClient.OracleException: ORA-00942: table or view does not exist
+
+   at System.Data.OracleClient.OracleConnection.CheckError(OciHandle errorHandle, Int32 rc)
+   at System.Data.OracleClient.OracleCommand.Execute(OciHandle statementHandle, CommandBehavior behavior, Boolean isReader, Boolean needRowid, OciHandle& rowidDescriptor, ArrayList& refCursorParameterOrdinals)
+   at System.Data.OracleClient.OracleCommand.Execute(OciHandle statementHandle, CommandBehavior behavior, Boolean needRowid, OciHandle& rowidDescriptor)
+   at System.Data.OracleClient.OracleCommand.ExecuteNonQueryInternal(Boolean needRowid, OciHandle& rowidDescriptor)
+   at System.Data.OracleClient.OracleCommand.ExecuteNonQuery()
+   at dllbhyt.LibClass.upd_xuatsd_glivec(String mabn, Int32 mabd, Decimal soluong, Decimal dongia, String makp_bhyt, String manhom_bhyt, String ngay)
+   at BaocaoBHYT.frmthongsocv324.f_get_thuocGlivec()
+-------------------------------------
+30/10/2017 15:40:28
+copy file glivec: System.Data.OracleClient.OracleException: ORA-00942: table or view does not exist
+
+   at System.Data.OracleClient.OracleConnection.CheckError(OciHandle errorHandle, Int32 rc)
+   at System.Data.OracleClient.OracleCommand.Execute(OciHandle statementHandle, CommandBehavior behavior, Boolean isReader, Boolean needRowid, OciHandle& rowidDescriptor, ArrayList& refCursorParameterOrdinals)
+   at System.Data.OracleClient.OracleCommand.Execute(OciHandle statementHandle, CommandBehavior behavior, Boolean needRowid, OciHandle& rowidDescriptor)
+   at System.Data.OracleClient.OracleCommand.ExecuteNonQueryInternal(Boolean needRowid, OciHandle& rowidDescriptor)
+   at System.Data.OracleClient.OracleCommand.ExecuteNonQuery()
+   at dllbhyt.LibClass.upd_xuatsd_glivec(String mabn, Int32 mabd, Decimal soluong, Decimal dongia, String makp_bhyt, String manhom_bhyt, String ngay)
+   at BaocaoBHYT.frmthongsocv324.f_get_thuocGlivec()
+-------------------------------------
+30/10/2017 15:40:28
+copy file glivec: System.Data.OracleClient.OracleException: ORA-00942: table or view does not exist
+
+   at System.Data.OracleClient.OracleConnection.CheckError(OciHandle errorHandle, Int32 rc)
+   at System.Data.OracleClient.OracleCommand.Execute(OciHandle statementHandle, CommandBehavior behavior, Boolean isReader, Boolean needRowid, OciHandle& rowidDescriptor, ArrayList& refCursorParameterOrdinals)
+   at System.Data.OracleClient.OracleCommand.Execute(OciHandle statementHandle, CommandBehavior behavior, Boolean needRowid, OciHandle& rowidDescriptor)
+   at System.Data.OracleClient.OracleCommand.ExecuteNonQueryInternal(Boolean needRowid, OciHandle& rowidDescriptor)
+   at System.Data.OracleClient.OracleCommand.ExecuteNonQuery()
+   at dllbhyt.LibClass.upd_xuatsd_glivec(String mabn, Int32 mabd, Decimal soluong, Decimal dongia, String makp_bhyt, String manhom_bhyt, String ngay)
+   at BaocaoBHYT.frmthongsocv324.f_get_thuocGlivec()
+-------------------------------------
+30/10/2017 15:40:28
+copy file glivec: System.Data.OracleClient.OracleException: ORA-00942: table or view does not exist
+
+   at System.Data.OracleClient.OracleConnection.CheckError(OciHandle errorHandle, Int32 rc)
+   at System.Data.OracleClient.OracleCommand.Execute(OciHandle statementHandle, CommandBehavior behavior, Boolean isReader, Boolean needRowid, OciHandle& rowidDescriptor, ArrayList& refCursorParameterOrdinals)
+   at System.Data.OracleClient.OracleCommand.Execute(OciHandle statementHandle, CommandBehavior behavior, Boolean needRowid, OciHandle& rowidDescriptor)
+   at System.Data.OracleClient.OracleCommand.ExecuteNonQueryInternal(Boolean needRowid, OciHandle& rowidDescriptor)
+   at System.Data.OracleClient.OracleCommand.ExecuteNonQuery()
+   at dllbhyt.LibClass.upd_xuatsd_glivec(String mabn, Int32 mabd, Decimal soluong, Decimal dongia, String makp_bhyt, String manhom_bhyt, String ngay)
+   at BaocaoBHYT.frmthongsocv324.f_get_thuocGlivec()
+-------------------------------------
+30/10/2017 16:09:45
+copy file glivec: System.IO.IOException: Cannot create a file when that file already exists.
+
+   at System.IO.__Error.WinIOError(Int32 errorCode, String str)
+   at System.IO.File.Move(String sourceFileName, String destFileName)
+   at BaocaoBHYT.frmthongsocv324.f_get_thuocGlivec()
+-------------------------------------
+30/10/2017 16:09:45
+copy file glivec: System.IO.IOException: Cannot create a file when that file already exists.
+
+   at System.IO.__Error.WinIOError(Int32 errorCode, String str)
+   at System.IO.File.Move(String sourceFileName, String destFileName)
+   at BaocaoBHYT.frmthongsocv324.f_get_thuocGlivec()
+-------------------------------------
+30/10/2017 16:09:47
+copy file glivec: System.IO.IOException: Cannot create a file when that file already exists.
+
+   at System.IO.__Error.WinIOError(Int32 errorCode, String str)
+   at System.IO.File.Move(String sourceFileName, String destFileName)
+   at BaocaoBHYT.frmthongsocv324.f_get_thuocGlivec()
+-------------------------------------
+30/10/2017 16:09:47
+copy file glivec: System.IO.IOException: Cannot create a file when that file already exists.
+
+   at System.IO.__Error.WinIOError(Int32 errorCode, String str)
+   at System.IO.File.Move(String sourceFileName, String destFileName)
+   at BaocaoBHYT.frmthongsocv324.f_get_thuocGlivec()
+-------------------------------------
+30/10/2017 16:28:28
+duong dan file glivec: System.ArgumentException: The path is not of a legal form.
+   at System.IO.Path.nGetFullPathHelper(String path, Char[] invalidPathChars, Char[] whitespaceChars, Char directorySeparator, Char altDirectorySeparator, Boolean fullCheck, String& newPath)
+   at System.IO.Path.GetFullPathInternal(String path)
+   at System.IO.Directory.GetFiles(String path, String searchPattern)
+   at System.IO.Directory.GetFiles(String path)
+   at BaocaoBHYT.frmthongsocv324.f_get_thuocGlivec()
+-------------------------------------
+30/10/2017 16:38:12
+duong dan file glivec: System.ArgumentException: The path is not of a legal form.
+   at System.IO.Path.nGetFullPathHelper(String path, Char[] invalidPathChars, Char[] whitespaceChars, Char directorySeparator, Char altDirectorySeparator, Boolean fullCheck, String& newPath)
+   at System.IO.Path.GetFullPathInternal(String path)
+   at System.IO.Directory.GetFiles(String path, String searchPattern)
+   at System.IO.Directory.GetFiles(String path)
+   at BaocaoBHYT.frmthongsocv324.f_get_thuocGlivec()
+-------------------------------------
+30/10/2017 16:38:12
+duong dan file glivec: System.ArgumentException: The path is not of a legal form.
+   at System.IO.Path.nGetFullPathHelper(String path, Char[] invalidPathChars, Char[] whitespaceChars, Char directorySeparator, Char altDirectorySeparator, Boolean fullCheck, String& newPath)
+   at System.IO.Path.GetFullPathInternal(String path)
+   at System.IO.Directory.GetFiles(String path, String searchPattern)
+   at System.IO.Directory.GetFiles(String path)
+   at BaocaoBHYT.frmthongsocv324.f_get_thuocGlivec()
+-------------------------------------
+30/10/2017 16:38:12
+duong dan file glivec: System.ArgumentException: The path is not of a legal form.
+   at System.IO.Path.nGetFullPathHelper(String path, Char[] invalidPathChars, Char[] whitespaceChars, Char directorySeparator, Char altDirectorySeparator, Boolean fullCheck, String& newPath)
+   at System.IO.Path.GetFullPathInternal(String path)
+   at System.IO.Directory.GetFiles(String path, String searchPattern)
+   at System.IO.Directory.GetFiles(String path)
+   at BaocaoBHYT.frmthongsocv324.f_get_thuocGlivec()
+-------------------------------------
+30/10/2017 16:38:13
+duong dan file glivec: System.ArgumentException: The path is not of a legal form.
+   at System.IO.Path.nGetFullPathHelper(String path, Char[] invalidPathChars, Char[] whitespaceChars, Char directorySeparator, Char altDirectorySeparator, Boolean fullCheck, String& newPath)
+   at System.IO.Path.GetFullPathInternal(String path)
+   at System.IO.Directory.GetFiles(String path, String searchPattern)
+   at System.IO.Directory.GetFiles(String path)
+   at BaocaoBHYT.frmthongsocv324.f_get_thuocGlivec()
+-------------------------------------
+30/10/2017 16:38:13
+duong dan file glivec: System.ArgumentException: The path is not of a legal form.
+   at System.IO.Path.nGetFullPathHelper(String path, Char[] invalidPathChars, Char[] whitespaceChars, Char directorySeparator, Char altDirectorySeparator, Boolean fullCheck, String& newPath)
+   at System.IO.Path.GetFullPathInternal(String path)
+   at System.IO.Directory.GetFiles(String path, String searchPattern)
+   at System.IO.Directory.GetFiles(String path)
+   at BaocaoBHYT.frmthongsocv324.f_get_thuocGlivec()
+-------------------------------------
+30/10/2017 16:38:13
+duong dan file glivec: System.ArgumentException: The path is not of a legal form.
+   at System.IO.Path.nGetFullPathHelper(String path, Char[] invalidPathChars, Char[] whitespaceChars, Char directorySeparator, Char altDirectorySeparator, Boolean fullCheck, String& newPath)
+   at System.IO.Path.GetFullPathInternal(String path)
+   at System.IO.Directory.GetFiles(String path, String searchPattern)
+   at System.IO.Directory.GetFiles(String path)
+   at BaocaoBHYT.frmthongsocv324.f_get_thuocGlivec()
+-------------------------------------
+30/10/2017 16:59:30
+duong dan file glivec: System.ArgumentException: The path is not of a legal form.
+   at System.IO.Path.nGetFullPathHelper(String path, Char[] invalidPathChars, Char[] whitespaceChars, Char directorySeparator, Char altDirectorySeparator, Boolean fullCheck, String& newPath)
+   at System.IO.Path.GetFullPathInternal(String path)
+   at System.IO.Directory.GetFiles(String path, String searchPattern)
+   at System.IO.Directory.GetFiles(String path)
+   at BaocaoBHYT.frmthongsocv324.f_get_thuocGlivec()
+-------------------------------------
+15/01/2018 17:20:46
+System.ArgumentException: Column 'tenkp' does not belong to table Table1.
+   at System.Data.DataRow.get_Item(String columnName)
+   at dllbhyt.LibMaubaocao.f_Ngoaitru_xuatExcel_mau79_Mau2(Boolean print, DataSet dsdulieu, String tungay, String denngay)
+-------------------------------------
+15/01/2018 17:20:46
+System.ArgumentException: Column 'tenkp' does not belong to table Table1.
+   at System.Data.DataRow.get_Item(String columnName)
+   at dllbhyt.LibMaubaocao.f_Ngoaitru_xuatExcel_mau79_Mau2(Boolean print, DataSet dsdulieu, String tungay, String denngay)
+-------------------------------------
+15/01/2018 17:20:46
+System.ArgumentException: Column 'tenkp' does not belong to table Table1.
+   at System.Data.DataRow.get_Item(String columnName)
+   at dllbhyt.LibMaubaocao.f_Ngoaitru_xuatExcel_mau79_Mau2(Boolean print, DataSet dsdulieu, String tungay, String denngay)
+-------------------------------------
+15/01/2018 17:20:46
+System.ArgumentException: Column 'tenkp' does not belong to table Table1.
+   at System.Data.DataRow.get_Item(String columnName)
+   at dllbhyt.LibMaubaocao.f_Ngoaitru_xuatExcel_mau79_Mau2(Boolean print, DataSet dsdulieu, String tungay, String denngay)
+-------------------------------------
+15/01/2018 17:20:46
+System.ArgumentException: Column 'tenkp' does not belong to table Table1.
+   at System.Data.DataRow.get_Item(String columnName)
+   at dllbhyt.LibMaubaocao.f_Ngoaitru_xuatExcel_mau79_Mau2(Boolean print, DataSet dsdulieu, String tungay, String denngay)
+-------------------------------------
+15/01/2018 17:20:46
+System.ArgumentException: Column 'tenkp' does not belong to table Table1.
+   at System.Data.DataRow.get_Item(String columnName)
+   at dllbhyt.LibMaubaocao.f_Ngoaitru_xuatExcel_mau79_Mau2(Boolean print, DataSet dsdulieu, String tungay, String denngay)
+-------------------------------------
+15/01/2018 17:20:46
+System.ArgumentException: Column 'tenkp' does not belong to table Table1.
+   at System.Data.DataRow.get_Item(String columnName)
+   at dllbhyt.LibMaubaocao.f_Ngoaitru_xuatExcel_mau79_Mau2(Boolean print, DataSet dsdulieu, String tungay, String denngay)
+-------------------------------------
+15/01/2018 17:20:46
+System.ArgumentException: Column 'tenkp' does not belong to table Table1.
+   at System.Data.DataRow.get_Item(String columnName)
+   at dllbhyt.LibMaubaocao.f_Ngoaitru_xuatExcel_mau79_Mau2(Boolean print, DataSet dsdulieu, String tungay, String denngay)
+-------------------------------------
+15/01/2018 17:20:46
+System.ArgumentException: Column 'tenkp' does not belong to table Table1.
+   at System.Data.DataRow.get_Item(String columnName)
+   at dllbhyt.LibMaubaocao.f_Ngoaitru_xuatExcel_mau79_Mau2(Boolean print, DataSet dsdulieu, String tungay, String denngay)
+-------------------------------------
+15/01/2018 17:20:46
+System.ArgumentException: Column 'tenkp' does not belong to table Table1.
+   at System.Data.DataRow.get_Item(String columnName)
+   at dllbhyt.LibMaubaocao.f_Ngoaitru_xuatExcel_mau79_Mau2(Boolean print, DataSet dsdulieu, String tungay, String denngay)
+-------------------------------------
+15/01/2018 17:20:46
+System.ArgumentException: Column 'tenkp' does not belong to table Table1.
+   at System.Data.DataRow.get_Item(String columnName)
+   at dllbhyt.LibMaubaocao.f_Ngoaitru_xuatExcel_mau79_Mau2(Boolean print, DataSet dsdulieu, String tungay, String denngay)
+-------------------------------------
+15/01/2018 17:20:46
+System.ArgumentException: Column 'tenkp' does not belong to table Table1.
+   at System.Data.DataRow.get_Item(String columnName)
+   at dllbhyt.LibMaubaocao.f_Ngoaitru_xuatExcel_mau79_Mau2(Boolean print, DataSet dsdulieu, String tungay, String denngay)
+-------------------------------------
+15/01/2018 17:20:46
+System.ArgumentException: Column 'tenkp' does not belong to table Table1.
+   at System.Data.DataRow.get_Item(String columnName)
+   at dllbhyt.LibMaubaocao.f_Ngoaitru_xuatExcel_mau79_Mau2(Boolean print, DataSet dsdulieu, String tungay, String denngay)
+-------------------------------------
+15/01/2018 17:20:46
+System.ArgumentException: Column 'tenkp' does not belong to table Table1.
+   at System.Data.DataRow.get_Item(String columnName)
+   at dllbhyt.LibMaubaocao.f_Ngoaitru_xuatExcel_mau79_Mau2(Boolean print, DataSet dsdulieu, String tungay, String denngay)
+-------------------------------------
+15/01/2018 17:20:46
+System.ArgumentException: Column 'tenkp' does not belong to table Table1.
+   at System.Data.DataRow.get_Item(String columnName)
+   at dllbhyt.LibMaubaocao.f_Ngoaitru_xuatExcel_mau79_Mau2(Boolean print, DataSet dsdulieu, String tungay, String denngay)
+-------------------------------------
+15/01/2018 17:20:46
+System.ArgumentException: Column 'tenkp' does not belong to table Table1.
+   at System.Data.DataRow.get_Item(String columnName)
+   at dllbhyt.LibMaubaocao.f_Ngoaitru_xuatExcel_mau79_Mau2(Boolean print, DataSet dsdulieu, String tungay, String denngay)
+-------------------------------------
+15/01/2018 17:20:46
+System.ArgumentException: Column 'tenkp' does not belong to table Table1.
+   at System.Data.DataRow.get_Item(String columnName)
+   at dllbhyt.LibMaubaocao.f_Ngoaitru_xuatExcel_mau79_Mau2(Boolean print, DataSet dsdulieu, String tungay, String denngay)
+-------------------------------------
+15/01/2018 17:20:46
+System.ArgumentException: Column 'tenkp' does not belong to table Table1.
+   at System.Data.DataRow.get_Item(String columnName)
+   at dllbhyt.LibMaubaocao.f_Ngoaitru_xuatExcel_mau79_Mau2(Boolean print, DataSet dsdulieu, String tungay, String denngay)
+-------------------------------------
+15/01/2018 17:20:46
+System.ArgumentException: Column 'tenkp' does not belong to table Table1.
+   at System.Data.DataRow.get_Item(String columnName)
+   at dllbhyt.LibMaubaocao.f_Ngoaitru_xuatExcel_mau79_Mau2(Boolean print, DataSet dsdulieu, String tungay, String denngay)
+-------------------------------------
+15/01/2018 17:20:46
+System.ArgumentException: Column 'tenkp' does not belong to table Table1.
+   at System.Data.DataRow.get_Item(String columnName)
+   at dllbhyt.LibMaubaocao.f_Ngoaitru_xuatExcel_mau79_Mau2(Boolean print, DataSet dsdulieu, String tungay, String denngay)
+-------------------------------------
+15/01/2018 17:20:46
+System.ArgumentException: Column 'tenkp' does not belong to table Table1.
+   at System.Data.DataRow.get_Item(String columnName)
+   at dllbhyt.LibMaubaocao.f_Ngoaitru_xuatExcel_mau79_Mau2(Boolean print, DataSet dsdulieu, String tungay, String denngay)
+-------------------------------------
+15/01/2018 17:20:46
+System.ArgumentException: Column 'tenkp' does not belong to table Table1.
+   at System.Data.DataRow.get_Item(String columnName)
+   at dllbhyt.LibMaubaocao.f_Ngoaitru_xuatExcel_mau79_Mau2(Boolean print, DataSet dsdulieu, String tungay, String denngay)
+-------------------------------------
+15/01/2018 17:20:46
+System.ArgumentException: Column 'tenkp' does not belong to table Table1.
+   at System.Data.DataRow.get_Item(String columnName)
+   at dllbhyt.LibMaubaocao.f_Ngoaitru_xuatExcel_mau79_Mau2(Boolean print, DataSet dsdulieu, String tungay, String denngay)
+-------------------------------------
+15/01/2018 17:20:46
+System.ArgumentException: Column 'tenkp' does not belong to table Table1.
+   at System.Data.DataRow.get_Item(String columnName)
+   at dllbhyt.LibMaubaocao.f_Ngoaitru_xuatExcel_mau79_Mau2(Boolean print, DataSet dsdulieu, String tungay, String denngay)
+-------------------------------------
+15/01/2018 17:20:46
+System.ArgumentException: Column 'tenkp' does not belong to table Table1.
+   at System.Data.DataRow.get_Item(String columnName)
+   at dllbhyt.LibMaubaocao.f_Ngoaitru_xuatExcel_mau79_Mau2(Boolean print, DataSet dsdulieu, String tungay, String denngay)
+-------------------------------------
+15/01/2018 17:20:46
+System.ArgumentException: Column 'tenkp' does not belong to table Table1.
+   at System.Data.DataRow.get_Item(String columnName)
+   at dllbhyt.LibMaubaocao.f_Ngoaitru_xuatExcel_mau79_Mau2(Boolean print, DataSet dsdulieu, String tungay, String denngay)
+-------------------------------------
+15/01/2018 17:20:46
+System.ArgumentException: Column 'tenkp' does not belong to table Table1.
+   at System.Data.DataRow.get_Item(String columnName)
+   at dllbhyt.LibMaubaocao.f_Ngoaitru_xuatExcel_mau79_Mau2(Boolean print, DataSet dsdulieu, String tungay, String denngay)
+-------------------------------------
+15/01/2018 17:20:46
+System.ArgumentException: Column 'tenkp' does not belong to table Table1.
+   at System.Data.DataRow.get_Item(String columnName)
+   at dllbhyt.LibMaubaocao.f_Ngoaitru_xuatExcel_mau79_Mau2(Boolean print, DataSet dsdulieu, String tungay, String denngay)
+-------------------------------------
+15/01/2018 17:20:46
+System.ArgumentException: Column 'tenkp' does not belong to table Table1.
+   at System.Data.DataRow.get_Item(String columnName)
+   at dllbhyt.LibMaubaocao.f_Ngoaitru_xuatExcel_mau79_Mau2(Boolean print, DataSet dsdulieu, String tungay, String denngay)
+-------------------------------------
+15/01/2018 17:20:46
+System.ArgumentException: Column 'tenkp' does not belong to table Table1.
+   at System.Data.DataRow.get_Item(String columnName)
+   at dllbhyt.LibMaubaocao.f_Ngoaitru_xuatExcel_mau79_Mau2(Boolean print, DataSet dsdulieu, String tungay, String denngay)
+-------------------------------------
+15/01/2018 17:20:46
+System.ArgumentException: Column 'tenkp' does not belong to table Table1.
+   at System.Data.DataRow.get_Item(String columnName)
+   at dllbhyt.LibMaubaocao.f_Ngoaitru_xuatExcel_mau79_Mau2(Boolean print, DataSet dsdulieu, String tungay, String denngay)
+-------------------------------------
+15/01/2018 17:20:46
+System.ArgumentException: Column 'tenkp' does not belong to table Table1.
+   at System.Data.DataRow.get_Item(String columnName)
+   at dllbhyt.LibMaubaocao.f_Ngoaitru_xuatExcel_mau79_Mau2(Boolean print, DataSet dsdulieu, String tungay, String denngay)
+-------------------------------------
+15/01/2018 17:20:46
+System.ArgumentException: Column 'tenkp' does not belong to table Table1.
+   at System.Data.DataRow.get_Item(String columnName)
+   at dllbhyt.LibMaubaocao.f_Ngoaitru_xuatExcel_mau79_Mau2(Boolean print, DataSet dsdulieu, String tungay, String denngay)
+-------------------------------------
+15/01/2018 17:20:46
+System.ArgumentException: Column 'tenkp' does not belong to table Table1.
+   at System.Data.DataRow.get_Item(String columnName)
+   at dllbhyt.LibMaubaocao.f_Ngoaitru_xuatExcel_mau79_Mau2(Boolean print, DataSet dsdulieu, String tungay, String denngay)
+-------------------------------------
+15/01/2018 17:20:46
+System.ArgumentException: Column 'tenkp' does not belong to table Table1.
+   at System.Data.DataRow.get_Item(String columnName)
+   at dllbhyt.LibMaubaocao.f_Ngoaitru_xuatExcel_mau79_Mau2(Boolean print, DataSet dsdulieu, String tungay, String denngay)
+-------------------------------------
+15/01/2018 17:20:46
+System.ArgumentException: Column 'tenkp' does not belong to table Table1.
+   at System.Data.DataRow.get_Item(String columnName)
+   at dllbhyt.LibMaubaocao.f_Ngoaitru_xuatExcel_mau79_Mau2(Boolean print, DataSet dsdulieu, String tungay, String denngay)
+-------------------------------------
+15/01/2018 17:20:46
+System.ArgumentException: Column 'tenkp' does not belong to table Table1.
+   at System.Data.DataRow.get_Item(String columnName)
+   at dllbhyt.LibMaubaocao.f_Ngoaitru_xuatExcel_mau79_Mau2(Boolean print, DataSet dsdulieu, String tungay, String denngay)
+-------------------------------------
+15/01/2018 17:20:46
+System.ArgumentException: Column 'tenkp' does not belong to table Table1.
+   at System.Data.DataRow.get_Item(String columnName)
+   at dllbhyt.LibMaubaocao.f_Ngoaitru_xuatExcel_mau79_Mau2(Boolean print, DataSet dsdulieu, String tungay, String denngay)
+-------------------------------------
+15/01/2018 17:20:46
+System.ArgumentException: Column 'tenkp' does not belong to table Table1.
+   at System.Data.DataRow.get_Item(String columnName)
+   at dllbhyt.LibMaubaocao.f_Ngoaitru_xuatExcel_mau79_Mau2(Boolean print, DataSet dsdulieu, String tungay, String denngay)
+-------------------------------------
+15/01/2018 17:20:46
+System.ArgumentException: Column 'tenkp' does not belong to table Table1.
+   at System.Data.DataRow.get_Item(String columnName)
+   at dllbhyt.LibMaubaocao.f_Ngoaitru_xuatExcel_mau79_Mau2(Boolean print, DataSet dsdulieu, String tungay, String denngay)
+-------------------------------------
+15/01/2018 17:20:46
+System.ArgumentException: Column 'tenkp' does not belong to table Table1.
+   at System.Data.DataRow.get_Item(String columnName)
+   at dllbhyt.LibMaubaocao.f_Ngoaitru_xuatExcel_mau79_Mau2(Boolean print, DataSet dsdulieu, String tungay, String denngay)
+-------------------------------------
+15/01/2018 17:20:46
+System.ArgumentException: Column 'tenkp' does not belong to table Table1.
+   at System.Data.DataRow.get_Item(String columnName)
+   at dllbhyt.LibMaubaocao.f_Ngoaitru_xuatExcel_mau79_Mau2(Boolean print, DataSet dsdulieu, String tungay, String denngay)
+-------------------------------------
+15/01/2018 17:20:46
+System.ArgumentException: Column 'tenkp' does not belong to table Table1.
+   at System.Data.DataRow.get_Item(String columnName)
+   at dllbhyt.LibMaubaocao.f_Ngoaitru_xuatExcel_mau79_Mau2(Boolean print, DataSet dsdulieu, String tungay, String denngay)
+-------------------------------------
+15/01/2018 17:20:46
+System.ArgumentException: Column 'tenkp' does not belong to table Table1.
+   at System.Data.DataRow.get_Item(String columnName)
+   at dllbhyt.LibMaubaocao.f_Ngoaitru_xuatExcel_mau79_Mau2(Boolean print, DataSet dsdulieu, String tungay, String denngay)
+-------------------------------------
+15/01/2018 17:20:46
+System.ArgumentException: Column 'tenkp' does not belong to table Table1.
+   at System.Data.DataRow.get_Item(String columnName)
+   at dllbhyt.LibMaubaocao.f_Ngoaitru_xuatExcel_mau79_Mau2(Boolean print, DataSet dsdulieu, String tungay, String denngay)
+-------------------------------------
+15/01/2018 17:20:46
+System.ArgumentException: Column 'tenkp' does not belong to table Table1.
+   at System.Data.DataRow.get_Item(String columnName)
+   at dllbhyt.LibMaubaocao.f_Ngoaitru_xuatExcel_mau79_Mau2(Boolean print, DataSet dsdulieu, String tungay, String denngay)
+-------------------------------------
+15/01/2018 17:20:46
+System.ArgumentException: Column 'tenkp' does not belong to table Table1.
+   at System.Data.DataRow.get_Item(String columnName)
+   at dllbhyt.LibMaubaocao.f_Ngoaitru_xuatExcel_mau79_Mau2(Boolean print, DataSet dsdulieu, String tungay, String denngay)
+-------------------------------------
+15/01/2018 17:20:46
+System.ArgumentException: Column 'tenkp' does not belong to table Table1.
+   at System.Data.DataRow.get_Item(String columnName)
+   at dllbhyt.LibMaubaocao.f_Ngoaitru_xuatExcel_mau79_Mau2(Boolean print, DataSet dsdulieu, String tungay, String denngay)
+-------------------------------------
+15/01/2018 17:20:46
+System.ArgumentException: Column 'tenkp' does not belong to table Table1.
+   at System.Data.DataRow.get_Item(String columnName)
+   at dllbhyt.LibMaubaocao.f_Ngoaitru_xuatExcel_mau79_Mau2(Boolean print, DataSet dsdulieu, String tungay, String denngay)
+-------------------------------------
+15/01/2018 17:20:46
+System.ArgumentException: Column 'tenkp' does not belong to table Table1.
+   at System.Data.DataRow.get_Item(String columnName)
+   at dllbhyt.LibMaubaocao.f_Ngoaitru_xuatExcel_mau79_Mau2(Boolean print, DataSet dsdulieu, String tungay, String denngay)
+-------------------------------------
+15/01/2018 17:20:46
+System.ArgumentException: Column 'tenkp' does not belong to table Table1.
+   at System.Data.DataRow.get_Item(String columnName)
+   at dllbhyt.LibMaubaocao.f_Ngoaitru_xuatExcel_mau79_Mau2(Boolean print, DataSet dsdulieu, String tungay, String denngay)
+-------------------------------------
+15/01/2018 17:20:46
+System.ArgumentException: Column 'tenkp' does not belong to table Table1.
+   at System.Data.DataRow.get_Item(String columnName)
+   at dllbhyt.LibMaubaocao.f_Ngoaitru_xuatExcel_mau79_Mau2(Boolean print, DataSet dsdulieu, String tungay, String denngay)
+-------------------------------------
+15/01/2018 17:20:46
+System.ArgumentException: Column 'tenkp' does not belong to table Table1.
+   at System.Data.DataRow.get_Item(String columnName)
+   at dllbhyt.LibMaubaocao.f_Ngoaitru_xuatExcel_mau79_Mau2(Boolean print, DataSet dsdulieu, String tungay, String denngay)
+-------------------------------------
+15/01/2018 17:20:46
+System.ArgumentException: Column 'tenkp' does not belong to table Table1.
+   at System.Data.DataRow.get_Item(String columnName)
+   at dllbhyt.LibMaubaocao.f_Ngoaitru_xuatExcel_mau79_Mau2(Boolean print, DataSet dsdulieu, String tungay, String denngay)
+-------------------------------------
+15/01/2018 17:20:46
+System.ArgumentException: Column 'tenkp' does not belong to table Table1.
+   at System.Data.DataRow.get_Item(String columnName)
+   at dllbhyt.LibMaubaocao.f_Ngoaitru_xuatExcel_mau79_Mau2(Boolean print, DataSet dsdulieu, String tungay, String denngay)
+-------------------------------------
+15/01/2018 17:20:46
+System.ArgumentException: Column 'tenkp' does not belong to table Table1.
+   at System.Data.DataRow.get_Item(String columnName)
+   at dllbhyt.LibMaubaocao.f_Ngoaitru_xuatExcel_mau79_Mau2(Boolean print, DataSet dsdulieu, String tungay, String denngay)
+-------------------------------------
+15/01/2018 17:20:46
+System.ArgumentException: Column 'tenkp' does not belong to table Table1.
+   at System.Data.DataRow.get_Item(String columnName)
+   at dllbhyt.LibMaubaocao.f_Ngoaitru_xuatExcel_mau79_Mau2(Boolean print, DataSet dsdulieu, String tungay, String denngay)
+-------------------------------------
+15/01/2018 17:20:46
+System.ArgumentException: Column 'tenkp' does not belong to table Table1.
+   at System.Data.DataRow.get_Item(String columnName)
+   at dllbhyt.LibMaubaocao.f_Ngoaitru_xuatExcel_mau79_Mau2(Boolean print, DataSet dsdulieu, String tungay, String denngay)
+-------------------------------------
+15/01/2018 17:20:46
+System.ArgumentException: Column 'tenkp' does not belong to table Table1.
+   at System.Data.DataRow.get_Item(String columnName)
+   at dllbhyt.LibMaubaocao.f_Ngoaitru_xuatExcel_mau79_Mau2(Boolean print, DataSet dsdulieu, String tungay, String denngay)
+-------------------------------------
+15/01/2018 17:20:46
+System.ArgumentException: Column 'tenkp' does not belong to table Table1.
+   at System.Data.DataRow.get_Item(String columnName)
+   at dllbhyt.LibMaubaocao.f_Ngoaitru_xuatExcel_mau79_Mau2(Boolean print, DataSet dsdulieu, String tungay, String denngay)
+-------------------------------------
+15/01/2018 17:20:46
+System.ArgumentException: Column 'tenkp' does not belong to table Table1.
+   at System.Data.DataRow.get_Item(String columnName)
+   at dllbhyt.LibMaubaocao.f_Ngoaitru_xuatExcel_mau79_Mau2(Boolean print, DataSet dsdulieu, String tungay, String denngay)
+-------------------------------------
+15/01/2018 17:20:46
+System.ArgumentException: Column 'tenkp' does not belong to table Table1.
+   at System.Data.DataRow.get_Item(String columnName)
+   at dllbhyt.LibMaubaocao.f_Ngoaitru_xuatExcel_mau79_Mau2(Boolean print, DataSet dsdulieu, String tungay, String denngay)
+-------------------------------------
+15/01/2018 17:20:46
+System.ArgumentException: Column 'tenkp' does not belong to table Table1.
+   at System.Data.DataRow.get_Item(String columnName)
+   at dllbhyt.LibMaubaocao.f_Ngoaitru_xuatExcel_mau79_Mau2(Boolean print, DataSet dsdulieu, String tungay, String denngay)
+-------------------------------------
+15/01/2018 17:20:46
+System.ArgumentException: Column 'tenkp' does not belong to table Table1.
+   at System.Data.DataRow.get_Item(String columnName)
+   at dllbhyt.LibMaubaocao.f_Ngoaitru_xuatExcel_mau79_Mau2(Boolean print, DataSet dsdulieu, String tungay, String denngay)
+-------------------------------------
+15/01/2018 17:20:46
+System.ArgumentException: Column 'tenkp' does not belong to table Table1.
+   at System.Data.DataRow.get_Item(String columnName)
+   at dllbhyt.LibMaubaocao.f_Ngoaitru_xuatExcel_mau79_Mau2(Boolean print, DataSet dsdulieu, String tungay, String denngay)
+-------------------------------------
+15/01/2018 17:20:46
+System.ArgumentException: Column 'tenkp' does not belong to table Table1.
+   at System.Data.DataRow.get_Item(String columnName)
+   at dllbhyt.LibMaubaocao.f_Ngoaitru_xuatExcel_mau79_Mau2(Boolean print, DataSet dsdulieu, String tungay, String denngay)
+-------------------------------------
+15/01/2018 17:20:46
+System.ArgumentException: Column 'tenkp' does not belong to table Table1.
+   at System.Data.DataRow.get_Item(String columnName)
+   at dllbhyt.LibMaubaocao.f_Ngoaitru_xuatExcel_mau79_Mau2(Boolean print, DataSet dsdulieu, String tungay, String denngay)
+-------------------------------------
+15/01/2018 17:20:46
+System.ArgumentException: Column 'tenkp' does not belong to table Table1.
+   at System.Data.DataRow.get_Item(String columnName)
+   at dllbhyt.LibMaubaocao.f_Ngoaitru_xuatExcel_mau79_Mau2(Boolean print, DataSet dsdulieu, String tungay, String denngay)
+-------------------------------------
+15/01/2018 17:20:46
+System.ArgumentException: Column 'tenkp' does not belong to table Table1.
+   at System.Data.DataRow.get_Item(String columnName)
+   at dllbhyt.LibMaubaocao.f_Ngoaitru_xuatExcel_mau79_Mau2(Boolean print, DataSet dsdulieu, String tungay, String denngay)
+-------------------------------------
+15/01/2018 17:20:46
+System.ArgumentException: Column 'tenkp' does not belong to table Table1.
+   at System.Data.DataRow.get_Item(String columnName)
+   at dllbhyt.LibMaubaocao.f_Ngoaitru_xuatExcel_mau79_Mau2(Boolean print, DataSet dsdulieu, String tungay, String denngay)
+-------------------------------------
+15/01/2018 17:20:46
+System.ArgumentException: Column 'tenkp' does not belong to table Table1.
+   at System.Data.DataRow.get_Item(String columnName)
+   at dllbhyt.LibMaubaocao.f_Ngoaitru_xuatExcel_mau79_Mau2(Boolean print, DataSet dsdulieu, String tungay, String denngay)
+-------------------------------------
+15/01/2018 17:20:46
+System.ArgumentException: Column 'tenkp' does not belong to table Table1.
+   at System.Data.DataRow.get_Item(String columnName)
+   at dllbhyt.LibMaubaocao.f_Ngoaitru_xuatExcel_mau79_Mau2(Boolean print, DataSet dsdulieu, String tungay, String denngay)
+-------------------------------------
+15/01/2018 17:20:46
+System.ArgumentException: Column 'tenkp' does not belong to table Table1.
+   at System.Data.DataRow.get_Item(String columnName)
+   at dllbhyt.LibMaubaocao.f_Ngoaitru_xuatExcel_mau79_Mau2(Boolean print, DataSet dsdulieu, String tungay, String denngay)
+-------------------------------------
+15/01/2018 17:20:46
+System.ArgumentException: Column 'tenkp' does not belong to table Table1.
+   at System.Data.DataRow.get_Item(String columnName)
+   at dllbhyt.LibMaubaocao.f_Ngoaitru_xuatExcel_mau79_Mau2(Boolean print, DataSet dsdulieu, String tungay, String denngay)
+-------------------------------------
+15/01/2018 17:20:46
+System.ArgumentException: Column 'tenkp' does not belong to table Table1.
+   at System.Data.DataRow.get_Item(String columnName)
+   at dllbhyt.LibMaubaocao.f_Ngoaitru_xuatExcel_mau79_Mau2(Boolean print, DataSet dsdulieu, String tungay, String denngay)
+-------------------------------------
+15/01/2018 17:20:46
+System.ArgumentException: Column 'tenkp' does not belong to table Table1.
+   at System.Data.DataRow.get_Item(String columnName)
+   at dllbhyt.LibMaubaocao.f_Ngoaitru_xuatExcel_mau79_Mau2(Boolean print, DataSet dsdulieu, String tungay, String denngay)
+-------------------------------------
+15/01/2018 17:20:46
+System.ArgumentException: Column 'tenkp' does not belong to table Table1.
+   at System.Data.DataRow.get_Item(String columnName)
+   at dllbhyt.LibMaubaocao.f_Ngoaitru_xuatExcel_mau79_Mau2(Boolean print, DataSet dsdulieu, String tungay, String denngay)
+-------------------------------------
+15/01/2018 17:20:46
+System.ArgumentException: Column 'tenkp' does not belong to table Table1.
+   at System.Data.DataRow.get_Item(String columnName)
+   at dllbhyt.LibMaubaocao.f_Ngoaitru_xuatExcel_mau79_Mau2(Boolean print, DataSet dsdulieu, String tungay, String denngay)
+-------------------------------------
+15/01/2018 17:20:46
+System.ArgumentException: Column 'tenkp' does not belong to table Table1.
+   at System.Data.DataRow.get_Item(String columnName)
+   at dllbhyt.LibMaubaocao.f_Ngoaitru_xuatExcel_mau79_Mau2(Boolean print, DataSet dsdulieu, String tungay, String denngay)
+-------------------------------------
+15/01/2018 17:20:46
+System.ArgumentException: Column 'tenkp' does not belong to table Table1.
+   at System.Data.DataRow.get_Item(String columnName)
+   at dllbhyt.LibMaubaocao.f_Ngoaitru_xuatExcel_mau79_Mau2(Boolean print, DataSet dsdulieu, String tungay, String denngay)
+-------------------------------------
+15/01/2018 17:20:46
+System.ArgumentException: Column 'tenkp' does not belong to table Table1.
+   at System.Data.DataRow.get_Item(String columnName)
+   at dllbhyt.LibMaubaocao.f_Ngoaitru_xuatExcel_mau79_Mau2(Boolean print, DataSet dsdulieu, String tungay, String denngay)
+-------------------------------------
+15/01/2018 17:20:46
+System.ArgumentException: Column 'tenkp' does not belong to table Table1.
+   at System.Data.DataRow.get_Item(String columnName)
+   at dllbhyt.LibMaubaocao.f_Ngoaitru_xuatExcel_mau79_Mau2(Boolean print, DataSet dsdulieu, String tungay, String denngay)
+-------------------------------------
+15/01/2018 17:20:46
+System.ArgumentException: Column 'tenkp' does not belong to table Table1.
+   at System.Data.DataRow.get_Item(String columnName)
+   at dllbhyt.LibMaubaocao.f_Ngoaitru_xuatExcel_mau79_Mau2(Boolean print, DataSet dsdulieu, String tungay, String denngay)
+-------------------------------------
+15/01/2018 17:20:46
+System.ArgumentException: Column 'tenkp' does not belong to table Table1.
+   at System.Data.DataRow.get_Item(String columnName)
+   at dllbhyt.LibMaubaocao.f_Ngoaitru_xuatExcel_mau79_Mau2(Boolean print, DataSet dsdulieu, String tungay, String denngay)
+-------------------------------------
+15/01/2018 17:20:46
+System.ArgumentException: Column 'tenkp' does not belong to table Table1.
+   at System.Data.DataRow.get_Item(String columnName)
+   at dllbhyt.LibMaubaocao.f_Ngoaitru_xuatExcel_mau79_Mau2(Boolean print, DataSet dsdulieu, String tungay, String denngay)
+-------------------------------------
+15/01/2018 17:20:46
+System.ArgumentException: Column 'tenkp' does not belong to table Table1.
+   at System.Data.DataRow.get_Item(String columnName)
+   at dllbhyt.LibMaubaocao.f_Ngoaitru_xuatExcel_mau79_Mau2(Boolean print, DataSet dsdulieu, String tungay, String denngay)
+-------------------------------------
+15/01/2018 17:20:46
+System.ArgumentException: Column 'tenkp' does not belong to table Table1.
+   at System.Data.DataRow.get_Item(String columnName)
+   at dllbhyt.LibMaubaocao.f_Ngoaitru_xuatExcel_mau79_Mau2(Boolean print, DataSet dsdulieu, String tungay, String denngay)
+-------------------------------------
+15/01/2018 17:20:46
+System.ArgumentException: Column 'tenkp' does not belong to table Table1.
+   at System.Data.DataRow.get_Item(String columnName)
+   at dllbhyt.LibMaubaocao.f_Ngoaitru_xuatExcel_mau79_Mau2(Boolean print, DataSet dsdulieu, String tungay, String denngay)
+-------------------------------------
+15/01/2018 17:20:46
+System.ArgumentException: Column 'tenkp' does not belong to table Table1.
+   at System.Data.DataRow.get_Item(String columnName)
+   at dllbhyt.LibMaubaocao.f_Ngoaitru_xuatExcel_mau79_Mau2(Boolean print, DataSet dsdulieu, String tungay, String denngay)
+-------------------------------------
+15/01/2018 17:20:46
+System.ArgumentException: Column 'tenkp' does not belong to table Table1.
+   at System.Data.DataRow.get_Item(String columnName)
+   at dllbhyt.LibMaubaocao.f_Ngoaitru_xuatExcel_mau79_Mau2(Boolean print, DataSet dsdulieu, String tungay, String denngay)
+-------------------------------------
+15/01/2018 17:20:46
+System.ArgumentException: Column 'tenkp' does not belong to table Table1.
+   at System.Data.DataRow.get_Item(String columnName)
+   at dllbhyt.LibMaubaocao.f_Ngoaitru_xuatExcel_mau79_Mau2(Boolean print, DataSet dsdulieu, String tungay, String denngay)
+-------------------------------------
+15/01/2018 17:20:46
+System.ArgumentException: Column 'tenkp' does not belong to table Table1.
+   at System.Data.DataRow.get_Item(String columnName)
+   at dllbhyt.LibMaubaocao.f_Ngoaitru_xuatExcel_mau79_Mau2(Boolean print, DataSet dsdulieu, String tungay, String denngay)
+-------------------------------------
+15/01/2018 17:20:46
+System.ArgumentException: Column 'tenkp' does not belong to table Table1.
+   at System.Data.DataRow.get_Item(String columnName)
+   at dllbhyt.LibMaubaocao.f_Ngoaitru_xuatExcel_mau79_Mau2(Boolean print, DataSet dsdulieu, String tungay, String denngay)
+-------------------------------------
+15/01/2018 17:20:46
+System.ArgumentException: Column 'tenkp' does not belong to table Table1.
+   at System.Data.DataRow.get_Item(String columnName)
+   at dllbhyt.LibMaubaocao.f_Ngoaitru_xuatExcel_mau79_Mau2(Boolean print, DataSet dsdulieu, String tungay, String denngay)
+-------------------------------------
+15/01/2018 17:20:46
+System.ArgumentException: Column 'tenkp' does not belong to table Table1.
+   at System.Data.DataRow.get_Item(String columnName)
+   at dllbhyt.LibMaubaocao.f_Ngoaitru_xuatExcel_mau79_Mau2(Boolean print, DataSet dsdulieu, String tungay, String denngay)
+-------------------------------------
+15/01/2018 17:20:46
+System.ArgumentException: Column 'tenkp' does not belong to table Table1.
+   at System.Data.DataRow.get_Item(String columnName)
+   at dllbhyt.LibMaubaocao.f_Ngoaitru_xuatExcel_mau79_Mau2(Boolean print, DataSet dsdulieu, String tungay, String denngay)
+-------------------------------------
+15/01/2018 17:20:46
+System.ArgumentException: Column 'tenkp' does not belong to table Table1.
+   at System.Data.DataRow.get_Item(String columnName)
+   at dllbhyt.LibMaubaocao.f_Ngoaitru_xuatExcel_mau79_Mau2(Boolean print, DataSet dsdulieu, String tungay, String denngay)
+-------------------------------------
+15/01/2018 17:20:46
+System.ArgumentException: Column 'tenkp' does not belong to table Table1.
+   at System.Data.DataRow.get_Item(String columnName)
+   at dllbhyt.LibMaubaocao.f_Ngoaitru_xuatExcel_mau79_Mau2(Boolean print, DataSet dsdulieu, String tungay, String denngay)
+-------------------------------------
+15/01/2018 17:20:46
+System.ArgumentException: Column 'tenkp' does not belong to table Table1.
+   at System.Data.DataRow.get_Item(String columnName)
+   at dllbhyt.LibMaubaocao.f_Ngoaitru_xuatExcel_mau79_Mau2(Boolean print, DataSet dsdulieu, String tungay, String denngay)
+-------------------------------------
+15/01/2018 17:20:46
+System.ArgumentException: Column 'tenkp' does not belong to table Table1.
+   at System.Data.DataRow.get_Item(String columnName)
+   at dllbhyt.LibMaubaocao.f_Ngoaitru_xuatExcel_mau79_Mau2(Boolean print, DataSet dsdulieu, String tungay, String denngay)
+-------------------------------------
+15/01/2018 17:20:46
+System.ArgumentException: Column 'tenkp' does not belong to table Table1.
+   at System.Data.DataRow.get_Item(String columnName)
+   at dllbhyt.LibMaubaocao.f_Ngoaitru_xuatExcel_mau79_Mau2(Boolean print, DataSet dsdulieu, String tungay, String denngay)
+-------------------------------------
+15/01/2018 17:20:46
+System.ArgumentException: Column 'tenkp' does not belong to table Table1.
+   at System.Data.DataRow.get_Item(String columnName)
+   at dllbhyt.LibMaubaocao.f_Ngoaitru_xuatExcel_mau79_Mau2(Boolean print, DataSet dsdulieu, String tungay, String denngay)
+-------------------------------------
+15/01/2018 17:20:46
+System.ArgumentException: Column 'tenkp' does not belong to table Table1.
+   at System.Data.DataRow.get_Item(String columnName)
+   at dllbhyt.LibMaubaocao.f_Ngoaitru_xuatExcel_mau79_Mau2(Boolean print, DataSet dsdulieu, String tungay, String denngay)
+-------------------------------------
+15/01/2018 17:20:46
+System.ArgumentException: Column 'tenkp' does not belong to table Table1.
+   at System.Data.DataRow.get_Item(String columnName)
+   at dllbhyt.LibMaubaocao.f_Ngoaitru_xuatExcel_mau79_Mau2(Boolean print, DataSet dsdulieu, String tungay, String denngay)
+-------------------------------------
+15/01/2018 17:20:46
+System.ArgumentException: Column 'tenkp' does not belong to table Table1.
+   at System.Data.DataRow.get_Item(String columnName)
+   at dllbhyt.LibMaubaocao.f_Ngoaitru_xuatExcel_mau79_Mau2(Boolean print, DataSet dsdulieu, String tungay, String denngay)
+-------------------------------------
+15/01/2018 17:20:46
+System.ArgumentException: Column 'tenkp' does not belong to table Table1.
+   at System.Data.DataRow.get_Item(String columnName)
+   at dllbhyt.LibMaubaocao.f_Ngoaitru_xuatExcel_mau79_Mau2(Boolean print, DataSet dsdulieu, String tungay, String denngay)
+-------------------------------------
+15/01/2018 17:20:46
+System.ArgumentException: Column 'tenkp' does not belong to table Table1.
+   at System.Data.DataRow.get_Item(String columnName)
+   at dllbhyt.LibMaubaocao.f_Ngoaitru_xuatExcel_mau79_Mau2(Boolean print, DataSet dsdulieu, String tungay, String denngay)
+-------------------------------------
+15/01/2018 17:20:46
+System.ArgumentException: Column 'tenkp' does not belong to table Table1.
+   at System.Data.DataRow.get_Item(String columnName)
+   at dllbhyt.LibMaubaocao.f_Ngoaitru_xuatExcel_mau79_Mau2(Boolean print, DataSet dsdulieu, String tungay, String denngay)
+-------------------------------------
+15/01/2018 17:20:46
+System.ArgumentException: Column 'tenkp' does not belong to table Table1.
+   at System.Data.DataRow.get_Item(String columnName)
+   at dllbhyt.LibMaubaocao.f_Ngoaitru_xuatExcel_mau79_Mau2(Boolean print, DataSet dsdulieu, String tungay, String denngay)
+-------------------------------------
+15/01/2018 17:20:46
+System.ArgumentException: Column 'tenkp' does not belong to table Table1.
+   at System.Data.DataRow.get_Item(String columnName)
+   at dllbhyt.LibMaubaocao.f_Ngoaitru_xuatExcel_mau79_Mau2(Boolean print, DataSet dsdulieu, String tungay, String denngay)
+-------------------------------------
+15/01/2018 17:20:46
+System.ArgumentException: Column 'tenkp' does not belong to table Table1.
+   at System.Data.DataRow.get_Item(String columnName)
+   at dllbhyt.LibMaubaocao.f_Ngoaitru_xuatExcel_mau79_Mau2(Boolean print, DataSet dsdulieu, String tungay, String denngay)
+-------------------------------------
+15/01/2018 17:20:46
+System.ArgumentException: Column 'tenkp' does not belong to table Table1.
+   at System.Data.DataRow.get_Item(String columnName)
+   at dllbhyt.LibMaubaocao.f_Ngoaitru_xuatExcel_mau79_Mau2(Boolean print, DataSet dsdulieu, String tungay, String denngay)
+-------------------------------------
+15/01/2018 17:20:46
+System.ArgumentException: Column 'tenkp' does not belong to table Table1.
+   at System.Data.DataRow.get_Item(String columnName)
+   at dllbhyt.LibMaubaocao.f_Ngoaitru_xuatExcel_mau79_Mau2(Boolean print, DataSet dsdulieu, String tungay, String denngay)
+-------------------------------------
+15/01/2018 17:20:46
+System.ArgumentException: Column 'tenkp' does not belong to table Table1.
+   at System.Data.DataRow.get_Item(String columnName)
+   at dllbhyt.LibMaubaocao.f_Ngoaitru_xuatExcel_mau79_Mau2(Boolean print, DataSet dsdulieu, String tungay, String denngay)
+-------------------------------------
+15/01/2018 17:20:46
+System.ArgumentException: Column 'tenkp' does not belong to table Table1.
+   at System.Data.DataRow.get_Item(String columnName)
+   at dllbhyt.LibMaubaocao.f_Ngoaitru_xuatExcel_mau79_Mau2(Boolean print, DataSet dsdulieu, String tungay, String denngay)
+-------------------------------------
+15/01/2018 17:20:46
+System.ArgumentException: Column 'tenkp' does not belong to table Table1.
+   at System.Data.DataRow.get_Item(String columnName)
+   at dllbhyt.LibMaubaocao.f_Ngoaitru_xuatExcel_mau79_Mau2(Boolean print, DataSet dsdulieu, String tungay, String denngay)
+-------------------------------------
+15/01/2018 17:20:46
+System.ArgumentException: Column 'tenkp' does not belong to table Table1.
+   at System.Data.DataRow.get_Item(String columnName)
+   at dllbhyt.LibMaubaocao.f_Ngoaitru_xuatExcel_mau79_Mau2(Boolean print, DataSet dsdulieu, String tungay, String denngay)
+-------------------------------------
+15/01/2018 17:20:46
+System.ArgumentException: Column 'tenkp' does not belong to table Table1.
+   at System.Data.DataRow.get_Item(String columnName)
+   at dllbhyt.LibMaubaocao.f_Ngoaitru_xuatExcel_mau79_Mau2(Boolean print, DataSet dsdulieu, String tungay, String denngay)
+-------------------------------------
+15/01/2018 17:20:46
+System.ArgumentException: Column 'tenkp' does not belong to table Table1.
+   at System.Data.DataRow.get_Item(String columnName)
+   at dllbhyt.LibMaubaocao.f_Ngoaitru_xuatExcel_mau79_Mau2(Boolean print, DataSet dsdulieu, String tungay, String denngay)
+-------------------------------------
+15/01/2018 17:20:46
+System.ArgumentException: Column 'tenkp' does not belong to table Table1.
+   at System.Data.DataRow.get_Item(String columnName)
+   at dllbhyt.LibMaubaocao.f_Ngoaitru_xuatExcel_mau79_Mau2(Boolean print, DataSet dsdulieu, String tungay, String denngay)
+-------------------------------------
+15/01/2018 17:20:46
+System.ArgumentException: Column 'tenkp' does not belong to table Table1.
+   at System.Data.DataRow.get_Item(String columnName)
+   at dllbhyt.LibMaubaocao.f_Ngoaitru_xuatExcel_mau79_Mau2(Boolean print, DataSet dsdulieu, String tungay, String denngay)
+-------------------------------------
+15/01/2018 17:20:46
+System.ArgumentException: Column 'tenkp' does not belong to table Table1.
+   at System.Data.DataRow.get_Item(String columnName)
+   at dllbhyt.LibMaubaocao.f_Ngoaitru_xuatExcel_mau79_Mau2(Boolean print, DataSet dsdulieu, String tungay, String denngay)
+-------------------------------------
+15/01/2018 17:20:46
+System.ArgumentException: Column 'tenkp' does not belong to table Table1.
+   at System.Data.DataRow.get_Item(String columnName)
+   at dllbhyt.LibMaubaocao.f_Ngoaitru_xuatExcel_mau79_Mau2(Boolean print, DataSet dsdulieu, String tungay, String denngay)
+-------------------------------------
+15/01/2018 17:20:46
+System.ArgumentException: Column 'tenkp' does not belong to table Table1.
+   at System.Data.DataRow.get_Item(String columnName)
+   at dllbhyt.LibMaubaocao.f_Ngoaitru_xuatExcel_mau79_Mau2(Boolean print, DataSet dsdulieu, String tungay, String denngay)
+-------------------------------------
+15/01/2018 17:20:46
+System.ArgumentException: Column 'tenkp' does not belong to table Table1.
+   at System.Data.DataRow.get_Item(String columnName)
+   at dllbhyt.LibMaubaocao.f_Ngoaitru_xuatExcel_mau79_Mau2(Boolean print, DataSet dsdulieu, String tungay, String denngay)
+-------------------------------------
+15/01/2018 17:20:46
+System.ArgumentException: Column 'tenkp' does not belong to table Table1.
+   at System.Data.DataRow.get_Item(String columnName)
+   at dllbhyt.LibMaubaocao.f_Ngoaitru_xuatExcel_mau79_Mau2(Boolean print, DataSet dsdulieu, String tungay, String denngay)
+-------------------------------------
+15/01/2018 17:20:46
+System.ArgumentException: Column 'tenkp' does not belong to table Table1.
+   at System.Data.DataRow.get_Item(String columnName)
+   at dllbhyt.LibMaubaocao.f_Ngoaitru_xuatExcel_mau79_Mau2(Boolean print, DataSet dsdulieu, String tungay, String denngay)
+-------------------------------------
+15/01/2018 17:20:46
+System.ArgumentException: Column 'tenkp' does not belong to table Table1.
+   at System.Data.DataRow.get_Item(String columnName)
+   at dllbhyt.LibMaubaocao.f_Ngoaitru_xuatExcel_mau79_Mau2(Boolean print, DataSet dsdulieu, String tungay, String denngay)
+-------------------------------------
+15/01/2018 17:20:46
+System.ArgumentException: Column 'tenkp' does not belong to table Table1.
+   at System.Data.DataRow.get_Item(String columnName)
+   at dllbhyt.LibMaubaocao.f_Ngoaitru_xuatExcel_mau79_Mau2(Boolean print, DataSet dsdulieu, String tungay, String denngay)
+-------------------------------------
+15/01/2018 17:20:46
+System.ArgumentException: Column 'tenkp' does not belong to table Table1.
+   at System.Data.DataRow.get_Item(String columnName)
+   at dllbhyt.LibMaubaocao.f_Ngoaitru_xuatExcel_mau79_Mau2(Boolean print, DataSet dsdulieu, String tungay, String denngay)
+-------------------------------------
+15/01/2018 17:20:46
+System.ArgumentException: Column 'tenkp' does not belong to table Table1.
+   at System.Data.DataRow.get_Item(String columnName)
+   at dllbhyt.LibMaubaocao.f_Ngoaitru_xuatExcel_mau79_Mau2(Boolean print, DataSet dsdulieu, String tungay, String denngay)
+-------------------------------------
+15/01/2018 17:20:46
+System.ArgumentException: Column 'tenkp' does not belong to table Table1.
+   at System.Data.DataRow.get_Item(String columnName)
+   at dllbhyt.LibMaubaocao.f_Ngoaitru_xuatExcel_mau79_Mau2(Boolean print, DataSet dsdulieu, String tungay, String denngay)
+-------------------------------------
+15/01/2018 17:20:46
+System.ArgumentException: Column 'tenkp' does not belong to table Table1.
+   at System.Data.DataRow.get_Item(String columnName)
+   at dllbhyt.LibMaubaocao.f_Ngoaitru_xuatExcel_mau79_Mau2(Boolean print, DataSet dsdulieu, String tungay, String denngay)
+-------------------------------------
+15/01/2018 17:20:46
+System.ArgumentException: Column 'tenkp' does not belong to table Table1.
+   at System.Data.DataRow.get_Item(String columnName)
+   at dllbhyt.LibMaubaocao.f_Ngoaitru_xuatExcel_mau79_Mau2(Boolean print, DataSet dsdulieu, String tungay, String denngay)
+-------------------------------------
+15/01/2018 17:20:46
+System.ArgumentException: Column 'tenkp' does not belong to table Table1.
+   at System.Data.DataRow.get_Item(String columnName)
+   at dllbhyt.LibMaubaocao.f_Ngoaitru_xuatExcel_mau79_Mau2(Boolean print, DataSet dsdulieu, String tungay, String denngay)
+-------------------------------------
+15/01/2018 17:22:16
+System.ArgumentException: Column 'tenkp' does not belong to table Table1.
+   at System.Data.DataRow.get_Item(String columnName)
+   at dllbhyt.LibMaubaocao.f_Ngoaitru_xuatExcel_mau79_Mau2(Boolean print, DataSet dsdulieu, String tungay, String denngay)
+-------------------------------------
+15/01/2018 17:22:16
+System.ArgumentException: Column 'tenkp' does not belong to table Table1.
+   at System.Data.DataRow.get_Item(String columnName)
+   at dllbhyt.LibMaubaocao.f_Ngoaitru_xuatExcel_mau79_Mau2(Boolean print, DataSet dsdulieu, String tungay, String denngay)
+-------------------------------------
+15/01/2018 17:22:16
+System.ArgumentException: Column 'tenkp' does not belong to table Table1.
+   at System.Data.DataRow.get_Item(String columnName)
+   at dllbhyt.LibMaubaocao.f_Ngoaitru_xuatExcel_mau79_Mau2(Boolean print, DataSet dsdulieu, String tungay, String denngay)
+-------------------------------------
+15/01/2018 17:22:16
+System.ArgumentException: Column 'tenkp' does not belong to table Table1.
+   at System.Data.DataRow.get_Item(String columnName)
+   at dllbhyt.LibMaubaocao.f_Ngoaitru_xuatExcel_mau79_Mau2(Boolean print, DataSet dsdulieu, String tungay, String denngay)
+-------------------------------------
+15/01/2018 17:22:16
+System.ArgumentException: Column 'tenkp' does not belong to table Table1.
+   at System.Data.DataRow.get_Item(String columnName)
+   at dllbhyt.LibMaubaocao.f_Ngoaitru_xuatExcel_mau79_Mau2(Boolean print, DataSet dsdulieu, String tungay, String denngay)
+-------------------------------------
+15/01/2018 17:22:16
+System.ArgumentException: Column 'tenkp' does not belong to table Table1.
+   at System.Data.DataRow.get_Item(String columnName)
+   at dllbhyt.LibMaubaocao.f_Ngoaitru_xuatExcel_mau79_Mau2(Boolean print, DataSet dsdulieu, String tungay, String denngay)
+-------------------------------------
+15/01/2018 17:22:16
+System.ArgumentException: Column 'tenkp' does not belong to table Table1.
+   at System.Data.DataRow.get_Item(String columnName)
+   at dllbhyt.LibMaubaocao.f_Ngoaitru_xuatExcel_mau79_Mau2(Boolean print, DataSet dsdulieu, String tungay, String denngay)
+-------------------------------------
+15/01/2018 17:22:16
+System.ArgumentException: Column 'tenkp' does not belong to table Table1.
+   at System.Data.DataRow.get_Item(String columnName)
+   at dllbhyt.LibMaubaocao.f_Ngoaitru_xuatExcel_mau79_Mau2(Boolean print, DataSet dsdulieu, String tungay, String denngay)
+-------------------------------------
+15/01/2018 17:22:16
+System.ArgumentException: Column 'tenkp' does not belong to table Table1.
+   at System.Data.DataRow.get_Item(String columnName)
+   at dllbhyt.LibMaubaocao.f_Ngoaitru_xuatExcel_mau79_Mau2(Boolean print, DataSet dsdulieu, String tungay, String denngay)
+-------------------------------------
+15/01/2018 17:22:16
+System.ArgumentException: Column 'tenkp' does not belong to table Table1.
+   at System.Data.DataRow.get_Item(String columnName)
+   at dllbhyt.LibMaubaocao.f_Ngoaitru_xuatExcel_mau79_Mau2(Boolean print, DataSet dsdulieu, String tungay, String denngay)
+-------------------------------------
+15/01/2018 17:22:16
+System.ArgumentException: Column 'tenkp' does not belong to table Table1.
+   at System.Data.DataRow.get_Item(String columnName)
+   at dllbhyt.LibMaubaocao.f_Ngoaitru_xuatExcel_mau79_Mau2(Boolean print, DataSet dsdulieu, String tungay, String denngay)
+-------------------------------------
+15/01/2018 17:22:16
+System.ArgumentException: Column 'tenkp' does not belong to table Table1.
+   at System.Data.DataRow.get_Item(String columnName)
+   at dllbhyt.LibMaubaocao.f_Ngoaitru_xuatExcel_mau79_Mau2(Boolean print, DataSet dsdulieu, String tungay, String denngay)
+-------------------------------------
+15/01/2018 17:22:16
+System.ArgumentException: Column 'tenkp' does not belong to table Table1.
+   at System.Data.DataRow.get_Item(String columnName)
+   at dllbhyt.LibMaubaocao.f_Ngoaitru_xuatExcel_mau79_Mau2(Boolean print, DataSet dsdulieu, String tungay, String denngay)
+-------------------------------------
+15/01/2018 17:22:16
+System.ArgumentException: Column 'tenkp' does not belong to table Table1.
+   at System.Data.DataRow.get_Item(String columnName)
+   at dllbhyt.LibMaubaocao.f_Ngoaitru_xuatExcel_mau79_Mau2(Boolean print, DataSet dsdulieu, String tungay, String denngay)
+-------------------------------------
+15/01/2018 17:22:16
+System.ArgumentException: Column 'tenkp' does not belong to table Table1.
+   at System.Data.DataRow.get_Item(String columnName)
+   at dllbhyt.LibMaubaocao.f_Ngoaitru_xuatExcel_mau79_Mau2(Boolean print, DataSet dsdulieu, String tungay, String denngay)
+-------------------------------------
+15/01/2018 17:22:16
+System.ArgumentException: Column 'tenkp' does not belong to table Table1.
+   at System.Data.DataRow.get_Item(String columnName)
+   at dllbhyt.LibMaubaocao.f_Ngoaitru_xuatExcel_mau79_Mau2(Boolean print, DataSet dsdulieu, String tungay, String denngay)
+-------------------------------------
+15/01/2018 17:22:16
+System.ArgumentException: Column 'tenkp' does not belong to table Table1.
+   at System.Data.DataRow.get_Item(String columnName)
+   at dllbhyt.LibMaubaocao.f_Ngoaitru_xuatExcel_mau79_Mau2(Boolean print, DataSet dsdulieu, String tungay, String denngay)
+-------------------------------------
+15/01/2018 17:22:16
+System.ArgumentException: Column 'tenkp' does not belong to table Table1.
+   at System.Data.DataRow.get_Item(String columnName)
+   at dllbhyt.LibMaubaocao.f_Ngoaitru_xuatExcel_mau79_Mau2(Boolean print, DataSet dsdulieu, String tungay, String denngay)
+-------------------------------------
+15/01/2018 17:22:16
+System.ArgumentException: Column 'tenkp' does not belong to table Table1.
+   at System.Data.DataRow.get_Item(String columnName)
+   at dllbhyt.LibMaubaocao.f_Ngoaitru_xuatExcel_mau79_Mau2(Boolean print, DataSet dsdulieu, String tungay, String denngay)
+-------------------------------------
+15/01/2018 17:22:16
+System.ArgumentException: Column 'tenkp' does not belong to table Table1.
+   at System.Data.DataRow.get_Item(String columnName)
+   at dllbhyt.LibMaubaocao.f_Ngoaitru_xuatExcel_mau79_Mau2(Boolean print, DataSet dsdulieu, String tungay, String denngay)
+-------------------------------------
+15/01/2018 17:22:16
+System.ArgumentException: Column 'tenkp' does not belong to table Table1.
+   at System.Data.DataRow.get_Item(String columnName)
+   at dllbhyt.LibMaubaocao.f_Ngoaitru_xuatExcel_mau79_Mau2(Boolean print, DataSet dsdulieu, String tungay, String denngay)
+-------------------------------------
+15/01/2018 17:22:16
+System.ArgumentException: Column 'tenkp' does not belong to table Table1.
+   at System.Data.DataRow.get_Item(String columnName)
+   at dllbhyt.LibMaubaocao.f_Ngoaitru_xuatExcel_mau79_Mau2(Boolean print, DataSet dsdulieu, String tungay, String denngay)
+-------------------------------------
+15/01/2018 17:22:16
+System.ArgumentException: Column 'tenkp' does not belong to table Table1.
+   at System.Data.DataRow.get_Item(String columnName)
+   at dllbhyt.LibMaubaocao.f_Ngoaitru_xuatExcel_mau79_Mau2(Boolean print, DataSet dsdulieu, String tungay, String denngay)
+-------------------------------------
+15/01/2018 17:22:16
+System.ArgumentException: Column 'tenkp' does not belong to table Table1.
+   at System.Data.DataRow.get_Item(String columnName)
+   at dllbhyt.LibMaubaocao.f_Ngoaitru_xuatExcel_mau79_Mau2(Boolean print, DataSet dsdulieu, String tungay, String denngay)
+-------------------------------------
+15/01/2018 17:22:16
+System.ArgumentException: Column 'tenkp' does not belong to table Table1.
+   at System.Data.DataRow.get_Item(String columnName)
+   at dllbhyt.LibMaubaocao.f_Ngoaitru_xuatExcel_mau79_Mau2(Boolean print, DataSet dsdulieu, String tungay, String denngay)
+-------------------------------------
+15/01/2018 17:22:16
+System.ArgumentException: Column 'tenkp' does not belong to table Table1.
+   at System.Data.DataRow.get_Item(String columnName)
+   at dllbhyt.LibMaubaocao.f_Ngoaitru_xuatExcel_mau79_Mau2(Boolean print, DataSet dsdulieu, String tungay, String denngay)
+-------------------------------------
+15/01/2018 17:22:16
+System.ArgumentException: Column 'tenkp' does not belong to table Table1.
+   at System.Data.DataRow.get_Item(String columnName)
+   at dllbhyt.LibMaubaocao.f_Ngoaitru_xuatExcel_mau79_Mau2(Boolean print, DataSet dsdulieu, String tungay, String denngay)
+-------------------------------------
+15/01/2018 17:22:16
+System.ArgumentException: Column 'tenkp' does not belong to table Table1.
+   at System.Data.DataRow.get_Item(String columnName)
+   at dllbhyt.LibMaubaocao.f_Ngoaitru_xuatExcel_mau79_Mau2(Boolean print, DataSet dsdulieu, String tungay, String denngay)
+-------------------------------------
+15/01/2018 17:22:16
+System.ArgumentException: Column 'tenkp' does not belong to table Table1.
+   at System.Data.DataRow.get_Item(String columnName)
+   at dllbhyt.LibMaubaocao.f_Ngoaitru_xuatExcel_mau79_Mau2(Boolean print, DataSet dsdulieu, String tungay, String denngay)
+-------------------------------------
+15/01/2018 17:22:16
+System.ArgumentException: Column 'tenkp' does not belong to table Table1.
+   at System.Data.DataRow.get_Item(String columnName)
+   at dllbhyt.LibMaubaocao.f_Ngoaitru_xuatExcel_mau79_Mau2(Boolean print, DataSet dsdulieu, String tungay, String denngay)
+-------------------------------------
+15/01/2018 17:22:16
+System.ArgumentException: Column 'tenkp' does not belong to table Table1.
+   at System.Data.DataRow.get_Item(String columnName)
+   at dllbhyt.LibMaubaocao.f_Ngoaitru_xuatExcel_mau79_Mau2(Boolean print, DataSet dsdulieu, String tungay, String denngay)
+-------------------------------------
+15/01/2018 17:22:16
+System.ArgumentException: Column 'tenkp' does not belong to table Table1.
+   at System.Data.DataRow.get_Item(String columnName)
+   at dllbhyt.LibMaubaocao.f_Ngoaitru_xuatExcel_mau79_Mau2(Boolean print, DataSet dsdulieu, String tungay, String denngay)
+-------------------------------------
+15/01/2018 17:22:16
+System.ArgumentException: Column 'tenkp' does not belong to table Table1.
+   at System.Data.DataRow.get_Item(String columnName)
+   at dllbhyt.LibMaubaocao.f_Ngoaitru_xuatExcel_mau79_Mau2(Boolean print, DataSet dsdulieu, String tungay, String denngay)
+-------------------------------------
+15/01/2018 17:22:16
+System.ArgumentException: Column 'tenkp' does not belong to table Table1.
+   at System.Data.DataRow.get_Item(String columnName)
+   at dllbhyt.LibMaubaocao.f_Ngoaitru_xuatExcel_mau79_Mau2(Boolean print, DataSet dsdulieu, String tungay, String denngay)
+-------------------------------------
+15/01/2018 17:22:16
+System.ArgumentException: Column 'tenkp' does not belong to table Table1.
+   at System.Data.DataRow.get_Item(String columnName)
+   at dllbhyt.LibMaubaocao.f_Ngoaitru_xuatExcel_mau79_Mau2(Boolean print, DataSet dsdulieu, String tungay, String denngay)
+-------------------------------------
+15/01/2018 17:22:16
+System.ArgumentException: Column 'tenkp' does not belong to table Table1.
+   at System.Data.DataRow.get_Item(String columnName)
+   at dllbhyt.LibMaubaocao.f_Ngoaitru_xuatExcel_mau79_Mau2(Boolean print, DataSet dsdulieu, String tungay, String denngay)
+-------------------------------------
+15/01/2018 17:22:16
+System.ArgumentException: Column 'tenkp' does not belong to table Table1.
+   at System.Data.DataRow.get_Item(String columnName)
+   at dllbhyt.LibMaubaocao.f_Ngoaitru_xuatExcel_mau79_Mau2(Boolean print, DataSet dsdulieu, String tungay, String denngay)
+-------------------------------------
+15/01/2018 17:22:16
+System.ArgumentException: Column 'tenkp' does not belong to table Table1.
+   at System.Data.DataRow.get_Item(String columnName)
+   at dllbhyt.LibMaubaocao.f_Ngoaitru_xuatExcel_mau79_Mau2(Boolean print, DataSet dsdulieu, String tungay, String denngay)
+-------------------------------------
+15/01/2018 17:22:16
+System.ArgumentException: Column 'tenkp' does not belong to table Table1.
+   at System.Data.DataRow.get_Item(String columnName)
+   at dllbhyt.LibMaubaocao.f_Ngoaitru_xuatExcel_mau79_Mau2(Boolean print, DataSet dsdulieu, String tungay, String denngay)
+-------------------------------------
+15/01/2018 17:22:16
+System.ArgumentException: Column 'tenkp' does not belong to table Table1.
+   at System.Data.DataRow.get_Item(String columnName)
+   at dllbhyt.LibMaubaocao.f_Ngoaitru_xuatExcel_mau79_Mau2(Boolean print, DataSet dsdulieu, String tungay, String denngay)
+-------------------------------------
+15/01/2018 17:22:16
+System.ArgumentException: Column 'tenkp' does not belong to table Table1.
+   at System.Data.DataRow.get_Item(String columnName)
+   at dllbhyt.LibMaubaocao.f_Ngoaitru_xuatExcel_mau79_Mau2(Boolean print, DataSet dsdulieu, String tungay, String denngay)
+-------------------------------------
+15/01/2018 17:22:16
+System.ArgumentException: Column 'tenkp' does not belong to table Table1.
+   at System.Data.DataRow.get_Item(String columnName)
+   at dllbhyt.LibMaubaocao.f_Ngoaitru_xuatExcel_mau79_Mau2(Boolean print, DataSet dsdulieu, String tungay, String denngay)
+-------------------------------------
+15/01/2018 17:22:16
+System.ArgumentException: Column 'tenkp' does not belong to table Table1.
+   at System.Data.DataRow.get_Item(String columnName)
+   at dllbhyt.LibMaubaocao.f_Ngoaitru_xuatExcel_mau79_Mau2(Boolean print, DataSet dsdulieu, String tungay, String denngay)
+-------------------------------------
+15/01/2018 17:22:16
+System.ArgumentException: Column 'tenkp' does not belong to table Table1.
+   at System.Data.DataRow.get_Item(String columnName)
+   at dllbhyt.LibMaubaocao.f_Ngoaitru_xuatExcel_mau79_Mau2(Boolean print, DataSet dsdulieu, String tungay, String denngay)
+-------------------------------------
+15/01/2018 17:22:16
+System.ArgumentException: Column 'tenkp' does not belong to table Table1.
+   at System.Data.DataRow.get_Item(String columnName)
+   at dllbhyt.LibMaubaocao.f_Ngoaitru_xuatExcel_mau79_Mau2(Boolean print, DataSet dsdulieu, String tungay, String denngay)
+-------------------------------------
+15/01/2018 17:22:16
+System.ArgumentException: Column 'tenkp' does not belong to table Table1.
+   at System.Data.DataRow.get_Item(String columnName)
+   at dllbhyt.LibMaubaocao.f_Ngoaitru_xuatExcel_mau79_Mau2(Boolean print, DataSet dsdulieu, String tungay, String denngay)
+-------------------------------------
+15/01/2018 17:22:16
+System.ArgumentException: Column 'tenkp' does not belong to table Table1.
+   at System.Data.DataRow.get_Item(String columnName)
+   at dllbhyt.LibMaubaocao.f_Ngoaitru_xuatExcel_mau79_Mau2(Boolean print, DataSet dsdulieu, String tungay, String denngay)
+-------------------------------------
+15/01/2018 17:22:16
+System.ArgumentException: Column 'tenkp' does not belong to table Table1.
+   at System.Data.DataRow.get_Item(String columnName)
+   at dllbhyt.LibMaubaocao.f_Ngoaitru_xuatExcel_mau79_Mau2(Boolean print, DataSet dsdulieu, String tungay, String denngay)
+-------------------------------------
+15/01/2018 17:22:16
+System.ArgumentException: Column 'tenkp' does not belong to table Table1.
+   at System.Data.DataRow.get_Item(String columnName)
+   at dllbhyt.LibMaubaocao.f_Ngoaitru_xuatExcel_mau79_Mau2(Boolean print, DataSet dsdulieu, String tungay, String denngay)
+-------------------------------------
+15/01/2018 17:22:16
+System.ArgumentException: Column 'tenkp' does not belong to table Table1.
+   at System.Data.DataRow.get_Item(String columnName)
+   at dllbhyt.LibMaubaocao.f_Ngoaitru_xuatExcel_mau79_Mau2(Boolean print, DataSet dsdulieu, String tungay, String denngay)
+-------------------------------------
+15/01/2018 17:22:16
+System.ArgumentException: Column 'tenkp' does not belong to table Table1.
+   at System.Data.DataRow.get_Item(String columnName)
+   at dllbhyt.LibMaubaocao.f_Ngoaitru_xuatExcel_mau79_Mau2(Boolean print, DataSet dsdulieu, String tungay, String denngay)
+-------------------------------------
+15/01/2018 17:22:16
+System.ArgumentException: Column 'tenkp' does not belong to table Table1.
+   at System.Data.DataRow.get_Item(String columnName)
+   at dllbhyt.LibMaubaocao.f_Ngoaitru_xuatExcel_mau79_Mau2(Boolean print, DataSet dsdulieu, String tungay, String denngay)
+-------------------------------------
+15/01/2018 17:22:16
+System.ArgumentException: Column 'tenkp' does not belong to table Table1.
+   at System.Data.DataRow.get_Item(String columnName)
+   at dllbhyt.LibMaubaocao.f_Ngoaitru_xuatExcel_mau79_Mau2(Boolean print, DataSet dsdulieu, String tungay, String denngay)
+-------------------------------------
+15/01/2018 17:22:16
+System.ArgumentException: Column 'tenkp' does not belong to table Table1.
+   at System.Data.DataRow.get_Item(String columnName)
+   at dllbhyt.LibMaubaocao.f_Ngoaitru_xuatExcel_mau79_Mau2(Boolean print, DataSet dsdulieu, String tungay, String denngay)
+-------------------------------------
+15/01/2018 17:22:16
+System.ArgumentException: Column 'tenkp' does not belong to table Table1.
+   at System.Data.DataRow.get_Item(String columnName)
+   at dllbhyt.LibMaubaocao.f_Ngoaitru_xuatExcel_mau79_Mau2(Boolean print, DataSet dsdulieu, String tungay, String denngay)
+-------------------------------------
+15/01/2018 17:22:16
+System.ArgumentException: Column 'tenkp' does not belong to table Table1.
+   at System.Data.DataRow.get_Item(String columnName)
+   at dllbhyt.LibMaubaocao.f_Ngoaitru_xuatExcel_mau79_Mau2(Boolean print, DataSet dsdulieu, String tungay, String denngay)
+-------------------------------------
+15/01/2018 17:22:16
+System.ArgumentException: Column 'tenkp' does not belong to table Table1.
+   at System.Data.DataRow.get_Item(String columnName)
+   at dllbhyt.LibMaubaocao.f_Ngoaitru_xuatExcel_mau79_Mau2(Boolean print, DataSet dsdulieu, String tungay, String denngay)
+-------------------------------------
+15/01/2018 17:22:16
+System.ArgumentException: Column 'tenkp' does not belong to table Table1.
+   at System.Data.DataRow.get_Item(String columnName)
+   at dllbhyt.LibMaubaocao.f_Ngoaitru_xuatExcel_mau79_Mau2(Boolean print, DataSet dsdulieu, String tungay, String denngay)
+-------------------------------------
+15/01/2018 17:22:16
+System.ArgumentException: Column 'tenkp' does not belong to table Table1.
+   at System.Data.DataRow.get_Item(String columnName)
+   at dllbhyt.LibMaubaocao.f_Ngoaitru_xuatExcel_mau79_Mau2(Boolean print, DataSet dsdulieu, String tungay, String denngay)
+-------------------------------------
+15/01/2018 17:22:16
+System.ArgumentException: Column 'tenkp' does not belong to table Table1.
+   at System.Data.DataRow.get_Item(String columnName)
+   at dllbhyt.LibMaubaocao.f_Ngoaitru_xuatExcel_mau79_Mau2(Boolean print, DataSet dsdulieu, String tungay, String denngay)
+-------------------------------------
+15/01/2018 17:22:16
+System.ArgumentException: Column 'tenkp' does not belong to table Table1.
+   at System.Data.DataRow.get_Item(String columnName)
+   at dllbhyt.LibMaubaocao.f_Ngoaitru_xuatExcel_mau79_Mau2(Boolean print, DataSet dsdulieu, String tungay, String denngay)
+-------------------------------------
+15/01/2018 17:22:16
+System.ArgumentException: Column 'tenkp' does not belong to table Table1.
+   at System.Data.DataRow.get_Item(String columnName)
+   at dllbhyt.LibMaubaocao.f_Ngoaitru_xuatExcel_mau79_Mau2(Boolean print, DataSet dsdulieu, String tungay, String denngay)
+-------------------------------------
+15/01/2018 17:22:16
+System.ArgumentException: Column 'tenkp' does not belong to table Table1.
+   at System.Data.DataRow.get_Item(String columnName)
+   at dllbhyt.LibMaubaocao.f_Ngoaitru_xuatExcel_mau79_Mau2(Boolean print, DataSet dsdulieu, String tungay, String denngay)
+-------------------------------------
+15/01/2018 17:22:16
+System.ArgumentException: Column 'tenkp' does not belong to table Table1.
+   at System.Data.DataRow.get_Item(String columnName)
+   at dllbhyt.LibMaubaocao.f_Ngoaitru_xuatExcel_mau79_Mau2(Boolean print, DataSet dsdulieu, String tungay, String denngay)
+-------------------------------------
+15/01/2018 17:22:16
+System.ArgumentException: Column 'tenkp' does not belong to table Table1.
+   at System.Data.DataRow.get_Item(String columnName)
+   at dllbhyt.LibMaubaocao.f_Ngoaitru_xuatExcel_mau79_Mau2(Boolean print, DataSet dsdulieu, String tungay, String denngay)
+-------------------------------------
+15/01/2018 17:22:16
+System.ArgumentException: Column 'tenkp' does not belong to table Table1.
+   at System.Data.DataRow.get_Item(String columnName)
+   at dllbhyt.LibMaubaocao.f_Ngoaitru_xuatExcel_mau79_Mau2(Boolean print, DataSet dsdulieu, String tungay, String denngay)
+-------------------------------------
+15/01/2018 17:22:16
+System.ArgumentException: Column 'tenkp' does not belong to table Table1.
+   at System.Data.DataRow.get_Item(String columnName)
+   at dllbhyt.LibMaubaocao.f_Ngoaitru_xuatExcel_mau79_Mau2(Boolean print, DataSet dsdulieu, String tungay, String denngay)
+-------------------------------------
+15/01/2018 17:22:16
+System.ArgumentException: Column 'tenkp' does not belong to table Table1.
+   at System.Data.DataRow.get_Item(String columnName)
+   at dllbhyt.LibMaubaocao.f_Ngoaitru_xuatExcel_mau79_Mau2(Boolean print, DataSet dsdulieu, String tungay, String denngay)
+-------------------------------------
+15/01/2018 17:22:16
+System.ArgumentException: Column 'tenkp' does not belong to table Table1.
+   at System.Data.DataRow.get_Item(String columnName)
+   at dllbhyt.LibMaubaocao.f_Ngoaitru_xuatExcel_mau79_Mau2(Boolean print, DataSet dsdulieu, String tungay, String denngay)
+-------------------------------------
+15/01/2018 17:22:16
+System.ArgumentException: Column 'tenkp' does not belong to table Table1.
+   at System.Data.DataRow.get_Item(String columnName)
+   at dllbhyt.LibMaubaocao.f_Ngoaitru_xuatExcel_mau79_Mau2(Boolean print, DataSet dsdulieu, String tungay, String denngay)
+-------------------------------------
+15/01/2018 17:22:16
+System.ArgumentException: Column 'tenkp' does not belong to table Table1.
+   at System.Data.DataRow.get_Item(String columnName)
+   at dllbhyt.LibMaubaocao.f_Ngoaitru_xuatExcel_mau79_Mau2(Boolean print, DataSet dsdulieu, String tungay, String denngay)
+-------------------------------------
+15/01/2018 17:22:16
+System.ArgumentException: Column 'tenkp' does not belong to table Table1.
+   at System.Data.DataRow.get_Item(String columnName)
+   at dllbhyt.LibMaubaocao.f_Ngoaitru_xuatExcel_mau79_Mau2(Boolean print, DataSet dsdulieu, String tungay, String denngay)
+-------------------------------------
+15/01/2018 17:22:16
+System.ArgumentException: Column 'tenkp' does not belong to table Table1.
+   at System.Data.DataRow.get_Item(String columnName)
+   at dllbhyt.LibMaubaocao.f_Ngoaitru_xuatExcel_mau79_Mau2(Boolean print, DataSet dsdulieu, String tungay, String denngay)
+-------------------------------------
+15/01/2018 17:22:16
+System.ArgumentException: Column 'tenkp' does not belong to table Table1.
+   at System.Data.DataRow.get_Item(String columnName)
+   at dllbhyt.LibMaubaocao.f_Ngoaitru_xuatExcel_mau79_Mau2(Boolean print, DataSet dsdulieu, String tungay, String denngay)
+-------------------------------------
+15/01/2018 17:22:16
+System.ArgumentException: Column 'tenkp' does not belong to table Table1.
+   at System.Data.DataRow.get_Item(String columnName)
+   at dllbhyt.LibMaubaocao.f_Ngoaitru_xuatExcel_mau79_Mau2(Boolean print, DataSet dsdulieu, String tungay, String denngay)
+-------------------------------------
+15/01/2018 17:22:16
+System.ArgumentException: Column 'tenkp' does not belong to table Table1.
+   at System.Data.DataRow.get_Item(String columnName)
+   at dllbhyt.LibMaubaocao.f_Ngoaitru_xuatExcel_mau79_Mau2(Boolean print, DataSet dsdulieu, String tungay, String denngay)
+-------------------------------------
+15/01/2018 17:22:16
+System.ArgumentException: Column 'tenkp' does not belong to table Table1.
+   at System.Data.DataRow.get_Item(String columnName)
+   at dllbhyt.LibMaubaocao.f_Ngoaitru_xuatExcel_mau79_Mau2(Boolean print, DataSet dsdulieu, String tungay, String denngay)
+-------------------------------------
+15/01/2018 17:22:16
+System.ArgumentException: Column 'tenkp' does not belong to table Table1.
+   at System.Data.DataRow.get_Item(String columnName)
+   at dllbhyt.LibMaubaocao.f_Ngoaitru_xuatExcel_mau79_Mau2(Boolean print, DataSet dsdulieu, String tungay, String denngay)
+-------------------------------------
+15/01/2018 17:22:16
+System.ArgumentException: Column 'tenkp' does not belong to table Table1.
+   at System.Data.DataRow.get_Item(String columnName)
+   at dllbhyt.LibMaubaocao.f_Ngoaitru_xuatExcel_mau79_Mau2(Boolean print, DataSet dsdulieu, String tungay, String denngay)
+-------------------------------------
+15/01/2018 17:22:16
+System.ArgumentException: Column 'tenkp' does not belong to table Table1.
+   at System.Data.DataRow.get_Item(String columnName)
+   at dllbhyt.LibMaubaocao.f_Ngoaitru_xuatExcel_mau79_Mau2(Boolean print, DataSet dsdulieu, String tungay, String denngay)
+-------------------------------------
+15/01/2018 17:22:16
+System.ArgumentException: Column 'tenkp' does not belong to table Table1.
+   at System.Data.DataRow.get_Item(String columnName)
+   at dllbhyt.LibMaubaocao.f_Ngoaitru_xuatExcel_mau79_Mau2(Boolean print, DataSet dsdulieu, String tungay, String denngay)
+-------------------------------------
+15/01/2018 17:22:16
+System.ArgumentException: Column 'tenkp' does not belong to table Table1.
+   at System.Data.DataRow.get_Item(String columnName)
+   at dllbhyt.LibMaubaocao.f_Ngoaitru_xuatExcel_mau79_Mau2(Boolean print, DataSet dsdulieu, String tungay, String denngay)
+-------------------------------------
+15/01/2018 17:22:16
+System.ArgumentException: Column 'tenkp' does not belong to table Table1.
+   at System.Data.DataRow.get_Item(String columnName)
+   at dllbhyt.LibMaubaocao.f_Ngoaitru_xuatExcel_mau79_Mau2(Boolean print, DataSet dsdulieu, String tungay, String denngay)
+-------------------------------------
+15/01/2018 17:22:16
+System.ArgumentException: Column 'tenkp' does not belong to table Table1.
+   at System.Data.DataRow.get_Item(String columnName)
+   at dllbhyt.LibMaubaocao.f_Ngoaitru_xuatExcel_mau79_Mau2(Boolean print, DataSet dsdulieu, String tungay, String denngay)
+-------------------------------------
+15/01/2018 17:22:16
+System.ArgumentException: Column 'tenkp' does not belong to table Table1.
+   at System.Data.DataRow.get_Item(String columnName)
+   at dllbhyt.LibMaubaocao.f_Ngoaitru_xuatExcel_mau79_Mau2(Boolean print, DataSet dsdulieu, String tungay, String denngay)
+-------------------------------------
+15/01/2018 17:22:16
+System.ArgumentException: Column 'tenkp' does not belong to table Table1.
+   at System.Data.DataRow.get_Item(String columnName)
+   at dllbhyt.LibMaubaocao.f_Ngoaitru_xuatExcel_mau79_Mau2(Boolean print, DataSet dsdulieu, String tungay, String denngay)
+-------------------------------------
+15/01/2018 17:22:16
+System.ArgumentException: Column 'tenkp' does not belong to table Table1.
+   at System.Data.DataRow.get_Item(String columnName)
+   at dllbhyt.LibMaubaocao.f_Ngoaitru_xuatExcel_mau79_Mau2(Boolean print, DataSet dsdulieu, String tungay, String denngay)
+-------------------------------------
+15/01/2018 17:22:16
+System.ArgumentException: Column 'tenkp' does not belong to table Table1.
+   at System.Data.DataRow.get_Item(String columnName)
+   at dllbhyt.LibMaubaocao.f_Ngoaitru_xuatExcel_mau79_Mau2(Boolean print, DataSet dsdulieu, String tungay, String denngay)
+-------------------------------------
+15/01/2018 17:22:16
+System.ArgumentException: Column 'tenkp' does not belong to table Table1.
+   at System.Data.DataRow.get_Item(String columnName)
+   at dllbhyt.LibMaubaocao.f_Ngoaitru_xuatExcel_mau79_Mau2(Boolean print, DataSet dsdulieu, String tungay, String denngay)
+-------------------------------------
+15/01/2018 17:22:16
+System.ArgumentException: Column 'tenkp' does not belong to table Table1.
+   at System.Data.DataRow.get_Item(String columnName)
+   at dllbhyt.LibMaubaocao.f_Ngoaitru_xuatExcel_mau79_Mau2(Boolean print, DataSet dsdulieu, String tungay, String denngay)
+-------------------------------------
+15/01/2018 17:22:16
+System.ArgumentException: Column 'tenkp' does not belong to table Table1.
+   at System.Data.DataRow.get_Item(String columnName)
+   at dllbhyt.LibMaubaocao.f_Ngoaitru_xuatExcel_mau79_Mau2(Boolean print, DataSet dsdulieu, String tungay, String denngay)
+-------------------------------------
+15/01/2018 17:22:16
+System.ArgumentException: Column 'tenkp' does not belong to table Table1.
+   at System.Data.DataRow.get_Item(String columnName)
+   at dllbhyt.LibMaubaocao.f_Ngoaitru_xuatExcel_mau79_Mau2(Boolean print, DataSet dsdulieu, String tungay, String denngay)
+-------------------------------------
+15/01/2018 17:22:16
+System.ArgumentException: Column 'tenkp' does not belong to table Table1.
+   at System.Data.DataRow.get_Item(String columnName)
+   at dllbhyt.LibMaubaocao.f_Ngoaitru_xuatExcel_mau79_Mau2(Boolean print, DataSet dsdulieu, String tungay, String denngay)
+-------------------------------------
+15/01/2018 17:22:16
+System.ArgumentException: Column 'tenkp' does not belong to table Table1.
+   at System.Data.DataRow.get_Item(String columnName)
+   at dllbhyt.LibMaubaocao.f_Ngoaitru_xuatExcel_mau79_Mau2(Boolean print, DataSet dsdulieu, String tungay, String denngay)
+-------------------------------------
+15/01/2018 17:22:16
+System.ArgumentException: Column 'tenkp' does not belong to table Table1.
+   at System.Data.DataRow.get_Item(String columnName)
+   at dllbhyt.LibMaubaocao.f_Ngoaitru_xuatExcel_mau79_Mau2(Boolean print, DataSet dsdulieu, String tungay, String denngay)
+-------------------------------------
+15/01/2018 17:22:16
+System.ArgumentException: Column 'tenkp' does not belong to table Table1.
+   at System.Data.DataRow.get_Item(String columnName)
+   at dllbhyt.LibMaubaocao.f_Ngoaitru_xuatExcel_mau79_Mau2(Boolean print, DataSet dsdulieu, String tungay, String denngay)
+-------------------------------------
+15/01/2018 17:22:16
+System.ArgumentException: Column 'tenkp' does not belong to table Table1.
+   at System.Data.DataRow.get_Item(String columnName)
+   at dllbhyt.LibMaubaocao.f_Ngoaitru_xuatExcel_mau79_Mau2(Boolean print, DataSet dsdulieu, String tungay, String denngay)
+-------------------------------------
+15/01/2018 17:22:16
+System.ArgumentException: Column 'tenkp' does not belong to table Table1.
+   at System.Data.DataRow.get_Item(String columnName)
+   at dllbhyt.LibMaubaocao.f_Ngoaitru_xuatExcel_mau79_Mau2(Boolean print, DataSet dsdulieu, String tungay, String denngay)
+-------------------------------------
+15/01/2018 17:22:16
+System.ArgumentException: Column 'tenkp' does not belong to table Table1.
+   at System.Data.DataRow.get_Item(String columnName)
+   at dllbhyt.LibMaubaocao.f_Ngoaitru_xuatExcel_mau79_Mau2(Boolean print, DataSet dsdulieu, String tungay, String denngay)
+-------------------------------------
+15/01/2018 17:22:16
+System.ArgumentException: Column 'tenkp' does not belong to table Table1.
+   at System.Data.DataRow.get_Item(String columnName)
+   at dllbhyt.LibMaubaocao.f_Ngoaitru_xuatExcel_mau79_Mau2(Boolean print, DataSet dsdulieu, String tungay, String denngay)
+-------------------------------------
+15/01/2018 17:22:16
+System.ArgumentException: Column 'tenkp' does not belong to table Table1.
+   at System.Data.DataRow.get_Item(String columnName)
+   at dllbhyt.LibMaubaocao.f_Ngoaitru_xuatExcel_mau79_Mau2(Boolean print, DataSet dsdulieu, String tungay, String denngay)
+-------------------------------------
+15/01/2018 17:22:16
+System.ArgumentException: Column 'tenkp' does not belong to table Table1.
+   at System.Data.DataRow.get_Item(String columnName)
+   at dllbhyt.LibMaubaocao.f_Ngoaitru_xuatExcel_mau79_Mau2(Boolean print, DataSet dsdulieu, String tungay, String denngay)
+-------------------------------------
+15/01/2018 17:22:16
+System.ArgumentException: Column 'tenkp' does not belong to table Table1.
+   at System.Data.DataRow.get_Item(String columnName)
+   at dllbhyt.LibMaubaocao.f_Ngoaitru_xuatExcel_mau79_Mau2(Boolean print, DataSet dsdulieu, String tungay, String denngay)
+-------------------------------------
+15/01/2018 17:22:16
+System.ArgumentException: Column 'tenkp' does not belong to table Table1.
+   at System.Data.DataRow.get_Item(String columnName)
+   at dllbhyt.LibMaubaocao.f_Ngoaitru_xuatExcel_mau79_Mau2(Boolean print, DataSet dsdulieu, String tungay, String denngay)
+-------------------------------------
+15/01/2018 17:22:16
+System.ArgumentException: Column 'tenkp' does not belong to table Table1.
+   at System.Data.DataRow.get_Item(String columnName)
+   at dllbhyt.LibMaubaocao.f_Ngoaitru_xuatExcel_mau79_Mau2(Boolean print, DataSet dsdulieu, String tungay, String denngay)
+-------------------------------------
+15/01/2018 17:22:16
+System.ArgumentException: Column 'tenkp' does not belong to table Table1.
+   at System.Data.DataRow.get_Item(String columnName)
+   at dllbhyt.LibMaubaocao.f_Ngoaitru_xuatExcel_mau79_Mau2(Boolean print, DataSet dsdulieu, String tungay, String denngay)
+-------------------------------------
+15/01/2018 17:22:16
+System.ArgumentException: Column 'tenkp' does not belong to table Table1.
+   at System.Data.DataRow.get_Item(String columnName)
+   at dllbhyt.LibMaubaocao.f_Ngoaitru_xuatExcel_mau79_Mau2(Boolean print, DataSet dsdulieu, String tungay, String denngay)
+-------------------------------------
+15/01/2018 17:22:16
+System.ArgumentException: Column 'tenkp' does not belong to table Table1.
+   at System.Data.DataRow.get_Item(String columnName)
+   at dllbhyt.LibMaubaocao.f_Ngoaitru_xuatExcel_mau79_Mau2(Boolean print, DataSet dsdulieu, String tungay, String denngay)
+-------------------------------------
+15/01/2018 17:22:16
+System.ArgumentException: Column 'tenkp' does not belong to table Table1.
+   at System.Data.DataRow.get_Item(String columnName)
+   at dllbhyt.LibMaubaocao.f_Ngoaitru_xuatExcel_mau79_Mau2(Boolean print, DataSet dsdulieu, String tungay, String denngay)
+-------------------------------------
+15/01/2018 17:22:16
+System.ArgumentException: Column 'tenkp' does not belong to table Table1.
+   at System.Data.DataRow.get_Item(String columnName)
+   at dllbhyt.LibMaubaocao.f_Ngoaitru_xuatExcel_mau79_Mau2(Boolean print, DataSet dsdulieu, String tungay, String denngay)
+-------------------------------------
+15/01/2018 17:22:16
+System.ArgumentException: Column 'tenkp' does not belong to table Table1.
+   at System.Data.DataRow.get_Item(String columnName)
+   at dllbhyt.LibMaubaocao.f_Ngoaitru_xuatExcel_mau79_Mau2(Boolean print, DataSet dsdulieu, String tungay, String denngay)
+-------------------------------------
+15/01/2018 17:22:16
+System.ArgumentException: Column 'tenkp' does not belong to table Table1.
+   at System.Data.DataRow.get_Item(String columnName)
+   at dllbhyt.LibMaubaocao.f_Ngoaitru_xuatExcel_mau79_Mau2(Boolean print, DataSet dsdulieu, String tungay, String denngay)
+-------------------------------------
+15/01/2018 17:22:16
+System.ArgumentException: Column 'tenkp' does not belong to table Table1.
+   at System.Data.DataRow.get_Item(String columnName)
+   at dllbhyt.LibMaubaocao.f_Ngoaitru_xuatExcel_mau79_Mau2(Boolean print, DataSet dsdulieu, String tungay, String denngay)
+-------------------------------------
+15/01/2018 17:22:16
+System.ArgumentException: Column 'tenkp' does not belong to table Table1.
+   at System.Data.DataRow.get_Item(String columnName)
+   at dllbhyt.LibMaubaocao.f_Ngoaitru_xuatExcel_mau79_Mau2(Boolean print, DataSet dsdulieu, String tungay, String denngay)
+-------------------------------------
+15/01/2018 17:22:16
+System.ArgumentException: Column 'tenkp' does not belong to table Table1.
+   at System.Data.DataRow.get_Item(String columnName)
+   at dllbhyt.LibMaubaocao.f_Ngoaitru_xuatExcel_mau79_Mau2(Boolean print, DataSet dsdulieu, String tungay, String denngay)
+-------------------------------------
+15/01/2018 17:22:16
+System.ArgumentException: Column 'tenkp' does not belong to table Table1.
+   at System.Data.DataRow.get_Item(String columnName)
+   at dllbhyt.LibMaubaocao.f_Ngoaitru_xuatExcel_mau79_Mau2(Boolean print, DataSet dsdulieu, String tungay, String denngay)
+-------------------------------------
+15/01/2018 17:22:16
+System.ArgumentException: Column 'tenkp' does not belong to table Table1.
+   at System.Data.DataRow.get_Item(String columnName)
+   at dllbhyt.LibMaubaocao.f_Ngoaitru_xuatExcel_mau79_Mau2(Boolean print, DataSet dsdulieu, String tungay, String denngay)
+-------------------------------------
+15/01/2018 17:22:16
+System.ArgumentException: Column 'tenkp' does not belong to table Table1.
+   at System.Data.DataRow.get_Item(String columnName)
+   at dllbhyt.LibMaubaocao.f_Ngoaitru_xuatExcel_mau79_Mau2(Boolean print, DataSet dsdulieu, String tungay, String denngay)
+-------------------------------------
+15/01/2018 17:22:16
+System.ArgumentException: Column 'tenkp' does not belong to table Table1.
+   at System.Data.DataRow.get_Item(String columnName)
+   at dllbhyt.LibMaubaocao.f_Ngoaitru_xuatExcel_mau79_Mau2(Boolean print, DataSet dsdulieu, String tungay, String denngay)
+-------------------------------------
+15/01/2018 17:22:16
+System.ArgumentException: Column 'tenkp' does not belong to table Table1.
+   at System.Data.DataRow.get_Item(String columnName)
+   at dllbhyt.LibMaubaocao.f_Ngoaitru_xuatExcel_mau79_Mau2(Boolean print, DataSet dsdulieu, String tungay, String denngay)
+-------------------------------------
+15/01/2018 17:22:16
+System.ArgumentException: Column 'tenkp' does not belong to table Table1.
+   at System.Data.DataRow.get_Item(String columnName)
+   at dllbhyt.LibMaubaocao.f_Ngoaitru_xuatExcel_mau79_Mau2(Boolean print, DataSet dsdulieu, String tungay, String denngay)
+-------------------------------------
+15/01/2018 17:22:16
+System.ArgumentException: Column 'tenkp' does not belong to table Table1.
+   at System.Data.DataRow.get_Item(String columnName)
+   at dllbhyt.LibMaubaocao.f_Ngoaitru_xuatExcel_mau79_Mau2(Boolean print, DataSet dsdulieu, String tungay, String denngay)
+-------------------------------------
+15/01/2018 17:22:16
+System.ArgumentException: Column 'tenkp' does not belong to table Table1.
+   at System.Data.DataRow.get_Item(String columnName)
+   at dllbhyt.LibMaubaocao.f_Ngoaitru_xuatExcel_mau79_Mau2(Boolean print, DataSet dsdulieu, String tungay, String denngay)
+-------------------------------------
+15/01/2018 17:22:16
+System.ArgumentException: Column 'tenkp' does not belong to table Table1.
+   at System.Data.DataRow.get_Item(String columnName)
+   at dllbhyt.LibMaubaocao.f_Ngoaitru_xuatExcel_mau79_Mau2(Boolean print, DataSet dsdulieu, String tungay, String denngay)
+-------------------------------------
+15/01/2018 17:22:16
+System.ArgumentException: Column 'tenkp' does not belong to table Table1.
+   at System.Data.DataRow.get_Item(String columnName)
+   at dllbhyt.LibMaubaocao.f_Ngoaitru_xuatExcel_mau79_Mau2(Boolean print, DataSet dsdulieu, String tungay, String denngay)
+-------------------------------------
+15/01/2018 17:22:16
+System.ArgumentException: Column 'tenkp' does not belong to table Table1.
+   at System.Data.DataRow.get_Item(String columnName)
+   at dllbhyt.LibMaubaocao.f_Ngoaitru_xuatExcel_mau79_Mau2(Boolean print, DataSet dsdulieu, String tungay, String denngay)
+-------------------------------------
+15/01/2018 17:22:16
+System.ArgumentException: Column 'tenkp' does not belong to table Table1.
+   at System.Data.DataRow.get_Item(String columnName)
+   at dllbhyt.LibMaubaocao.f_Ngoaitru_xuatExcel_mau79_Mau2(Boolean print, DataSet dsdulieu, String tungay, String denngay)
+-------------------------------------
+15/01/2018 17:22:16
+System.ArgumentException: Column 'tenkp' does not belong to table Table1.
+   at System.Data.DataRow.get_Item(String columnName)
+   at dllbhyt.LibMaubaocao.f_Ngoaitru_xuatExcel_mau79_Mau2(Boolean print, DataSet dsdulieu, String tungay, String denngay)
+-------------------------------------
+15/01/2018 17:22:16
+System.ArgumentException: Column 'tenkp' does not belong to table Table1.
+   at System.Data.DataRow.get_Item(String columnName)
+   at dllbhyt.LibMaubaocao.f_Ngoaitru_xuatExcel_mau79_Mau2(Boolean print, DataSet dsdulieu, String tungay, String denngay)
+-------------------------------------
+15/01/2018 17:22:16
+System.ArgumentException: Column 'tenkp' does not belong to table Table1.
+   at System.Data.DataRow.get_Item(String columnName)
+   at dllbhyt.LibMaubaocao.f_Ngoaitru_xuatExcel_mau79_Mau2(Boolean print, DataSet dsdulieu, String tungay, String denngay)
+-------------------------------------
+15/01/2018 17:22:16
+System.ArgumentException: Column 'tenkp' does not belong to table Table1.
+   at System.Data.DataRow.get_Item(String columnName)
+   at dllbhyt.LibMaubaocao.f_Ngoaitru_xuatExcel_mau79_Mau2(Boolean print, DataSet dsdulieu, String tungay, String denngay)
+-------------------------------------
+15/01/2018 17:22:16
+System.ArgumentException: Column 'tenkp' does not belong to table Table1.
+   at System.Data.DataRow.get_Item(String columnName)
+   at dllbhyt.LibMaubaocao.f_Ngoaitru_xuatExcel_mau79_Mau2(Boolean print, DataSet dsdulieu, String tungay, String denngay)
+-------------------------------------
+15/01/2018 17:22:16
+System.ArgumentException: Column 'tenkp' does not belong to table Table1.
+   at System.Data.DataRow.get_Item(String columnName)
+   at dllbhyt.LibMaubaocao.f_Ngoaitru_xuatExcel_mau79_Mau2(Boolean print, DataSet dsdulieu, String tungay, String denngay)
+-------------------------------------
+15/01/2018 17:22:16
+System.ArgumentException: Column 'tenkp' does not belong to table Table1.
+   at System.Data.DataRow.get_Item(String columnName)
+   at dllbhyt.LibMaubaocao.f_Ngoaitru_xuatExcel_mau79_Mau2(Boolean print, DataSet dsdulieu, String tungay, String denngay)
+-------------------------------------
+15/01/2018 17:22:16
+System.ArgumentException: Column 'tenkp' does not belong to table Table1.
+   at System.Data.DataRow.get_Item(String columnName)
+   at dllbhyt.LibMaubaocao.f_Ngoaitru_xuatExcel_mau79_Mau2(Boolean print, DataSet dsdulieu, String tungay, String denngay)
+-------------------------- 08/03/2018 10:35
+17053500 hoten NGUYỄN THỊ LIỄN
+-------------------------- 08/03/2018 10:35
+17020129 hoten NGUYỄN AN NHIÊN
+-------------------------- 08/03/2018 10:35
+14032796 hoten VŨ THỊ MẾN
+-------------------------- 08/03/2018 10:35
+16025069 hoten PHẠM THỊ HƯƠNG
+-------------------------- 08/03/2018 10:35
+07006385 hoten HÀ ĐỨC HẢI
+-------------------------- 08/03/2018 10:35
+15017938 hoten PHẠM XUÂN DỰ
+-------------------------- 08/03/2018 10:35
+12017511 hoten VŨ VĂN HIỆP
+-------------------------- 08/03/2018 10:35
+16016798 hoten NGUYỄN THỊ HOA LÀI
+-------------------------- 08/03/2018 10:35
+09006651 hoten NGUYỄN VĂN TRÌNH
+-------------------------- 08/03/2018 10:35
+15003915 hoten ĐẶNG THỊ TOÀN
+-------------------------- 08/03/2018 10:35
+15002006 hoten TRẦN THỊ MẬN
+-------------------------- 08/03/2018 10:35
+15021049 hoten NGUYỄN THỊ HỒNG PHƯƠNG
+-------------------------- 08/03/2018 10:35
+17021625 hoten VŨ THỊ MIÊN
+-------------------------- 08/03/2018 10:35
+11006344 hoten LÊ HỒNG HỮU
+-------------------------- 08/03/2018 10:35
+13011464 hoten NGUYỄN HỒNG PHÚC
+-------------------------- 08/03/2018 10:35
+14020675 hoten NGUYỄN THỊ NHẼ
+-------------------------- 08/03/2018 10:35
+16019401 hoten ĐỖ THỊ THƯỜNG
+-------------------------- 08/03/2018 10:35
+17038554 hoten NGHIÊM THỊ TÌNH
+-------------------------- 08/03/2018 10:35
+16030358 hoten LÊ VĂN SƠN
+-------------------------- 08/03/2018 10:35
+17032621 hoten TẠ QUANG HUY
+-------------------------- 08/03/2018 10:35
+17055512 hoten NGUYỄN THỊ TUYẾT
+-------------------------- 08/03/2018 10:35
+16030671 hoten VŨ VĂN THAI
+-------------------------- 08/03/2018 10:35
+15007061 hoten PHẠM THỊ VẼ
+-------------------------- 08/03/2018 10:35
+17028346 hoten NGUYỄN THỊ DỰ
+-------------------------- 08/03/2018 10:35
+15009495 hoten VŨ HIỀN PHƯƠNG
+-------------------------- 08/03/2018 10:35
+11003200 hoten ĐỖ THỊ THÚY
+-------------------------- 08/03/2018 10:35
+07009628 hoten NGUYỄN QUỐC HUY
+-------------------------- 08/03/2018 10:35
+17053475 hoten PHẠM THỊ YẾN
+-------------------------- 08/03/2018 10:35
+17039201 hoten BÙI XUÂN LỰU
+-------------------------- 08/03/2018 10:35
+16035305 hoten NGUYỄN THỊ GIANG
+-------------------------- 08/03/2018 10:35
+15034300 hoten LÊ VĂN SÁNG
+-------------------------- 08/03/2018 10:35
+10007201 hoten TRẦN NGỌC MINH
+-------------------------- 08/03/2018 10:35
+17032115 hoten VŨ MINH HIẾU
+-------------------------- 08/03/2018 10:35
+17041272 hoten PHẠM THỊ MINH CHÂU
+-------------------------- 08/03/2018 10:35
+06000728 hoten HOÀNG VĂN NGỌC
+-------------------------- 08/03/2018 10:35
+17005034 hoten HOÀNG THỊ SÁU
+-------------------------- 08/03/2018 10:35
+09005029 hoten PHAN XUÂN TÙNG
+-------------------------- 08/03/2018 10:35
+16044444 hoten NGUYỄN VĂN KỶ
+-------------------------- 08/03/2018 10:35
+16030458 hoten KIỀU THỊ MẼ
+-------------------------- 08/03/2018 10:35
+14011102 hoten CHU THỊ TƯƠNG
+-------------------------- 08/03/2018 10:35
+17021406 hoten HOÀNG VĂN NHÁY
+-------------------------- 08/03/2018 10:35
+13005966 hoten VY THỊ KHÁNH
+-------------------------- 08/03/2018 10:35
+16012129 hoten ĐINH VĂN SƠN
+-------------------------- 08/03/2018 10:35
+09004606 hoten NGUYỄN VĨNH PHÚC
+-------------------------- 08/03/2018 10:35
+12014680 hoten TRƯƠNG PHÚ KHANG
+-------------------------- 08/03/2018 10:35
+13019475 hoten HỒ HUY HOÀNG
+-------------------------- 08/03/2018 10:35
+16017274 hoten TRẦN THỊ HƯƠNG
+-------------------------- 08/03/2018 10:35
+16001362 hoten VƯƠNG ĐẠI ĐỒNG
+-------------------------- 08/03/2018 10:35
+15032872 hoten VŨ THỊ THUỶ
+-------------------------- 08/03/2018 10:35
+17053481 hoten NGUYỄN VĂN MẠNH
+-------------------------- 08/03/2018 10:35
+17034114 hoten NGUYỄN THỊ KÍNH
+-------------------------- 08/03/2018 10:35
+15031771 hoten NGÔ MINH CHIẾN

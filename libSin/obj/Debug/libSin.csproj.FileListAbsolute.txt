@@ -1,0 +1,13 @@
+F:\LINKSTC\PG CHUNG\LEARN\LEARNING\libSin\bin\Debug\libSin.dll
+F:\LINKSTC\PG CHUNG\LEARN\LEARNING\libSin\bin\Debug\libSin.pdb
+F:\LINKSTC\PG CHUNG\LEARN\LEARNING\libSin\obj\Debug\libSin.dll
+F:\LINKSTC\PG CHUNG\LEARN\LEARNING\libSin\obj\Debug\libSin.pdb
+E:\WORK\ORACLE\DK NGHE AN\LEARN\LEARNING\libSin\bin\Debug\libSin.dll
+E:\WORK\ORACLE\DK NGHE AN\LEARN\LEARNING\libSin\bin\Debug\libSin.pdb
+E:\WORK\ORACLE\DK NGHE AN\LEARN\LEARNING\libSin\obj\Debug\libSin.dll
+E:\WORK\ORACLE\DK NGHE AN\LEARN\LEARNING\libSin\obj\Debug\libSin.pdb
+C:\LINKS\pg chung\LEARN\LEARNING\libSin\bin\Debug\libSin.dll
+C:\LINKS\pg chung\LEARN\LEARNING\libSin\bin\Debug\libSin.pdb
+C:\LINKS\pg chung\LEARN\LEARNING\libSin\obj\Debug\libSin.dll
+C:\LINKS\pg chung\LEARN\LEARNING\libSin\obj\Debug\libSin.pdb
+C:\LINKS\pg chung\LEARN\LEARNING\libSin\obj\Debug\libSin.csprojResolveAssemblyReference.cache

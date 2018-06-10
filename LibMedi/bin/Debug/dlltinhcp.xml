@@ -1,0 +1,104 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>dlltinhcp</name>
+    </assembly>
+    <members>
+        <member name="T:dlltinhcp.BHYT1314">
+            <summary>
+            Summary description for Class1.
+            </summary>
+        </member>
+        <member name="F:dlltinhcp.BHYT1314.piTyLeTraiTuyen">
+            <summary>
+            Tỷ lệ trái tuyến chi trả chung cho các chi phí.
+            </summary>
+        </member>
+        <member name="F:dlltinhcp.BHYT1314.psNgayApDungTinhCP">
+            <summary>
+            Ngày áp dụng tính chi phí theo thông tư 1314 của bhyt.
+            </summary>
+        </member>
+        <member name="F:dlltinhcp.BHYT1314.bBHYT1314ApDung">
+            <summary>
+            Tùy chọn cơ sở kcb có sử dụng tính chi phí theo thông tư 1314 của bhyt.
+            </summary>
+        </member>
+        <member name="F:dlltinhcp.BHYT1314.pdDinhMucKTC">
+            <summary>
+            Số tiện định mức chi phí kỹ thuật cao.
+            </summary>
+        </member>
+        <member name="F:dlltinhcp.BHYT1314.pdTienMienBHYT">
+            <summary>
+            Số tiền ngưỡng chi trả của bhyt.
+            </summary>
+        </member>
+        <member name="F:dlltinhcp.BHYT1314.psNgayRaVien">
+            <summary>
+            Ngày ra viện của bệnh nhân(dựa vào ngày này để tính chi phí theo thông tư 1314).
+            </summary>
+        </member>
+        <member name="F:dlltinhcp.BHYT1314.psLoaiBenhNhan">
+            <summary>
+            Loại bệnh nhân đang áp dụng tính chi phí(nội trú và ngoại trú).
+            </summary>
+        </member>
+        <member name="F:dlltinhcp.BHYT1314.pbTraiTuyen">
+            <summary>
+            Bệnh nhân đăng ký trái tuyến hay đúng tuyến.
+            </summary>
+        </member>
+        <member name="F:dlltinhcp.BHYT1314.pbMienChiTra">
+            <summary>
+            Đánh dấu bệnh nhân được miễn theo điều kiện bhyt >5 năm và chi phí >6 tháng lương.
+            </summary>
+        </member>
+        <member name="F:dlltinhcp.BHYT1314.pbTinhTheoTyLeTheLonNhat">
+            <summary>
+            Đánh dấu tính chi phí cho bệnh nhân nhiều thẻ trong cùng 1 đợt điều trị có thời hạn lớn nhất(bv quận 8 sử dụng).
+            </summary>
+        </member>
+        <member name="F:dlltinhcp.BHYT1314.piMaKhuVuc">
+            <summary>
+            Mã khu vực trên thẻ bhyt (K1,K2,K3)
+            </summary>
+        </member>
+        <member name="M:dlltinhcp.BHYT1314.f_get_MaQuyenLoiCu(System.String)">
+            <summary>
+            Lấy mã quyền lợi(1,2,3,4,5) theo số thẻ bhyt cũ.
+            </summary>
+            <param name="SoThe">Số thẻ bhyt.</param>
+            <returns></returns>
+        </member>
+        <member name="M:dlltinhcp.BHYT1314.f_chk_MienChiTra(System.String,System.Int64,System.String,System.String)">
+            <summary>
+            Kiểm tra maql có được miễn chi trả theo điều kiện tham gia bhyt trên 5 năm và tổng chi phí cộng dồn các lần khám bệnh hơn 6 tháng lương cơ bản.
+            </summary>
+            <param name="m_sothe">maql.</param>
+            <param name="m_maql">mã bn.</param>
+            <param name="m_ngayvaovien">Ngày vào viện.</param>
+            <param name="m_ngayravien">Ngày ra viện.</param>
+            <returns></returns>
+        </member>
+        <member name="M:dlltinhcp.BHYT1314.f_chk_MaKhuVucSoThe(System.String,System.Int64,System.String,System.String)">
+            <summary>
+            Kiểm tra maql có được miễn chi trả theo điều kiện tham gia bhyt trên 5 năm và tổng chi phí cộng dồn các lần khám bệnh hơn 6 tháng lương cơ bản.
+            </summary>
+            <param name="m_sothe">maql.</param>
+            <param name="m_maql">mã bn.</param>
+            <param name="m_ngayvaovien">Ngày vào viện.</param>
+            <param name="m_ngayravien">Ngày ra viện.</param>
+            <returns></returns>
+        </member>
+        <member name="M:dlltinhcp.BHYT1314.f_get_SoTheTinhTien(System.Int64,System.String,System.String)">
+            <summary>
+            Đối với bệnh nhân nhiều thẻ thì lấy thẻ có thời hạn lớn nhất để tính tiền.
+            </summary>
+            <param name="m_maql">maql.</param>
+            <param name="m_ngayvaovien">Ngày vào viện.</param>
+            <param name="m_ngayravien">Ngày ra viện.</param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

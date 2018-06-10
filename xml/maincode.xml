@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<Import>
+  <Row>
+    <Con>data source=medisoft;user id=medibv;password=medibv</Con>
+    <Mabv>101.1.05</Mabv>
+    <Tenbv>Viện Huyết Học Truyền Máu TW</Tenbv>
+    <Syte>Bộ Y Tế</Syte>
+    <Diachi />
+    <Dienthoai />
+    <Fox>C:\SYTHCM60\DBF</Fox>
+    <Mabvbhyt>01003</Mabvbhyt>
+	<Api>103.3.253.54:81</Api>
+  </Row>
+</Import>

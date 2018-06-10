@@ -1,0 +1,4080 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="data">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="id" type="xs:string" minOccurs="0" />
+                <xs:element name="maql" type="xs:string" minOccurs="0" />
+                <xs:element name="mavaovien" type="xs:string" minOccurs="0" />
+                <xs:element name="mabn" type="xs:string" minOccurs="0" />
+                <xs:element name="hoten" type="xs:string" minOccurs="0" />
+                <xs:element name="namsinh" type="xs:string" minOccurs="0" />
+                <xs:element name="phai" type="xs:double" minOccurs="0" />
+                <xs:element name="ngayvao" type="xs:string" minOccurs="0" />
+                <xs:element name="ngayra" type="xs:string" minOccurs="0" />
+                <xs:element name="ngaythu" type="xs:string" minOccurs="0" />
+                <xs:element name="sophieu" type="xs:double" minOccurs="0" />
+                <xs:element name="sotien" type="xs:double" minOccurs="0" />
+                <xs:element name="bhtra" type="xs:double" minOccurs="0" />
+                <xs:element name="bntra" type="xs:double" minOccurs="0" />
+                <xs:element name="bntt" type="xs:double" minOccurs="0" />
+                <xs:element name="nguonkhac" type="xs:double" minOccurs="0" />
+                <xs:element name="sothe" type="xs:string" minOccurs="0" />
+                <xs:element name="madkkcb" type="xs:string" minOccurs="0" />
+                <xs:element name="tungay" type="xs:string" minOccurs="0" />
+                <xs:element name="denngay" type="xs:string" minOccurs="0" />
+                <xs:element name="maicd" type="xs:string" minOccurs="0" />
+                <xs:element name="makp" type="xs:string" minOccurs="0" />
+                <xs:element name="diachi" type="xs:string" minOccurs="0" />
+                <xs:element name="traituyen" type="xs:long" minOccurs="0" />
+                <xs:element name="chandoan" type="xs:string" minOccurs="0" />
+                <xs:element name="songaydt" type="xs:double" minOccurs="0" />
+                <xs:element name="tinhtrangrv" type="xs:long" minOccurs="0" />
+                <xs:element name="ketqua" type="xs:long" minOccurs="0" />
+                <xs:element name="loaibn" type="xs:long" minOccurs="0" />
+                <xs:element name="makp_byt" type="xs:string" minOccurs="0" />
+                <xs:element name="tenkp" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <data>
+    <id>180418112908400635</id>
+    <maql>180405141836255385</maql>
+    <mavaovien>180405143717015945</mavaovien>
+    <mabn>17015945</mabn>
+    <hoten>VÅ¨ VÄ‚N TÃŠ</hoten>
+    <namsinh>1965</namsinh>
+    <phai>1</phai>
+    <ngayvao>201804051437</ngayvao>
+    <ngayra>201804101830</ngayra>
+    <ngaythu>201804181134</ngaythu>
+    <sophieu>0</sophieu>
+    <sotien>29565349</sotien>
+    <bhtra>29446973</bhtra>
+    <bntra>118376</bntra>
+    <bntt>0</bntt>
+    <nguonkhac>0</nguonkhac>
+    <sothe>KC2303020450145</sothe>
+    <madkkcb>30172</madkkcb>
+    <denngay>20181231</denngay>
+    <maicd>C85; ^C85;</maicd>
+    <makp>24</makp>
+    <diachi> Äá»“ng Láº¡i XÃ£ LiÃªn Há»“ng,Huyá»‡n Gia Lá»™c,Háº£i DÆ°Æ¡ng</diachi>
+    <traituyen>0</traituyen>
+    <chandoan>U lympho khÃ´ng Hodgkin, loáº¡i khÃ¡c vÃ  khÃ´ng xÃ¡c Ä‘á»‹nh; ^U lympho khÃ´ng Hodgkin, loáº¡i khÃ¡c vÃ  khÃ´ng xÃ¡c Ä‘á»‹nh;</chandoan>
+    <songaydt>6</songaydt>
+    <tinhtrangrv>4</tinhtrangrv>
+    <ketqua>4</ketqua>
+    <loaibn>1</loaibn>
+    <makp_byt>K10</makp_byt>
+    <tenkp>Khoa bá»‡nh mÃ¡u tá»•ng há»£p II (H5)</tenkp>
+  </data>
+  <data>
+    <id>180418112651687635</id>
+    <maql>180302135956448431</maql>
+    <mavaovien>180302141118005273</mavaovien>
+    <mabn>18005273</mabn>
+    <hoten>PHAN VÄ‚N VÅ¨</hoten>
+    <namsinh>1981</namsinh>
+    <phai>1</phai>
+    <ngayvao>201803021411</ngayvao>
+    <ngayra>201804181005</ngayra>
+    <ngaythu>201804181132</ngaythu>
+    <sophieu>0</sophieu>
+    <sotien>64857291</sotien>
+    <bhtra>64657817</bhtra>
+    <bntra>199474</bntra>
+    <bntt>0</bntt>
+    <nguonkhac>0</nguonkhac>
+    <sothe>HN2020220918544</sothe>
+    <madkkcb>02192</madkkcb>
+    <denngay>20181231</denngay>
+    <maicd>C92; C91; ^C91;C92;^C91;C92;</maicd>
+    <makp>23</makp>
+    <diachi>  XÃ£ VÄ©nh PhÃºc,Huyá»‡n Báº¯c Quang,HÃ  Giang</diachi>
+    <traituyen>0</traituyen>
+    <chandoan>Bá»‡nh báº¡ch cáº§u tuá»·; Bá»‡nh báº¡ch cáº§u dáº¡ng lympho; ^Bá»‡nh báº¡ch cáº§u dáº¡ng lympho;Bá»‡nh báº¡ch cáº§u tuá»·;^Bá»‡nh báº¡ch cáº§u dáº¡ng lympho;Bá»‡nh báº¡ch cáº§u tuá»·;</chandoan>
+    <songaydt>48</songaydt>
+    <tinhtrangrv>1</tinhtrangrv>
+    <ketqua>2</ketqua>
+    <loaibn>1</loaibn>
+    <makp_byt>K10</makp_byt>
+    <tenkp>Khoa Bá»‡nh MÃ¡u Tráº» Em</tenkp>
+  </data>
+  <data>
+    <id>180418112412223635</id>
+    <maql>180402093636845316</maql>
+    <mavaovien>180402095217041078</mavaovien>
+    <mabn>17041078</mabn>
+    <hoten>PHAN THá»Š TRÃ€ MY</hoten>
+    <namsinh>20081031</namsinh>
+    <phai>2</phai>
+    <ngayvao>201804020952</ngayvao>
+    <ngayra>201804181005</ngayra>
+    <ngaythu>201804181129</ngaythu>
+    <sophieu>0</sophieu>
+    <sotien>16183048</sotien>
+    <bhtra>16135525</bhtra>
+    <bntra>47523</bntra>
+    <bntt>0</bntt>
+    <nguonkhac>0</nguonkhac>
+    <sothe>HN2020220918549</sothe>
+    <madkkcb>02192</madkkcb>
+    <denngay>20181231</denngay>
+    <maicd>C92; ^C91;</maicd>
+    <makp>23</makp>
+    <diachi> VÄ©nh SÆ¡n XÃ£ VÄ©nh PhÃºc,Huyá»‡n Báº¯c Quang,HÃ  Giang</diachi>
+    <traituyen>0</traituyen>
+    <chandoan>Bá»‡nh báº¡ch cáº§u tuá»·; ^Bá»‡nh báº¡ch cáº§u dáº¡ng lympho;</chandoan>
+    <songaydt>17</songaydt>
+    <tinhtrangrv>1</tinhtrangrv>
+    <ketqua>2</ketqua>
+    <loaibn>1</loaibn>
+    <makp_byt>K10</makp_byt>
+    <tenkp>Khoa Bá»‡nh MÃ¡u Tráº» Em</tenkp>
+  </data>
+  <data>
+    <id>180418112057907486</id>
+    <maql>180312073825518316</maql>
+    <mavaovien>180312075317005584</mavaovien>
+    <mabn>17005584</mabn>
+    <hoten>HOÃ€NG THá»Š THU HUá»†</hoten>
+    <namsinh>20130617</namsinh>
+    <phai>2</phai>
+    <ngayvao>201803120753</ngayvao>
+    <ngayra>201804181006</ngayra>
+    <ngaythu>201804181129</ngaythu>
+    <sophieu>0</sophieu>
+    <sotien>14482928</sotien>
+    <bhtra>14384606</bhtra>
+    <bntra>98322</bntra>
+    <bntt>0</bntt>
+    <nguonkhac>0</nguonkhac>
+    <sothe>TE1040420174284</sothe>
+    <madkkcb>04044</madkkcb>
+    <denngay>20190930</denngay>
+    <maicd>C91; ^C92.4;</maicd>
+    <makp>23</makp>
+    <diachi> NÃ€ Äá»¨A XÃ£ ThÆ°á»£ng HÃ ,Huyá»‡n Báº£o Láº¡c,Cao Báº±ng</diachi>
+    <traituyen>0</traituyen>
+    <chandoan>Bá»‡nh báº¡ch cáº§u dáº¡ng lympho; ^Bá»‡nh báº¡ch cáº§u dáº¡ng tiá»n tuá»· bÃ o (PML);</chandoan>
+    <songaydt>38</songaydt>
+    <tinhtrangrv>1</tinhtrangrv>
+    <ketqua>2</ketqua>
+    <loaibn>1</loaibn>
+    <makp_byt>K10</makp_byt>
+    <tenkp>Khoa Bá»‡nh MÃ¡u Tráº» Em</tenkp>
+  </data>
+  <data>
+    <id>180418153919521748</id>
+    <maql>180208075225401316</maql>
+    <mavaovien>180208080810005541</mavaovien>
+    <mabn>10005541</mabn>
+    <hoten>NGUYá»„N QUá»C TOáº¢N</hoten>
+    <namsinh>19791101</namsinh>
+    <phai>1</phai>
+    <ngayvao>201802080808</ngayvao>
+    <ngayra>201804181700</ngayra>
+    <ngaythu>201804181544</ngaythu>
+    <sophieu>0</sophieu>
+    <sotien>408213627</sotien>
+    <bhtra>273965652</bhtra>
+    <bntra>134247975</bntra>
+    <bntt>0</bntt>
+    <nguonkhac>0</nguonkhac>
+    <sothe>NO4010207450445</sothe>
+    <madkkcb>01056</madkkcb>
+    <denngay>20181231</denngay>
+    <maicd>C92; ^C92;</maicd>
+    <makp>04</makp>
+    <diachi>g813 Há»“ TÃ¹ng Máº­u Thá»‹ tráº¥n Cáº§u Diá»…n,Huyá»‡n Tá»« LiÃªm,HÃ  Ná»™i</diachi>
+    <traituyen>0</traituyen>
+    <chandoan>Bá»‡nh báº¡ch cáº§u tuá»·; ^Bá»‡nh báº¡ch cáº§u tuá»·;</chandoan>
+    <songaydt>70</songaydt>
+    <tinhtrangrv>1</tinhtrangrv>
+    <ketqua>2</ketqua>
+    <loaibn>1</loaibn>
+    <makp_byt>K10</makp_byt>
+    <tenkp>Khoa GhÃ©p Táº¿ BÃ o Gá»‘c</tenkp>
+  </data>
+  <data>
+    <id>180418145759640635</id>
+    <maql>180306094704121385</maql>
+    <mavaovien>180306100116012109</mavaovien>
+    <mabn>16012109</mabn>
+    <hoten>BÃ™I LAN PHÆ¯Æ NG</hoten>
+    <namsinh>19831216</namsinh>
+    <phai>2</phai>
+    <ngayvao>201803061001</ngayvao>
+    <ngayra>201804171623</ngayra>
+    <ngaythu>201804181501</ngaythu>
+    <sophieu>0</sophieu>
+    <sotien>69975452</sotien>
+    <bhtra>52767440</bhtra>
+    <bntra>17208012</bntra>
+    <bntt>0</bntt>
+    <nguonkhac>0</nguonkhac>
+    <sothe>DN4790110140449</sothe>
+    <madkkcb>01005</madkkcb>
+    <denngay>20181231</denngay>
+    <maicd>C91; ^C91;</maicd>
+    <makp>04</makp>
+    <diachi>c91-327  PhÆ°á»ng Thá»• Quan,Quáº­n Äá»‘ng Äa,HÃ  Ná»™i</diachi>
+    <traituyen>0</traituyen>
+    <chandoan>Bá»‡nh báº¡ch cáº§u dáº¡ng lympho; ^Bá»‡nh báº¡ch cáº§u dáº¡ng lympho;</chandoan>
+    <songaydt>43</songaydt>
+    <tinhtrangrv>1</tinhtrangrv>
+    <ketqua>2</ketqua>
+    <loaibn>1</loaibn>
+    <makp_byt>K10</makp_byt>
+    <tenkp>Khoa GhÃ©p Táº¿ BÃ o Gá»‘c</tenkp>
+  </data>
+  <data>
+    <id>180418112103428635</id>
+    <maql>180405080107853385</maql>
+    <mavaovien>180405081917056257</mavaovien>
+    <mabn>17056257</mabn>
+    <hoten>NGUYá»„N NGá»ŒC NAM ANH</hoten>
+    <namsinh>20130317</namsinh>
+    <phai>1</phai>
+    <ngayvao>201804050819</ngayvao>
+    <ngayra>201804181007</ngayra>
+    <ngaythu>201804181126</ngaythu>
+    <sophieu>0</sophieu>
+    <sotien>16302940</sotien>
+    <bhtra>10691474</bhtra>
+    <bntra>5611466</bntra>
+    <bntt>0</bntt>
+    <nguonkhac>0</nguonkhac>
+    <sothe>TE1010129239898</sothe>
+    <madkkcb>01004</madkkcb>
+    <denngay>20190930</denngay>
+    <maicd>C92.4; ^C92.4;</maicd>
+    <makp>23</makp>
+    <diachi>  PhÆ°á»ng PhÆ°Æ¡ng LiÃªn,Quáº­n Äá»‘ng Äa,HÃ  Ná»™i</diachi>
+    <traituyen>0</traituyen>
+    <chandoan>Bá»‡nh báº¡ch cáº§u dáº¡ng tiá»n tuá»· bÃ o (PML); ^Bá»‡nh báº¡ch cáº§u dáº¡ng tiá»n tuá»· bÃ o (PML);</chandoan>
+    <songaydt>14</songaydt>
+    <tinhtrangrv>1</tinhtrangrv>
+    <ketqua>2</ketqua>
+    <loaibn>1</loaibn>
+    <makp_byt>K10</makp_byt>
+    <tenkp>Khoa Bá»‡nh MÃ¡u Tráº» Em</tenkp>
+  </data>
+  <data>
+    <id>180418144651377748</id>
+    <maql>180410101211757251</maql>
+    <mavaovien>180410103012016174</mavaovien>
+    <mabn>12016174</mabn>
+    <hoten>NGUYá»„N NGá»ŒC QUANG MINH</hoten>
+    <namsinh>20090430</namsinh>
+    <phai>1</phai>
+    <ngayvao>201804101030</ngayvao>
+    <ngayra>201804171026</ngayra>
+    <ngaythu>201804181451</ngaythu>
+    <sophieu>0</sophieu>
+    <sotien>143083669</sotien>
+    <bhtra>143013820</bhtra>
+    <bntra>69849</bntra>
+    <bntt>0</bntt>
+    <nguonkhac>0</nguonkhac>
+    <sothe>HS4010125800355</sothe>
+    <madkkcb>01018</madkkcb>
+    <denngay>20181231</denngay>
+    <maicd>D69.3; ^C91.0;</maicd>
+    <makp>23</makp>
+    <diachi>546  PhÆ°á»ng KhÆ°Æ¡ng Mai,Quáº­n Thanh XuÃ¢n,HÃ  Ná»™i</diachi>
+    <traituyen>0</traituyen>
+    <chandoan>Ban xuáº¥t huyáº¿t giáº£m tiá»ƒu cáº§u vÃ´ cÄƒn; ^Bá»‡nh báº¡ch cáº§u dáº¡ng nguyÃªn bÃ o lympho cáº¥p (ALL);</chandoan>
+    <songaydt>8</songaydt>
+    <tinhtrangrv>1</tinhtrangrv>
+    <ketqua>2</ketqua>
+    <loaibn>1</loaibn>
+    <makp_byt>K10</makp_byt>
+    <tenkp>Khoa Bá»‡nh MÃ¡u Tráº» Em</tenkp>
+  </data>
+  <data>
+    <id>180418093347881635</id>
+    <maql>180411082250358316</maql>
+    <mavaovien>180411083918010894</mavaovien>
+    <mabn>18010894</mabn>
+    <hoten>HOÃ€NG ANH TUáº¤N</hoten>
+    <namsinh>19660824</namsinh>
+    <phai>1</phai>
+    <ngayvao>201804110839</ngayvao>
+    <ngayra>201804180908</ngayra>
+    <ngaythu>201804180937</ngaythu>
+    <sophieu>0</sophieu>
+    <sotien>12831037</sotien>
+    <bhtra>8499154</bhtra>
+    <bntra>4331883</bntra>
+    <bntt>0</bntt>
+    <nguonkhac>0</nguonkhac>
+    <sothe>TA4223022206430</sothe>
+    <madkkcb>30005</madkkcb>
+    <denngay>20181231</denngay>
+    <maicd>Z94.4; ^Z94.4;</maicd>
+    <makp>04</makp>
+    <diachi> Khu 2 XÃ£ PhÃº Thá»©,Huyá»‡n Kinh MÃ´n,Háº£i DÆ°Æ¡ng</diachi>
+    <traituyen>0</traituyen>
+    <chandoan>TÃ¬nh tráº¡ng ghÃ©p gan; ^TÃ¬nh tráº¡ng ghÃ©p gan;</chandoan>
+    <songaydt>8</songaydt>
+    <tinhtrangrv>1</tinhtrangrv>
+    <ketqua>2</ketqua>
+    <loaibn>1</loaibn>
+    <makp_byt>K10</makp_byt>
+    <tenkp>Khoa GhÃ©p Táº¿ BÃ o Gá»‘c</tenkp>
+  </data>
+  <data>
+    <id>180418102137834635</id>
+    <maql>180413152636378455</maql>
+    <mavaovien>180413152716027116</mavaovien>
+    <mabn>16027116</mabn>
+    <hoten>TRáº¦N THá»Š TUYáº¾T NHUNG</hoten>
+    <namsinh>19710822</namsinh>
+    <phai>2</phai>
+    <ngayvao>201804131527</ngayvao>
+    <ngayra>201804180913</ngayra>
+    <ngaythu>201804181025</ngaythu>
+    <sophieu>0</sophieu>
+    <sotien>3995236</sotien>
+    <bhtra>3192257</bhtra>
+    <bntra>802979</bntra>
+    <bntt>0</bntt>
+    <nguonkhac>0</nguonkhac>
+    <sothe>GD4010125618606</sothe>
+    <madkkcb>01062</madkkcb>
+    <denngay>20180917</denngay>
+    <maicd>L93;</maicd>
+    <makp>02</makp>
+    <diachi> M35-75 PhÆ°á»ng Háº¡ ÄÃ¬nh,Quáº­n Thanh XuÃ¢n,HÃ  Ná»™i</diachi>
+    <traituyen>0</traituyen>
+    <chandoan>Lupus ban Ä‘á»;</chandoan>
+    <songaydt>6</songaydt>
+    <tinhtrangrv>1</tinhtrangrv>
+    <ketqua>2</ketqua>
+    <loaibn>1</loaibn>
+    <makp_byt>K10</makp_byt>
+    <tenkp>Khoa Bá»‡nh MÃ¡u Tá»•ng Há»£p I [H4]</tenkp>
+  </data>
+  <data>
+    <id>180418152024869748</id>
+    <maql>180413143250937385</maql>
+    <mavaovien>180413143617005015</mavaovien>
+    <mabn>17005015</mabn>
+    <hoten>NGUYá»„N VÄ‚N LINH</hoten>
+    <namsinh>20000630</namsinh>
+    <phai>1</phai>
+    <ngayvao>201804131436</ngayvao>
+    <ngayra>201804181700</ngayra>
+    <ngaythu>201804181525</ngaythu>
+    <sophieu>0</sophieu>
+    <sotien>7935647</sotien>
+    <bhtra>7730190</bhtra>
+    <bntra>205457</bntra>
+    <bntt>0</bntt>
+    <nguonkhac>0</nguonkhac>
+    <sothe>HN2333320860167</sothe>
+    <madkkcb>33060</madkkcb>
+    <denngay>20181231</denngay>
+    <maicd>D61; ^D61;</maicd>
+    <makp>04</makp>
+    <diachi> ThÃ´n 1 XÃ£ Ã”ng ÄÃ¬nh,Huyá»‡n KhoÃ¡i ChÃ¢u,HÆ°ng YÃªn</diachi>
+    <traituyen>0</traituyen>
+    <chandoan>CÃ¡c thá»ƒ suy tá»§y xÆ°Æ¡ng khÃ¡c; ^CÃ¡c thá»ƒ suy tá»§y xÆ°Æ¡ng khÃ¡c;</chandoan>
+    <songaydt>6</songaydt>
+    <tinhtrangrv>1</tinhtrangrv>
+    <ketqua>2</ketqua>
+    <loaibn>1</loaibn>
+    <makp_byt>K10</makp_byt>
+    <tenkp>Khoa GhÃ©p Táº¿ BÃ o Gá»‘c</tenkp>
+  </data>
+  <data>
+    <id>180418101942634635</id>
+    <maql>180412093754851431</maql>
+    <mavaovien>180412093318001202</mavaovien>
+    <mabn>18001202</mabn>
+    <hoten>LÃŠ THá»Š ÃI</hoten>
+    <namsinh>1945</namsinh>
+    <phai>2</phai>
+    <ngayvao>201804120933</ngayvao>
+    <ngayra>201804180915</ngayra>
+    <ngaythu>201804181023</ngaythu>
+    <sophieu>0</sophieu>
+    <sotien>9522012</sotien>
+    <bhtra>9399440</bhtra>
+    <bntra>122572</bntra>
+    <bntt>0</bntt>
+    <nguonkhac>0</nguonkhac>
+    <sothe>HT2363620013075</sothe>
+    <madkkcb>36056</madkkcb>
+    <denngay>20201231</denngay>
+    <maicd>D46;</maicd>
+    <makp>02</makp>
+    <diachi>D46-780  PhÆ°á»ng TrÆ°á»ng Thi,ThÃ nh phá»‘ Nam Äá»‹nh,Nam Äá»‹nh</diachi>
+    <traituyen>0</traituyen>
+    <chandoan>Há»™i chá»©ng loáº¡n sáº£n tuá»· xÆ°Æ¡ng;</chandoan>
+    <songaydt>7</songaydt>
+    <tinhtrangrv>1</tinhtrangrv>
+    <ketqua>2</ketqua>
+    <loaibn>1</loaibn>
+    <makp_byt>K10</makp_byt>
+    <tenkp>Khoa Bá»‡nh MÃ¡u Tá»•ng Há»£p I [H4]</tenkp>
+  </data>
+  <data>
+    <id>180418143455907748</id>
+    <maql>180404093206500316</maql>
+    <mavaovien>180404095118003144</mavaovien>
+    <mabn>18003144</mabn>
+    <hoten>LÆ¯U VIá»†T Báº®C</hoten>
+    <namsinh>19971223</namsinh>
+    <phai>1</phai>
+    <ngayvao>201804040951</ngayvao>
+    <ngayra>201804181016</ngayra>
+    <ngaythu>201804181439</ngaythu>
+    <sophieu>0</sophieu>
+    <sotien>14719970</sotien>
+    <bhtra>13974635</bhtra>
+    <bntra>745335</bntra>
+    <bntt>0</bntt>
+    <nguonkhac>0</nguonkhac>
+    <sothe>CN3363620367152</sothe>
+    <madkkcb>36611</madkkcb>
+    <denngay>20181231</denngay>
+    <maicd>C81; ^C81;</maicd>
+    <makp>04</makp>
+    <diachi> Há»“ng Tiáº¿n XÃ£ Äáº¡i Tháº¯ng,Huyá»‡n Vá»¥ Báº£n,Nam Äá»‹nh</diachi>
+    <traituyen>0</traituyen>
+    <chandoan>U lympho Hodgkin; ^U lympho Hodgkin;</chandoan>
+    <songaydt>15</songaydt>
+    <tinhtrangrv>1</tinhtrangrv>
+    <ketqua>2</ketqua>
+    <loaibn>1</loaibn>
+    <makp_byt>K10</makp_byt>
+    <tenkp>Khoa GhÃ©p Táº¿ BÃ o Gá»‘c</tenkp>
+  </data>
+  <data>
+    <id>180418151937267635</id>
+    <maql>180416085136994385</maql>
+    <mavaovien>180416085506003866</mavaovien>
+    <mabn>06003866</mabn>
+    <hoten>PHáº M VÄ‚N TIáº¾N</hoten>
+    <namsinh>19910211</namsinh>
+    <phai>1</phai>
+    <ngayvao>201804160855</ngayvao>
+    <ngayra>201804180944</ngayra>
+    <ngaythu>201804181522</ngaythu>
+    <sophieu>0</sophieu>
+    <sotien>17333355</sotien>
+    <bhtra>17332542</bhtra>
+    <bntra>813</bntra>
+    <bntt>0</bntt>
+    <nguonkhac>0</nguonkhac>
+    <sothe>BT2353520781885</sothe>
+    <madkkcb>35073</madkkcb>
+    <denngay>20181231</denngay>
+    <maicd>D66;</maicd>
+    <makp>17</makp>
+    <diachi>A304 XÃ³m 10 XÃ£ NhÃ¢n ChÃ­nh,Huyá»‡n LÃ½ NhÃ¢n,HÃ  Nam</diachi>
+    <traituyen>0</traituyen>
+    <chandoan>Thiáº¿u yáº¿u tá»‘ VIII di truyá»n;</chandoan>
+    <songaydt>3</songaydt>
+    <tinhtrangrv>1</tinhtrangrv>
+    <ketqua>2</ketqua>
+    <loaibn>1</loaibn>
+    <makp_byt>K10</makp_byt>
+    <tenkp>Trung TÃ¢m Äiá»u Trá»‹ Hemophilia</tenkp>
+  </data>
+  <data>
+    <id>180418093514671635</id>
+    <maql>180409144857486188</maql>
+    <mavaovien>180409150718010612</mavaovien>
+    <mabn>18010612</mabn>
+    <hoten>CHU Há»’NG LIÃŠN</hoten>
+    <namsinh>1968</namsinh>
+    <phai>1</phai>
+    <ngayvao>201804091507</ngayvao>
+    <ngayra>201804180849</ngayra>
+    <ngaythu>201804180938</ngaythu>
+    <sophieu>0</sophieu>
+    <sotien>11211230</sotien>
+    <bhtra>11105520</bhtra>
+    <bntra>105710</bntra>
+    <bntt>0</bntt>
+    <nguonkhac>0</nguonkhac>
+    <sothe>BT2020220046116</sothe>
+    <madkkcb>02001</madkkcb>
+    <denngay>20191231</denngay>
+    <maicd>T45.7; D68; ^T45.7;</maicd>
+    <makp>17</makp>
+    <diachi> Tá»• 17 PhÆ°á»ng Minh Khai,ThÃ nh phá»‘ HÃ  Giang,HÃ  Giang</diachi>
+    <traituyen>0</traituyen>
+    <chandoan>Äá»‘i khÃ¡ng chá»‘ng Ä‘Ã´ng mÃ¡u, vitamin K, chá»‘ng Ä‘Ã´ng mÃ¡u khÃ¡c; CÃ¡c báº¥t thÆ°á»ng Ä‘Ã´ng mÃ¡u khÃ¡c; ^Äá»‘i khÃ¡ng chá»‘ng Ä‘Ã´ng mÃ¡u, vitamin K, chá»‘ng Ä‘Ã´ng mÃ¡u khÃ¡c;</chandoan>
+    <songaydt>10</songaydt>
+    <tinhtrangrv>1</tinhtrangrv>
+    <ketqua>2</ketqua>
+    <loaibn>1</loaibn>
+    <makp_byt>K10</makp_byt>
+    <tenkp>Trung TÃ¢m Äiá»u Trá»‹ Hemophilia</tenkp>
+  </data>
+  <data>
+    <id>180418084940526486</id>
+    <maql>180326074356429316</maql>
+    <mavaovien>180326075917055420</mavaovien>
+    <mabn>17055420</mabn>
+    <hoten>NGUYá»„N THá»Š TA</hoten>
+    <namsinh>19671012</namsinh>
+    <phai>2</phai>
+    <ngayvao>201803260759</ngayvao>
+    <ngayra>201804180818</ngayra>
+    <ngaythu>201804180858</ngaythu>
+    <sophieu>0</sophieu>
+    <sotien>45518521</sotien>
+    <bhtra>36407205</bhtra>
+    <bntra>9111316</bntra>
+    <bntt>0</bntt>
+    <nguonkhac>0</nguonkhac>
+    <sothe>GD4303021390627</sothe>
+    <madkkcb>30146</madkkcb>
+    <denngay>20180609</denngay>
+    <maicd>C90; ^C90;^C90;</maicd>
+    <makp>24</makp>
+    <diachi> Báº®C AN XÃ£ ÄÃ´ng Ká»³,Huyá»‡n Tá»© Ká»³,Háº£i DÆ°Æ¡ng</diachi>
+    <traituyen>0</traituyen>
+    <chandoan>Äa u tuá»· vÃ  cÃ¡c u tÆ°Æ¡ng bÃ o; ^Äa u tuá»· vÃ  cÃ¡c u tÆ°Æ¡ng bÃ o;^Äa u tuá»· vÃ  cÃ¡c u tÆ°Æ¡ng bÃ o;</chandoan>
+    <songaydt>24</songaydt>
+    <tinhtrangrv>1</tinhtrangrv>
+    <ketqua>2</ketqua>
+    <loaibn>1</loaibn>
+    <makp_byt>K10</makp_byt>
+    <tenkp>Khoa bá»‡nh mÃ¡u tá»•ng há»£p II (H5)</tenkp>
+  </data>
+  <data>
+    <id>180418102607344748</id>
+    <maql>180405095856503316</maql>
+    <mavaovien>180405101716035666</mavaovien>
+    <mabn>16035666</mabn>
+    <hoten>ÄOÃ€N VÄ‚N CHIá»€U</hoten>
+    <namsinh>19540701</namsinh>
+    <phai>1</phai>
+    <ngayvao>201804051017</ngayvao>
+    <ngayra>201804180958</ngayra>
+    <ngaythu>201804181030</ngaythu>
+    <sophieu>0</sophieu>
+    <sotien>16936292</sotien>
+    <bhtra>16913726</bhtra>
+    <bntra>22566</bntra>
+    <bntt>0</bntt>
+    <nguonkhac>0</nguonkhac>
+    <sothe>BT2343420228544</sothe>
+    <madkkcb>34055</madkkcb>
+    <denngay>20181231</denngay>
+    <maicd>D76.2;</maicd>
+    <makp>02</makp>
+    <diachi>D75.2-1445 Tá»• 8 XÃ£ An BÃ i,Huyá»‡n Quá»³nh Phá»¥,ThÃ¡i BÃ¬nh</diachi>
+    <traituyen>0</traituyen>
+    <chandoan>Há»™i chá»©ng thá»±c bÃ o táº¿ bÃ o mÃ¡u liÃªn quan Ä‘áº¿n nhiá»…m trÃ¹ng;</chandoan>
+    <songaydt>14</songaydt>
+    <tinhtrangrv>1</tinhtrangrv>
+    <ketqua>2</ketqua>
+    <loaibn>1</loaibn>
+    <makp_byt>K10</makp_byt>
+    <tenkp>Khoa Bá»‡nh MÃ¡u Tá»•ng Há»£p I [H4]</tenkp>
+  </data>
+  <data>
+    <id>180418103055813748</id>
+    <maql>180409144342574431</maql>
+    <mavaovien>180409145317033552</mavaovien>
+    <mabn>17033552</mabn>
+    <hoten>NGUYá»„N THá»Š THI</hoten>
+    <namsinh>19580725</namsinh>
+    <phai>2</phai>
+    <ngayvao>201804091453</ngayvao>
+    <ngayra>201804180916</ngayra>
+    <ngaythu>201804181035</ngaythu>
+    <sophieu>0</sophieu>
+    <sotien>11628821</sotien>
+    <bhtra>10943202</bhtra>
+    <bntra>685619</bntra>
+    <bntt>0</bntt>
+    <nguonkhac>0</nguonkhac>
+    <sothe>TC3343420667599</sothe>
+    <madkkcb>34086</madkkcb>
+    <denngay>20201231</denngay>
+    <maicd>D69.3;</maicd>
+    <makp>02</makp>
+    <diachi>D69.3-4067 TiÃªn La XÃ£ Äoan HÃ¹ng,Huyá»‡n HÆ°ng HÃ ,ThÃ¡i BÃ¬nh</diachi>
+    <traituyen>0</traituyen>
+    <chandoan>Ban xuáº¥t huyáº¿t giáº£m tiá»ƒu cáº§u vÃ´ cÄƒn;</chandoan>
+    <songaydt>10</songaydt>
+    <tinhtrangrv>1</tinhtrangrv>
+    <ketqua>2</ketqua>
+    <loaibn>1</loaibn>
+    <makp_byt>K10</makp_byt>
+    <tenkp>Khoa Bá»‡nh MÃ¡u Tá»•ng Há»£p I [H4]</tenkp>
+  </data>
+  <data>
+    <id>180418142748654748</id>
+    <maql>180416074120299385</maql>
+    <mavaovien>180416074412011633</mavaovien>
+    <mabn>12011633</mabn>
+    <hoten>NGUYá»„N THá»Š TOAN</hoten>
+    <namsinh>19450915</namsinh>
+    <phai>2</phai>
+    <ngayvao>201804160744</ngayvao>
+    <ngayra>201804181344</ngayra>
+    <ngaythu>201804181432</ngaythu>
+    <sophieu>0</sophieu>
+    <sotien>8737430</sotien>
+    <bhtra>8631973</bhtra>
+    <bntra>105457</bntra>
+    <bntt>0</bntt>
+    <nguonkhac>0</nguonkhac>
+    <sothe>HT2343421141734</sothe>
+    <madkkcb>34009</madkkcb>
+    <denngay>20201231</denngay>
+    <maicd>C90; ^C90;^C90;</maicd>
+    <makp>04</makp>
+    <diachi>107 DiÃªm Äiá»n Thá»‹ tráº¥n DiÃªm Äiá»n,Huyá»‡n ThÃ¡i Thá»¥y,ThÃ¡i BÃ¬nh</diachi>
+    <traituyen>0</traituyen>
+    <chandoan>Äa u tuá»· vÃ  cÃ¡c u tÆ°Æ¡ng bÃ o; ^Äa u tuá»· vÃ  cÃ¡c u tÆ°Æ¡ng bÃ o;^Äa u tuá»· vÃ  cÃ¡c u tÆ°Æ¡ng bÃ o;</chandoan>
+    <songaydt>3</songaydt>
+    <tinhtrangrv>1</tinhtrangrv>
+    <ketqua>2</ketqua>
+    <loaibn>1</loaibn>
+    <makp_byt>K10</makp_byt>
+    <tenkp>Khoa GhÃ©p Táº¿ BÃ o Gá»‘c</tenkp>
+  </data>
+  <data>
+    <id>180418100327437635</id>
+    <maql>180410110455563385</maql>
+    <mavaovien>180410112317056477</mavaovien>
+    <mabn>17056477</mabn>
+    <hoten>Lá»¤C THá»Š KIá»€U Háº NH</hoten>
+    <namsinh>19950908</namsinh>
+    <phai>2</phai>
+    <ngayvao>201804101123</ngayvao>
+    <ngayra>201804180837</ngayra>
+    <ngaythu>201804181007</ngaythu>
+    <sophieu>0</sophieu>
+    <sotien>34983369</sotien>
+    <bhtra>34967598</bhtra>
+    <bntra>15771</bntra>
+    <bntt>0</bntt>
+    <nguonkhac>0</nguonkhac>
+    <sothe>DT2080820749164</sothe>
+    <madkkcb>08304</madkkcb>
+    <denngay>20181231</denngay>
+    <maicd>C91;</maicd>
+    <makp>03</makp>
+    <diachi> Y NhÃ¢n XÃ£ ÄÃ´ng Thá»,Huyá»‡n SÆ¡n DÆ°Æ¡ng,TuyÃªn Quang</diachi>
+    <traituyen>0</traituyen>
+    <chandoan>Bá»‡nh báº¡ch cáº§u dáº¡ng lympho;</chandoan>
+    <songaydt>9</songaydt>
+    <tinhtrangrv>1</tinhtrangrv>
+    <ketqua>2</ketqua>
+    <loaibn>1</loaibn>
+    <makp_byt>K10</makp_byt>
+    <tenkp>Khoa Äiá»u Trá»‹ HÃ³a Cháº¥t [H7]</tenkp>
+  </data>
+  <data>
+    <id>180418085157383486</id>
+    <maql>180410140355511316</maql>
+    <mavaovien>180410142118009413</mavaovien>
+    <mabn>18009413</mabn>
+    <hoten>NGUYá»„N THá»Š HOA</hoten>
+    <namsinh>19491008</namsinh>
+    <phai>2</phai>
+    <ngayvao>201804101421</ngayvao>
+    <ngayra>201804180752</ngayra>
+    <ngaythu>201804180900</ngaythu>
+    <sophieu>0</sophieu>
+    <sotien>11998008</sotien>
+    <bhtra>11297683</bhtra>
+    <bntra>700325</bntra>
+    <bntt>0</bntt>
+    <nguonkhac>0</nguonkhac>
+    <sothe>HT3343421429914</sothe>
+    <madkkcb>34004</madkkcb>
+    <denngay>20201231</denngay>
+    <maicd>D75.2; ^D75.2;</maicd>
+    <makp>24</makp>
+    <diachi> THÆ¯á»¢NG PHÃšC XÃ£ Quang Trung,Huyá»‡n Kiáº¿n XÆ°Æ¡ng,ThÃ¡i BÃ¬nh</diachi>
+    <traituyen>0</traituyen>
+    <chandoan>TÄƒng tiá»ƒu cáº§u tiá»n phÃ¡t; ^TÄƒng tiá»ƒu cáº§u tiá»n phÃ¡t;</chandoan>
+    <songaydt>9</songaydt>
+    <tinhtrangrv>1</tinhtrangrv>
+    <ketqua>2</ketqua>
+    <loaibn>1</loaibn>
+    <makp_byt>K10</makp_byt>
+    <tenkp>Khoa bá»‡nh mÃ¡u tá»•ng há»£p II (H5)</tenkp>
+  </data>
+  <data>
+    <id>180418101900113635</id>
+    <maql>180413075414645385</maql>
+    <mavaovien>180413075718010925</mavaovien>
+    <mabn>18010925</mabn>
+    <hoten>VÅ¨ VÄ‚N ÄOÃ€I</hoten>
+    <namsinh>19810306</namsinh>
+    <phai>1</phai>
+    <ngayvao>201804130757</ngayvao>
+    <ngayra>201804161800</ngayra>
+    <ngaythu>201804181022</ngaythu>
+    <sophieu>0</sophieu>
+    <sotien>9836524</sotien>
+    <bhtra>7776672</bhtra>
+    <bntra>2059852</bntra>
+    <bntt>0</bntt>
+    <nguonkhac>0</nguonkhac>
+    <sothe>GD4343416022304</sothe>
+    <madkkcb>34005</madkkcb>
+    <denngay>20181130</denngay>
+    <maicd>D50; ^D50;</maicd>
+    <makp>02</makp>
+    <diachi> Khu 4 Thá»‹ tráº¥n Tiá»n Háº£i,Huyá»‡n Tiá»n Háº£i,ThÃ¡i BÃ¬nh</diachi>
+    <traituyen>0</traituyen>
+    <chandoan>Thiáº¿u mÃ¡u do thiáº¿u sáº¯t; ^Thiáº¿u mÃ¡u do thiáº¿u sáº¯t;</chandoan>
+    <songaydt>4</songaydt>
+    <tinhtrangrv>2</tinhtrangrv>
+    <ketqua>2</ketqua>
+    <loaibn>1</loaibn>
+    <makp_byt>K10</makp_byt>
+    <tenkp>Khoa Bá»‡nh MÃ¡u Tá»•ng Há»£p I [H4]</tenkp>
+  </data>
+  <data>
+    <id>180418142455083635</id>
+    <maql>180410105116092385</maql>
+    <mavaovien>180410110917009457</mavaovien>
+    <mabn>17009457</mabn>
+    <hoten>DÆ¯Æ NG Há»®U QUá»C THÃI</hoten>
+    <namsinh>20140403</namsinh>
+    <phai>1</phai>
+    <ngayvao>201804101109</ngayvao>
+    <ngayra>201804181012</ngayra>
+    <ngaythu>201804181428</ngaythu>
+    <sophieu>0</sophieu>
+    <sotien>6043181</sotien>
+    <bhtra>5932810</bhtra>
+    <bntra>110371</bntra>
+    <bntt>0</bntt>
+    <nguonkhac>0</nguonkhac>
+    <sothe>TE1202020400121</sothe>
+    <madkkcb>20100</madkkcb>
+    <denngay>20200930</denngay>
+    <maicd>D56.1;</maicd>
+    <makp>30</makp>
+    <diachi> ÄÃ´ng Báº±ng 2 Thá»‹ tráº¥n Báº¯c SÆ¡n,Huyá»‡n Báº¯c SÆ¡n,Láº¡ng SÆ¡n</diachi>
+    <traituyen>0</traituyen>
+    <chandoan>Beta thalassaemia;</chandoan>
+    <songaydt>9</songaydt>
+    <tinhtrangrv>1</tinhtrangrv>
+    <ketqua>1</ketqua>
+    <loaibn>1</loaibn>
+    <makp_byt>K10</makp_byt>
+    <tenkp>Trung tÃ¢m Thalassemia</tenkp>
+  </data>
+  <data>
+    <id>180418141107773486</id>
+    <maql>180412112524849316</maql>
+    <mavaovien>180412112813011213</mavaovien>
+    <mabn>13011213</mabn>
+    <hoten>HOÃ€NG Máº NH QUá»²NH</hoten>
+    <namsinh>20120708</namsinh>
+    <phai>1</phai>
+    <ngayvao>201804121128</ngayvao>
+    <ngayra>201804181011</ngayra>
+    <ngaythu>201804181419</ngaythu>
+    <sophieu>0</sophieu>
+    <sotien>6902543</sotien>
+    <bhtra>6793810</bhtra>
+    <bntra>108733</bntra>
+    <bntt>0</bntt>
+    <nguonkhac>0</nguonkhac>
+    <sothe>TE1151520185807</sothe>
+    <madkkcb>15203</madkkcb>
+    <denngay>20180930</denngay>
+    <maicd>D56.1;</maicd>
+    <makp>30</makp>
+    <diachi> THÃ”N YÃŠN THá»ŠNH XÃ£ VÄ©nh Láº¡c,Huyá»‡n Lá»¥c YÃªn,YÃªn BÃ¡i</diachi>
+    <traituyen>0</traituyen>
+    <chandoan>Beta thalassaemia;</chandoan>
+    <songaydt>7</songaydt>
+    <tinhtrangrv>1</tinhtrangrv>
+    <ketqua>1</ketqua>
+    <loaibn>1</loaibn>
+    <makp_byt>K10</makp_byt>
+    <tenkp>Trung tÃ¢m Thalassemia</tenkp>
+  </data>
+  <data>
+    <id>180418090308374635</id>
+    <maql>180411090018099385</maql>
+    <mavaovien>180411091818001525</mavaovien>
+    <mabn>18001525</mabn>
+    <hoten>NGUYá»„N VÄ‚N TUÃ‚N</hoten>
+    <namsinh>19861007</namsinh>
+    <phai>1</phai>
+    <ngayvao>201804110918</ngayvao>
+    <ngayra>201804180827</ngayra>
+    <ngaythu>201804180906</ngaythu>
+    <sophieu>0</sophieu>
+    <sotien>19788424</sotien>
+    <bhtra>19771834</bhtra>
+    <bntra>16590</bntra>
+    <bntt>0</bntt>
+    <nguonkhac>0</nguonkhac>
+    <sothe>BT2363621297376</sothe>
+    <madkkcb>36500</madkkcb>
+    <denngay>20190630</denngay>
+    <maicd>C85;</maicd>
+    <makp>24</makp>
+    <diachi> XÃ“M 11 XÃ£ XuÃ¢n HÃ²a,Huyá»‡n XuÃ¢n TrÆ°á»ng,Nam Äá»‹nh</diachi>
+    <traituyen>0</traituyen>
+    <chandoan>U lympho khÃ´ng Hodgkin, loáº¡i khÃ¡c vÃ  khÃ´ng xÃ¡c Ä‘á»‹nh;</chandoan>
+    <songaydt>8</songaydt>
+    <tinhtrangrv>1</tinhtrangrv>
+    <ketqua>2</ketqua>
+    <loaibn>1</loaibn>
+    <makp_byt>K10</makp_byt>
+    <tenkp>Khoa bá»‡nh mÃ¡u tá»•ng há»£p II (H5)</tenkp>
+  </data>
+  <data>
+    <id>180418142029489635</id>
+    <maql>180409112921732385</maql>
+    <mavaovien>180409114712013473</mavaovien>
+    <mabn>12013473</mabn>
+    <hoten>VÅ¨ THU PHÆ¯Æ NG</hoten>
+    <namsinh>20021004</namsinh>
+    <phai>2</phai>
+    <ngayvao>201804091147</ngayvao>
+    <ngayra>201804181052</ngayra>
+    <ngaythu>201804181423</ngaythu>
+    <sophieu>0</sophieu>
+    <sotien>11048526</sotien>
+    <bhtra>10938155</bhtra>
+    <bntra>110371</bntra>
+    <bntt>0</bntt>
+    <nguonkhac>0</nguonkhac>
+    <sothe>BT2151520033965</sothe>
+    <madkkcb>15101</madkkcb>
+    <denngay>20181231</denngay>
+    <maicd>D56.1;</maicd>
+    <makp>30</makp>
+    <diachi> Tá»” 20 PhÆ°á»ng YÃªn Ninh,ThÃ nh phá»‘ YÃªn BÃ¡i,YÃªn BÃ¡i</diachi>
+    <traituyen>0</traituyen>
+    <chandoan>Beta thalassaemia;</chandoan>
+    <songaydt>10</songaydt>
+    <tinhtrangrv>1</tinhtrangrv>
+    <ketqua>1</ketqua>
+    <loaibn>1</loaibn>
+    <makp_byt>K10</makp_byt>
+    <tenkp>Trung tÃ¢m Thalassemia</tenkp>
+  </data>
+  <data>
+    <id>180418161635725635</id>
+    <maql>180312084056763316</maql>
+    <mavaovien>180312085517005803</mavaovien>
+    <mabn>17005803</mabn>
+    <hoten>NGÃ” VÄ‚N DÃ‚N</hoten>
+    <namsinh>19900921</namsinh>
+    <phai>1</phai>
+    <ngayvao>201803120855</ngayvao>
+    <ngayra>201804182100</ngayra>
+    <ngaythu>201804181619</ngaythu>
+    <sophieu>0</sophieu>
+    <sotien>198668704</sotien>
+    <bhtra>188426213</bhtra>
+    <bntra>10242491</bntra>
+    <bntt>0</bntt>
+    <nguonkhac>0</nguonkhac>
+    <sothe>CN3363621041650</sothe>
+    <madkkcb>36236</madkkcb>
+    <denngay>20181231</denngay>
+    <maicd>C92.0;</maicd>
+    <makp>03</makp>
+    <diachi>c92.0-419 DÆ°Æ¡ng A XÃ£ Nam Tháº¯ng,Huyá»‡n Nam Trá»±c,Nam Äá»‹nh</diachi>
+    <traituyen>0</traituyen>
+    <chandoan>Bá»‡nh báº¡ch cáº§u dáº¡ng tuá»· cáº¥p;</chandoan>
+    <songaydt>38</songaydt>
+    <tinhtrangrv>4</tinhtrangrv>
+    <ketqua>4</ketqua>
+    <loaibn>1</loaibn>
+    <makp_byt>K10</makp_byt>
+    <tenkp>Khoa Äiá»u Trá»‹ HÃ³a Cháº¥t [H7]</tenkp>
+  </data>
+  <data>
+    <id>180418090751442748</id>
+    <maql>180228060247171360</maql>
+    <mavaovien>180228061817058131</mavaovien>
+    <mabn>17058131</mabn>
+    <hoten>NGUYá»„N THá»Š HÃ“A</hoten>
+    <namsinh>1960</namsinh>
+    <phai>2</phai>
+    <ngayvao>201802280618</ngayvao>
+    <ngayra>201804180839</ngayra>
+    <ngaythu>201804180912</ngaythu>
+    <sophieu>0</sophieu>
+    <sotien>67882997</sotien>
+    <bhtra>67758047</bhtra>
+    <bntra>124950</bntra>
+    <bntt>0</bntt>
+    <nguonkhac>0</nguonkhac>
+    <sothe>HT2242196019693</sothe>
+    <madkkcb>24011</madkkcb>
+    <denngay>20201231</denngay>
+    <maicd>C92.0;</maicd>
+    <makp>03</makp>
+    <diachi>D61-646  PhÆ°á»ng HoÃ ng VÄƒn Thá»¥,ThÃ nh phá»‘ Báº¯c Giang,Báº¯c Giang</diachi>
+    <traituyen>0</traituyen>
+    <chandoan>Bá»‡nh báº¡ch cáº§u dáº¡ng tuá»· cáº¥p;</chandoan>
+    <songaydt>50</songaydt>
+    <tinhtrangrv>1</tinhtrangrv>
+    <ketqua>2</ketqua>
+    <loaibn>1</loaibn>
+    <makp_byt>K10</makp_byt>
+    <tenkp>Khoa Äiá»u Trá»‹ HÃ³a Cháº¥t [H7]</tenkp>
+  </data>
+  <data>
+    <id>180418102612131635</id>
+    <maql>180413103142318431</maql>
+    <mavaovien>180413102616029474</mavaovien>
+    <mabn>16029474</mabn>
+    <hoten>HOÃ€NG THá»Š THU</hoten>
+    <namsinh>19411120</namsinh>
+    <phai>2</phai>
+    <ngayvao>201804131026</ngayvao>
+    <ngayra>201804180915</ngayra>
+    <ngaythu>201804181029</ngaythu>
+    <sophieu>0</sophieu>
+    <sotien>4951167</sotien>
+    <bhtra>4838140</bhtra>
+    <bntra>113027</bntra>
+    <bntt>0</bntt>
+    <nguonkhac>0</nguonkhac>
+    <sothe>HN2242420161925</sothe>
+    <madkkcb>24002</madkkcb>
+    <denngay>20181231</denngay>
+    <maicd>D61;</maicd>
+    <makp>02</makp>
+    <diachi>D61-291 VÃ ng XÃ£ Äá»“ng Láº¡c,Huyá»‡n YÃªn Tháº¿,Báº¯c Giang</diachi>
+    <traituyen>0</traituyen>
+    <chandoan>CÃ¡c thá»ƒ suy tá»§y xÆ°Æ¡ng khÃ¡c;</chandoan>
+    <songaydt>6</songaydt>
+    <tinhtrangrv>1</tinhtrangrv>
+    <ketqua>2</ketqua>
+    <loaibn>1</loaibn>
+    <makp_byt>K10</makp_byt>
+    <tenkp>Khoa Bá»‡nh MÃ¡u Tá»•ng Há»£p I [H4]</tenkp>
+  </data>
+  <data>
+    <id>180418090222594635</id>
+    <maql>180411075412414385</maql>
+    <mavaovien>180411081217038993</mavaovien>
+    <mabn>17038993</mabn>
+    <hoten>NGUYá»„N VÄ‚N NGá»œ</hoten>
+    <namsinh>1943</namsinh>
+    <phai>1</phai>
+    <ngayvao>201804110812</ngayvao>
+    <ngayra>201804180820</ngayra>
+    <ngaythu>201804180905</ngaythu>
+    <sophieu>0</sophieu>
+    <sotien>32496147</sotien>
+    <bhtra>32492979</bhtra>
+    <bntra>3168</bntra>
+    <bntt>0</bntt>
+    <nguonkhac>0</nguonkhac>
+    <sothe>KC2242421509274</sothe>
+    <madkkcb>24007</madkkcb>
+    <denngay>20201231</denngay>
+    <maicd>C85;</maicd>
+    <makp>24</makp>
+    <diachi> SÆ¡n Quáº£ NÄƒm XÃ£ LÆ°Æ¡ng Phong,Huyá»‡n Hiá»‡p HÃ²a,Báº¯c Giang</diachi>
+    <traituyen>0</traituyen>
+    <chandoan>U lympho khÃ´ng Hodgkin, loáº¡i khÃ¡c vÃ  khÃ´ng xÃ¡c Ä‘á»‹nh;</chandoan>
+    <songaydt>8</songaydt>
+    <tinhtrangrv>1</tinhtrangrv>
+    <ketqua>2</ketqua>
+    <loaibn>1</loaibn>
+    <makp_byt>K10</makp_byt>
+    <tenkp>Khoa bá»‡nh mÃ¡u tá»•ng há»£p II (H5)</tenkp>
+  </data>
+  <data>
+    <id>180418090155727748</id>
+    <maql>180413143300970847</maql>
+    <mavaovien>180413143316024314</mavaovien>
+    <mabn>16024314</mabn>
+    <hoten>NGUYá»„N THá»Š HUá»†</hoten>
+    <namsinh>19530101</namsinh>
+    <phai>2</phai>
+    <ngayvao>201804131433</ngayvao>
+    <ngayra>201804180733</ngayra>
+    <ngaythu>201804180906</ngaythu>
+    <sophieu>0</sophieu>
+    <sotien>4710115</sotien>
+    <bhtra>4710115</bhtra>
+    <bntra>0</bntra>
+    <bntt>0</bntt>
+    <nguonkhac>0</nguonkhac>
+    <sothe>HN2242421441847</sothe>
+    <madkkcb>24275</madkkcb>
+    <denngay>20181231</denngay>
+    <maicd>D75.2; ^D75.2;</maicd>
+    <makp>24</makp>
+    <diachi> D75.2-913 XÃ£ LÆ°Æ¡ng Phong,Huyá»‡n Hiá»‡p HÃ²a,Báº¯c Giang</diachi>
+    <traituyen>0</traituyen>
+    <chandoan>TÄƒng tiá»ƒu cáº§u tiá»n phÃ¡t; ^TÄƒng tiá»ƒu cáº§u tiá»n phÃ¡t;</chandoan>
+    <songaydt>6</songaydt>
+    <tinhtrangrv>1</tinhtrangrv>
+    <ketqua>2</ketqua>
+    <loaibn>1</loaibn>
+    <makp_byt>K10</makp_byt>
+    <tenkp>Khoa bá»‡nh mÃ¡u tá»•ng há»£p II (H5)</tenkp>
+  </data>
+  <data>
+    <id>180418105050380635</id>
+    <maql>180416090955755316</maql>
+    <mavaovien>180416091211001727</mavaovien>
+    <mabn>11001727</mabn>
+    <hoten>PHÃ™NG Máº NH DÅ¨NG</hoten>
+    <namsinh>20041027</namsinh>
+    <phai>1</phai>
+    <ngayvao>201804160912</ngayvao>
+    <ngayra>201804181006</ngayra>
+    <ngaythu>201804181054</ngaythu>
+    <sophieu>0</sophieu>
+    <sotien>13594742</sotien>
+    <bhtra>13593929</bhtra>
+    <bntra>813</bntra>
+    <bntt>0</bntt>
+    <nguonkhac>0</nguonkhac>
+    <sothe>HN2242421492182</sothe>
+    <madkkcb>24007</madkkcb>
+    <denngay>20181231</denngay>
+    <maicd>D66;</maicd>
+    <makp>17</makp>
+    <diachi> Cáº¦U TRANG XÃ£ Báº¯c LÃ½,Huyá»‡n Hiá»‡p HÃ²a,Báº¯c Giang</diachi>
+    <traituyen>0</traituyen>
+    <chandoan>Thiáº¿u yáº¿u tá»‘ VIII di truyá»n;</chandoan>
+    <songaydt>3</songaydt>
+    <tinhtrangrv>1</tinhtrangrv>
+    <ketqua>2</ketqua>
+    <loaibn>1</loaibn>
+    <makp_byt>K10</makp_byt>
+    <tenkp>Trung TÃ¢m Äiá»u Trá»‹ Hemophilia</tenkp>
+  </data>
+  <data>
+    <id>180418142440534748</id>
+    <maql>180417100136955316</maql>
+    <mavaovien>180417100417032991</mavaovien>
+    <mabn>17032991</mabn>
+    <hoten>NÃ”NG THá»Š LAN</hoten>
+    <namsinh>19890403</namsinh>
+    <phai>2</phai>
+    <ngayvao>201804171004</ngayvao>
+    <ngayra>201804181035</ngayra>
+    <ngaythu>201804181429</ngaythu>
+    <sophieu>0</sophieu>
+    <sotien>2960680</sotien>
+    <bhtra>2857680</bhtra>
+    <bntra>103000</bntra>
+    <bntt>0</bntt>
+    <nguonkhac>0</nguonkhac>
+    <sothe>DT2242421041425</sothe>
+    <madkkcb>24173</madkkcb>
+    <denngay>20181231</denngay>
+    <maicd>D56.1; ^D56.1;</maicd>
+    <makp>30</makp>
+    <diachi> LÃ€NG XÃ£ An Láº­p,Huyá»‡n SÆ¡n Äá»™ng,Báº¯c Giang</diachi>
+    <traituyen>0</traituyen>
+    <chandoan>Beta thalassaemia; ^Beta thalassaemia;</chandoan>
+    <songaydt>2</songaydt>
+    <tinhtrangrv>1</tinhtrangrv>
+    <ketqua>1</ketqua>
+    <loaibn>1</loaibn>
+    <makp_byt>K10</makp_byt>
+    <tenkp>Trung tÃ¢m Thalassemia</tenkp>
+  </data>
+  <data>
+    <id>180418144116753748</id>
+    <maql>180406075114568385</maql>
+    <mavaovien>180406080915001613</mavaovien>
+    <mabn>15001613</mabn>
+    <hoten>THÃ‚N Äá»¨C Báº¨Y</hoten>
+    <namsinh>19740705</namsinh>
+    <phai>1</phai>
+    <ngayvao>201804060809</ngayvao>
+    <ngayra>201804181428</ngayra>
+    <ngaythu>201804181446</ngaythu>
+    <sophieu>0</sophieu>
+    <sotien>20194273</sotien>
+    <bhtra>20175226</bhtra>
+    <bntra>19047</bntra>
+    <bntt>0</bntt>
+    <nguonkhac>0</nguonkhac>
+    <sothe>HN2242420365464</sothe>
+    <madkkcb>24006</madkkcb>
+    <denngay>20181231</denngay>
+    <maicd>C91;</maicd>
+    <makp>03</makp>
+    <diachi>189 Bá» Váº±ng XÃ£ Äáº¡i HÃ³a,Huyá»‡n TÃ¢n YÃªn,Báº¯c Giang</diachi>
+    <traituyen>0</traituyen>
+    <chandoan>Bá»‡nh báº¡ch cáº§u dáº¡ng lympho;</chandoan>
+    <songaydt>13</songaydt>
+    <tinhtrangrv>1</tinhtrangrv>
+    <ketqua>2</ketqua>
+    <loaibn>1</loaibn>
+    <makp_byt>K10</makp_byt>
+    <tenkp>Khoa Äiá»u Trá»‹ HÃ³a Cháº¥t [H7]</tenkp>
+  </data>
+  <data>
+    <id>180418095943508635</id>
+    <maql>180330105447543846</maql>
+    <mavaovien>180330110918009324</mavaovien>
+    <mabn>18009324</mabn>
+    <hoten>NGUYá»„N THá»Š Há»¢P</hoten>
+    <namsinh>19520101</namsinh>
+    <phai>2</phai>
+    <ngayvao>201803301109</ngayvao>
+    <ngayra>201804180836</ngayra>
+    <ngaythu>201804181003</ngaythu>
+    <sophieu>0</sophieu>
+    <sotien>10472672</sotien>
+    <bhtra>8275914</bhtra>
+    <bntra>2196758</bntra>
+    <bntt>0</bntt>
+    <nguonkhac>0</nguonkhac>
+    <sothe>GB4242420347528</sothe>
+    <madkkcb>24006</madkkcb>
+    <denngay>20181231</denngay>
+    <maicd>C91.0; ^C91.0;</maicd>
+    <makp>03</makp>
+    <diachi> ThÃ´n Háº­u XÃ£ LiÃªn Chung,Huyá»‡n TÃ¢n YÃªn,Báº¯c Giang</diachi>
+    <traituyen>0</traituyen>
+    <chandoan>Bá»‡nh báº¡ch cáº§u dáº¡ng nguyÃªn bÃ o lympho cáº¥p (ALL); ^Bá»‡nh báº¡ch cáº§u dáº¡ng nguyÃªn bÃ o lympho cáº¥p (ALL);</chandoan>
+    <songaydt>20</songaydt>
+    <tinhtrangrv>1</tinhtrangrv>
+    <ketqua>2</ketqua>
+    <loaibn>1</loaibn>
+    <makp_byt>K10</makp_byt>
+    <tenkp>Khoa Äiá»u Trá»‹ HÃ³a Cháº¥t [H7]</tenkp>
+  </data>
+  <data>
+    <id>180418142536221635</id>
+    <maql>180410055029318360</maql>
+    <mavaovien>180410060618000113</mavaovien>
+    <mabn>18000113</mabn>
+    <hoten>NGUYá»„N THá»Š Háº¢I BIÃŠN</hoten>
+    <namsinh>20141129</namsinh>
+    <phai>2</phai>
+    <ngayvao>201804100606</ngayvao>
+    <ngayra>201804181009</ngayra>
+    <ngaythu>201804181428</ngaythu>
+    <sophieu>0</sophieu>
+    <sotien>5997806</sotien>
+    <bhtra>5887435</bhtra>
+    <bntra>110371</bntra>
+    <bntt>0</bntt>
+    <nguonkhac>0</nguonkhac>
+    <sothe>TE1040420513553</sothe>
+    <madkkcb>04198</madkkcb>
+    <denngay>20201130</denngay>
+    <maicd>D56.1;</maicd>
+    <makp>30</makp>
+    <diachi>  XÃ£ Canh TÃ¢n,Huyá»‡n Tháº¡ch An,Cao Báº±ng</diachi>
+    <traituyen>0</traituyen>
+    <chandoan>Beta thalassaemia;</chandoan>
+    <songaydt>9</songaydt>
+    <tinhtrangrv>1</tinhtrangrv>
+    <ketqua>1</ketqua>
+    <loaibn>1</loaibn>
+    <makp_byt>K10</makp_byt>
+    <tenkp>Trung tÃ¢m Thalassemia</tenkp>
+  </data>
+  <data>
+    <id>180418141314649486</id>
+    <maql>180406094308167385</maql>
+    <mavaovien>180406100113012554</mavaovien>
+    <mabn>13012554</mabn>
+    <hoten>Láº C Lá»˜C CÆ¯á»œNG</hoten>
+    <namsinh>20130112</namsinh>
+    <phai>1</phai>
+    <ngayvao>201804061001</ngayvao>
+    <ngayra>201804181008</ngayra>
+    <ngaythu>201804181421</ngaythu>
+    <sophieu>0</sophieu>
+    <sotien>6690971</sotien>
+    <bhtra>6510124</bhtra>
+    <bntra>180847</bntra>
+    <bntt>0</bntt>
+    <nguonkhac>0</nguonkhac>
+    <sothe>TE1202020568762</sothe>
+    <madkkcb>20233</madkkcb>
+    <denngay>20190930</denngay>
+    <maicd>D56.1;</maicd>
+    <makp>30</makp>
+    <diachi> LÃ¢m LuÃ´ng XÃ£ Äá»“ng Tiáº¿n,Huyá»‡n Há»¯u LÅ©ng,Láº¡ng SÆ¡n</diachi>
+    <traituyen>0</traituyen>
+    <chandoan>Beta thalassaemia;</chandoan>
+    <songaydt>13</songaydt>
+    <tinhtrangrv>1</tinhtrangrv>
+    <ketqua>1</ketqua>
+    <loaibn>1</loaibn>
+    <makp_byt>K10</makp_byt>
+    <tenkp>Trung tÃ¢m Thalassemia</tenkp>
+  </data>
+  <data>
+    <id>180418151713506635</id>
+    <maql>180324091540967360</maql>
+    <mavaovien>180324083217023128</mavaovien>
+    <mabn>17023128</mabn>
+    <hoten>DÆ¯Æ NG KIÃŠN GIANG</hoten>
+    <namsinh>19780831</namsinh>
+    <phai>1</phai>
+    <ngayvao>201803240832</ngayvao>
+    <ngayra>201804142300</ngayra>
+    <ngaythu>201804181520</ngaythu>
+    <sophieu>0</sophieu>
+    <sotien>127158793</sotien>
+    <bhtra>126292375</bhtra>
+    <bntra>866418</bntra>
+    <bntt>0</bntt>
+    <nguonkhac>0</nguonkhac>
+    <sothe>HC2191912009326</sothe>
+    <madkkcb>19009</madkkcb>
+    <denngay>20181231</denngay>
+    <maicd>C92.0; ^C92.0;</maicd>
+    <makp>03</makp>
+    <diachi> Má»¹ SÆ¡n TT HÆ°Æ¡ng SÆ¡n,Huyá»‡n PhÃº BÃ¬nh,ThÃ¡i NguyÃªn</diachi>
+    <traituyen>0</traituyen>
+    <chandoan>Bá»‡nh báº¡ch cáº§u dáº¡ng tuá»· cáº¥p; ^Bá»‡nh báº¡ch cáº§u dáº¡ng tuá»· cáº¥p;</chandoan>
+    <songaydt>22</songaydt>
+    <tinhtrangrv>4</tinhtrangrv>
+    <ketqua>4</ketqua>
+    <loaibn>1</loaibn>
+    <makp_byt>K10</makp_byt>
+    <tenkp>Khoa Äiá»u Trá»‹ HÃ³a Cháº¥t [H7]</tenkp>
+  </data>
+  <data>
+    <id>180418112016682486</id>
+    <maql>180322092340722385</maql>
+    <mavaovien>180322093915037335</mavaovien>
+    <mabn>15037335</mabn>
+    <hoten>NGUYá»„N Báº¢O NAM</hoten>
+    <namsinh>20130819</namsinh>
+    <phai>1</phai>
+    <ngayvao>201803220939</ngayvao>
+    <ngayra>201804181005</ngayra>
+    <ngaythu>201804181128</ngaythu>
+    <sophieu>0</sophieu>
+    <sotien>52973258</sotien>
+    <bhtra>52908326</bhtra>
+    <bntra>64932</bntra>
+    <bntt>0</bntt>
+    <nguonkhac>0</nguonkhac>
+    <sothe>TE1252520491621</sothe>
+    <madkkcb>25147</madkkcb>
+    <denngay>20190930</denngay>
+    <maicd>C91; ^C91;</maicd>
+    <makp>23</makp>
+    <diachi> Khu 2 XÃ£ YÃªn Ná»™i,Huyá»‡n Thanh Ba,PhÃº Thá»</diachi>
+    <traituyen>0</traituyen>
+    <chandoan>Bá»‡nh báº¡ch cáº§u dáº¡ng lympho; ^Bá»‡nh báº¡ch cáº§u dáº¡ng lympho;</chandoan>
+    <songaydt>28</songaydt>
+    <tinhtrangrv>1</tinhtrangrv>
+    <ketqua>2</ketqua>
+    <loaibn>1</loaibn>
+    <makp_byt>K10</makp_byt>
+    <tenkp>Khoa Bá»‡nh MÃ¡u Tráº» Em</tenkp>
+  </data>
+  <data>
+    <id>180418085452938486</id>
+    <maql>180411094149961316</maql>
+    <mavaovien>180411095817027667</mavaovien>
+    <mabn>17027667</mabn>
+    <hoten>PHáº M DUY Yá»€M</hoten>
+    <namsinh>19520101</namsinh>
+    <phai>1</phai>
+    <ngayvao>201804110958</ngayvao>
+    <ngayra>201804180744</ngayra>
+    <ngaythu>201804180903</ngaythu>
+    <sophieu>0</sophieu>
+    <sotien>11404764</sotien>
+    <bhtra>11402596</bhtra>
+    <bntra>2168</bntra>
+    <bntt>0</bntt>
+    <nguonkhac>0</nguonkhac>
+    <sothe>CK2343421682695</sothe>
+    <madkkcb>34003</madkkcb>
+    <denngay>20201231</denngay>
+    <maicd>C94.5; ^C94.5;</maicd>
+    <makp>24</makp>
+    <diachi> Má»¹ Lá»™c 1 XÃ£ Viá»‡t HÃ¹ng,Huyá»‡n VÅ© ThÆ°,ThÃ¡i BÃ¬nh</diachi>
+    <traituyen>0</traituyen>
+    <chandoan>Bá»‡nh xÆ¡ tuá»· cáº¥p; ^Bá»‡nh xÆ¡ tuá»· cáº¥p;</chandoan>
+    <songaydt>8</songaydt>
+    <tinhtrangrv>1</tinhtrangrv>
+    <ketqua>2</ketqua>
+    <loaibn>1</loaibn>
+    <makp_byt>K10</makp_byt>
+    <tenkp>Khoa bá»‡nh mÃ¡u tá»•ng há»£p II (H5)</tenkp>
+  </data>
+  <data>
+    <id>180418142335061635</id>
+    <maql>180409100253742385</maql>
+    <mavaovien>180409102116033232</mavaovien>
+    <mabn>16033232</mabn>
+    <hoten>NGUYá»„N DUY MINH</hoten>
+    <namsinh>20080323</namsinh>
+    <phai>1</phai>
+    <ngayvao>201804091021</ngayvao>
+    <ngayra>201804181008</ngayra>
+    <ngaythu>201804181426</ngaythu>
+    <sophieu>0</sophieu>
+    <sotien>8817630</sotien>
+    <bhtra>8706440</bhtra>
+    <bntra>111190</bntra>
+    <bntt>0</bntt>
+    <nguonkhac>0</nguonkhac>
+    <sothe>DT2191920930099</sothe>
+    <madkkcb>19807</madkkcb>
+    <denngay>20181231</denngay>
+    <maicd>D56.1;</maicd>
+    <makp>30</makp>
+    <diachi> XÃ³m 14 XÃ£ Minh Äá»©c,Huyá»‡n Phá»• YÃªn,ThÃ¡i NguyÃªn</diachi>
+    <traituyen>0</traituyen>
+    <chandoan>Beta thalassaemia;</chandoan>
+    <songaydt>10</songaydt>
+    <tinhtrangrv>1</tinhtrangrv>
+    <ketqua>1</ketqua>
+    <loaibn>1</loaibn>
+    <makp_byt>K10</makp_byt>
+    <tenkp>Trung tÃ¢m Thalassemia</tenkp>
+  </data>
+  <data>
+    <id>180418142039967748</id>
+    <maql>180417140849852316</maql>
+    <mavaovien>180417141113019429</mavaovien>
+    <mabn>13019429</mabn>
+    <hoten>TRáº¦N VÄ‚N HÃ™NG</hoten>
+    <namsinh>19991001</namsinh>
+    <phai>1</phai>
+    <ngayvao>201804171411</ngayvao>
+    <ngayra>201804181034</ngayra>
+    <ngaythu>201804181425</ngaythu>
+    <sophieu>0</sophieu>
+    <sotien>1658200</sotien>
+    <bhtra>1546800</bhtra>
+    <bntra>111400</bntra>
+    <bntt>0</bntt>
+    <nguonkhac>0</nguonkhac>
+    <sothe>HN2191921077585</sothe>
+    <madkkcb>19812</madkkcb>
+    <denngay>20181231</denngay>
+    <maicd>D56.0; ^D56.0;</maicd>
+    <makp>30</makp>
+    <diachi> KIM SÆ N XÃ£ Váº¡n PhÃ¡i,Huyá»‡n Phá»• YÃªn,ThÃ¡i NguyÃªn</diachi>
+    <traituyen>0</traituyen>
+    <chandoan>Alpha thalassaemia; ^Alpha thalassaemia;</chandoan>
+    <songaydt>2</songaydt>
+    <tinhtrangrv>1</tinhtrangrv>
+    <ketqua>1</ketqua>
+    <loaibn>1</loaibn>
+    <makp_byt>K10</makp_byt>
+    <tenkp>Trung tÃ¢m Thalassemia</tenkp>
+  </data>
+  <data>
+    <id>180418085641747486</id>
+    <maql>180410082755107385</maql>
+    <mavaovien>180410084517034254</mavaovien>
+    <mabn>17034254</mabn>
+    <hoten>PHÃ™NG XUÃ‚N HOÃ€NG</hoten>
+    <namsinh>19661021</namsinh>
+    <phai>1</phai>
+    <ngayvao>201804100845</ngayvao>
+    <ngayra>201804180737</ngayra>
+    <ngaythu>201804180905</ngaythu>
+    <sophieu>0</sophieu>
+    <sotien>12168705</sotien>
+    <bhtra>9733880</bhtra>
+    <bntra>2434825</bntra>
+    <bntt>0</bntt>
+    <nguonkhac>0</nguonkhac>
+    <sothe>GD4252520049382</sothe>
+    <madkkcb>25058</madkkcb>
+    <denngay>20180923</denngay>
+    <maicd>C90; ^C90;</maicd>
+    <makp>24</makp>
+    <diachi> Khu1.c90-540 XÃ£ PhÆ°á»£ng LÃ¢u,ThÃ nh phá»‘ Viá»‡t TrÃ¬,PhÃº Thá»</diachi>
+    <traituyen>0</traituyen>
+    <chandoan>Äa u tuá»· vÃ  cÃ¡c u tÆ°Æ¡ng bÃ o; ^Äa u tuá»· vÃ  cÃ¡c u tÆ°Æ¡ng bÃ o;</chandoan>
+    <songaydt>9</songaydt>
+    <tinhtrangrv>1</tinhtrangrv>
+    <ketqua>2</ketqua>
+    <loaibn>1</loaibn>
+    <makp_byt>K10</makp_byt>
+    <tenkp>Khoa bá»‡nh mÃ¡u tá»•ng há»£p II (H5)</tenkp>
+  </data>
+  <data>
+    <id>180418141523153486</id>
+    <maql>180416102944405385</maql>
+    <mavaovien>180416103317020395</mavaovien>
+    <mabn>17020395</mabn>
+    <hoten>TRáº¦N Äá»¨C THáº®NG</hoten>
+    <namsinh>20160305</namsinh>
+    <phai>1</phai>
+    <ngayvao>201804161033</ngayvao>
+    <ngayra>201804181008</ngayra>
+    <ngaythu>201804181423</ngaythu>
+    <sophieu>0</sophieu>
+    <sotien>4107177</sotien>
+    <bhtra>4001720</bhtra>
+    <bntra>105457</bntra>
+    <bntt>0</bntt>
+    <nguonkhac>0</nguonkhac>
+    <sothe>TE1192421709756</sothe>
+    <madkkcb>19709</madkkcb>
+    <denngay>20220930</denngay>
+    <maicd>D56.1;</maicd>
+    <makp>30</makp>
+    <diachi> Na Thá»©c XÃ£ PhÃº Láº¡c,Huyá»‡n Äáº¡i Tá»«,ThÃ¡i NguyÃªn</diachi>
+    <traituyen>0</traituyen>
+    <chandoan>Beta thalassaemia;</chandoan>
+    <songaydt>3</songaydt>
+    <tinhtrangrv>1</tinhtrangrv>
+    <ketqua>1</ketqua>
+    <loaibn>1</loaibn>
+    <makp_byt>K10</makp_byt>
+    <tenkp>Trung tÃ¢m Thalassemia</tenkp>
+  </data>
+  <data>
+    <id>180418141856791635</id>
+    <maql>180409112259729385</maql>
+    <mavaovien>180409114116022552</mavaovien>
+    <mabn>16022552</mabn>
+    <hoten>TRÆ¯Æ NG VIá»†T DÅ¨NG</hoten>
+    <namsinh>20111026</namsinh>
+    <phai>1</phai>
+    <ngayvao>201804091141</ngayvao>
+    <ngayra>201804181012</ngayra>
+    <ngaythu>201804181422</ngaythu>
+    <sophieu>0</sophieu>
+    <sotien>5454070</sotien>
+    <bhtra>5342880</bhtra>
+    <bntra>111190</bntra>
+    <bntt>0</bntt>
+    <nguonkhac>0</nguonkhac>
+    <sothe>HN2101020666360</sothe>
+    <madkkcb>10814</madkkcb>
+    <denngay>20181231</denngay>
+    <maicd>D56.1;</maicd>
+    <makp>30</makp>
+    <diachi> ThÃ´n Ã‰n 2 XÃ£ VÃµ Lao,Huyá»‡n VÄƒn BÃ n,LÃ o Cai</diachi>
+    <traituyen>0</traituyen>
+    <chandoan>Beta thalassaemia;</chandoan>
+    <songaydt>10</songaydt>
+    <tinhtrangrv>1</tinhtrangrv>
+    <ketqua>1</ketqua>
+    <loaibn>1</loaibn>
+    <makp_byt>K10</makp_byt>
+    <tenkp>Trung tÃ¢m Thalassemia</tenkp>
+  </data>
+  <data>
+    <id>180418095728376635</id>
+    <maql>180327061222950360</maql>
+    <mavaovien>180327052817019309</mavaovien>
+    <mabn>17019309</mabn>
+    <hoten>LÃ’ THá»Š NGUYÃŠN</hoten>
+    <namsinh>20010625</namsinh>
+    <phai>2</phai>
+    <ngayvao>201803270528</ngayvao>
+    <ngayra>201804180842</ngayra>
+    <ngaythu>201804181001</ngaythu>
+    <sophieu>0</sophieu>
+    <sotien>62649760</sotien>
+    <bhtra>62605723</bhtra>
+    <bntra>44037</bntra>
+    <bntt>0</bntt>
+    <nguonkhac>0</nguonkhac>
+    <sothe>DT2141420210854</sothe>
+    <madkkcb>14064</madkkcb>
+    <denngay>20181231</denngay>
+    <maicd>C92.0;</maicd>
+    <makp>03</makp>
+    <diachi> Báº£n MÃ²n XÃ£ ThÃ´n MÃ²n,Huyá»‡n Thuáº­n ChÃ¢u,SÆ¡n La</diachi>
+    <traituyen>0</traituyen>
+    <chandoan>Bá»‡nh báº¡ch cáº§u dáº¡ng tuá»· cáº¥p;</chandoan>
+    <songaydt>23</songaydt>
+    <tinhtrangrv>1</tinhtrangrv>
+    <ketqua>2</ketqua>
+    <loaibn>1</loaibn>
+    <makp_byt>K10</makp_byt>
+    <tenkp>Khoa Äiá»u Trá»‹ HÃ³a Cháº¥t [H7]</tenkp>
+  </data>
+  <data>
+    <id>180418142054279635</id>
+    <maql>180409151821867316</maql>
+    <mavaovien>180409153413017332</mavaovien>
+    <mabn>13017332</mabn>
+    <hoten>BÃ™I VÄ‚N THÃŠM</hoten>
+    <namsinh>19880410</namsinh>
+    <phai>1</phai>
+    <ngayvao>201804091534</ngayvao>
+    <ngayra>201804181010</ngayra>
+    <ngaythu>201804181424</ngaythu>
+    <sophieu>0</sophieu>
+    <sotien>13208827</sotien>
+    <bhtra>13098456</bhtra>
+    <bntra>110371</bntra>
+    <bntt>0</bntt>
+    <nguonkhac>0</nguonkhac>
+    <sothe>DT2171720379503</sothe>
+    <madkkcb>17125</madkkcb>
+    <denngay>20181231</denngay>
+    <maicd>D56.1;</maicd>
+    <makp>30</makp>
+    <diachi> BÃY XÃ£ SÃ o BÃ¡y,Huyá»‡n Kim BÃ´i,HÃ²a BÃ¬nh</diachi>
+    <traituyen>0</traituyen>
+    <chandoan>Beta thalassaemia;</chandoan>
+    <songaydt>10</songaydt>
+    <tinhtrangrv>1</tinhtrangrv>
+    <ketqua>1</ketqua>
+    <loaibn>1</loaibn>
+    <makp_byt>K10</makp_byt>
+    <tenkp>Trung tÃ¢m Thalassemia</tenkp>
+  </data>
+  <data>
+    <id>180418142808920635</id>
+    <maql>180410112725504385</maql>
+    <mavaovien>180410114518004735</mavaovien>
+    <mabn>18004735</mabn>
+    <hoten>LÃŠ VÄ‚N HÃ™NG</hoten>
+    <namsinh>19890628</namsinh>
+    <phai>1</phai>
+    <ngayvao>201804101145</ngayvao>
+    <ngayra>201804181010</ngayra>
+    <ngaythu>201804181431</ngaythu>
+    <sophieu>0</sophieu>
+    <sotien>11670022</sotien>
+    <bhtra>11560470</bhtra>
+    <bntra>109552</bntra>
+    <bntt>0</bntt>
+    <nguonkhac>0</nguonkhac>
+    <sothe>BT2383820795356</sothe>
+    <madkkcb>38138</madkkcb>
+    <denngay>20181231</denngay>
+    <maicd>D56.1;</maicd>
+    <makp>30</makp>
+    <diachi> LÃ€NG Ã‚M XÃ£ VÃ¢n Am,Huyá»‡n Ngá»c Láº·c,Thanh HÃ³a</diachi>
+    <traituyen>0</traituyen>
+    <chandoan>Beta thalassaemia;</chandoan>
+    <songaydt>9</songaydt>
+    <tinhtrangrv>1</tinhtrangrv>
+    <ketqua>1</ketqua>
+    <loaibn>1</loaibn>
+    <makp_byt>K10</makp_byt>
+    <tenkp>Trung tÃ¢m Thalassemia</tenkp>
+  </data>
+  <data>
+    <id>180418142104561486</id>
+    <maql>180417111644371385</maql>
+    <mavaovien>180417112017019676</mavaovien>
+    <mabn>17019676</mabn>
+    <hoten>TRÆ¯Æ NG TÆ¯á»œNG VY</hoten>
+    <namsinh>20160808</namsinh>
+    <phai>2</phai>
+    <ngayvao>201804171120</ngayvao>
+    <ngayra>201804181035</ngayra>
+    <ngaythu>201804181429</ngaythu>
+    <sophieu>0</sophieu>
+    <sotien>2801680</sotien>
+    <bhtra>2698680</bhtra>
+    <bntra>103000</bntra>
+    <bntt>0</bntt>
+    <nguonkhac>0</nguonkhac>
+    <sothe>TE1383824147962</sothe>
+    <madkkcb>38090</madkkcb>
+    <denngay>20220930</denngay>
+    <maicd>D56.1; ^D56.1;</maicd>
+    <makp>30</makp>
+    <diachi> 2,thá»‘ng Nháº¥t XÃ£ KiÃªn Thá»,Huyá»‡n Ngá»c Láº·c,Thanh HÃ³a</diachi>
+    <traituyen>0</traituyen>
+    <chandoan>Beta thalassaemia; ^Beta thalassaemia;</chandoan>
+    <songaydt>2</songaydt>
+    <tinhtrangrv>1</tinhtrangrv>
+    <ketqua>1</ketqua>
+    <loaibn>1</loaibn>
+    <makp_byt>K10</makp_byt>
+    <tenkp>Trung tÃ¢m Thalassemia</tenkp>
+  </data>
+  <data>
+    <id>180418112006739748</id>
+    <maql>180416151403303316</maql>
+    <mavaovien>180416151717008118</mavaovien>
+    <mabn>17008118</mabn>
+    <hoten>LÃ’ VÅ¨ HÃ™NG</hoten>
+    <namsinh>2003</namsinh>
+    <phai>1</phai>
+    <ngayvao>201804161517</ngayvao>
+    <ngayra>201804181008</ngayra>
+    <ngaythu>201804181124</ngaythu>
+    <sophieu>0</sophieu>
+    <sotien>6070684</sotien>
+    <bhtra>6061465</bhtra>
+    <bntra>9219</bntra>
+    <bntt>0</bntt>
+    <nguonkhac>0</nguonkhac>
+    <sothe>HN2141420010612</sothe>
+    <madkkcb>14030</madkkcb>
+    <denngay>20181231</denngay>
+    <maicd>C85; ^C91;</maicd>
+    <makp>23</makp>
+    <diachi> Báº£n Láº¡ng Bon XÃ£ Chiá»ng An,ThÃ nh phá»‘ SÆ¡n La,SÆ¡n La</diachi>
+    <traituyen>0</traituyen>
+    <chandoan>U lympho khÃ´ng Hodgkin, loáº¡i khÃ¡c vÃ  khÃ´ng xÃ¡c Ä‘á»‹nh; ^Bá»‡nh báº¡ch cáº§u dáº¡ng lympho;</chandoan>
+    <songaydt>3</songaydt>
+    <tinhtrangrv>1</tinhtrangrv>
+    <ketqua>2</ketqua>
+    <loaibn>1</loaibn>
+    <makp_byt>K10</makp_byt>
+    <tenkp>Khoa Bá»‡nh MÃ¡u Tráº» Em</tenkp>
+  </data>
+  <data>
+    <id>180418102252086635</id>
+    <maql>180327081206140385</maql>
+    <mavaovien>180327082717017054</mavaovien>
+    <mabn>17017054</mabn>
+    <hoten>NGÃ” THANH CHÆ¯Æ NG</hoten>
+    <namsinh>1976</namsinh>
+    <phai>1</phai>
+    <ngayvao>201803270827</ngayvao>
+    <ngayra>201804180839</ngayra>
+    <ngaythu>201804181026</ngaythu>
+    <sophieu>0</sophieu>
+    <sotien>81618329</sotien>
+    <bhtra>81482692</bhtra>
+    <bntra>135637</bntra>
+    <bntt>0</bntt>
+    <nguonkhac>0</nguonkhac>
+    <sothe>BT2222221560605</sothe>
+    <madkkcb>22132</madkkcb>
+    <denngay>20181231</denngay>
+    <maicd>C92;</maicd>
+    <makp>03</makp>
+    <diachi>C91.1-281 Tá»• 4 PhÆ°á»ng Cáº©m TÃ¢y,Thá»‹ xÃ£ Cáº©m Pháº£,Quáº£ng Ninh</diachi>
+    <traituyen>0</traituyen>
+    <chandoan>Bá»‡nh báº¡ch cáº§u tuá»·;</chandoan>
+    <songaydt>23</songaydt>
+    <tinhtrangrv>1</tinhtrangrv>
+    <ketqua>2</ketqua>
+    <loaibn>1</loaibn>
+    <makp_byt>K10</makp_byt>
+    <tenkp>Khoa Äiá»u Trá»‹ HÃ³a Cháº¥t [H7]</tenkp>
+  </data>
+  <data>
+    <id>180418141354553486</id>
+    <maql>180413080846739316</maql>
+    <mavaovien>180413081114002548</mavaovien>
+    <mabn>14002548</mabn>
+    <hoten>Lá»ª THá»Š HÆ¯á»œNG</hoten>
+    <namsinh>19901122</namsinh>
+    <phai>2</phai>
+    <ngayvao>201804130811</ngayvao>
+    <ngayra>201804181052</ngayra>
+    <ngaythu>201804181422</ngaythu>
+    <sophieu>0</sophieu>
+    <sotien>5596874</sotien>
+    <bhtra>5488960</bhtra>
+    <bntra>107914</bntra>
+    <bntt>0</bntt>
+    <nguonkhac>0</nguonkhac>
+    <sothe>DT2141420761821</sothe>
+    <madkkcb>14163</madkkcb>
+    <denngay>20181231</denngay>
+    <maicd>D56.1;</maicd>
+    <makp>30</makp>
+    <diachi> Báº£n NhÃºng XÃ£ Sáº­p Váº¡t,Huyá»‡n YÃªn ChÃ¢u,SÆ¡n La</diachi>
+    <traituyen>0</traituyen>
+    <chandoan>Beta thalassaemia;</chandoan>
+    <songaydt>6</songaydt>
+    <tinhtrangrv>1</tinhtrangrv>
+    <ketqua>1</ketqua>
+    <loaibn>1</loaibn>
+    <makp_byt>K10</makp_byt>
+    <tenkp>Trung tÃ¢m Thalassemia</tenkp>
+  </data>
+  <data>
+    <id>180418095733570748</id>
+    <maql>180324174433358360</maql>
+    <mavaovien>180324170117055856</mavaovien>
+    <mabn>17055856</mabn>
+    <hoten>Äá»– VÄ‚N NÄ‚M</hoten>
+    <namsinh>19670605</namsinh>
+    <phai>1</phai>
+    <ngayvao>201803241701</ngayvao>
+    <ngayra>201804180921</ngayra>
+    <ngaythu>201804181002</ngaythu>
+    <sophieu>0</sophieu>
+    <sotien>33378647</sotien>
+    <bhtra>26685882</bhtra>
+    <bntra>6692765</bntra>
+    <bntt>0</bntt>
+    <nguonkhac>0</nguonkhac>
+    <sothe>GD4191920935784</sothe>
+    <madkkcb>19805</madkkcb>
+    <denngay>20181220</denngay>
+    <maicd>C92.0;</maicd>
+    <makp>03</makp>
+    <diachi> C92.1-1366 XÃ£ PhÃºc Thuáº­n,Huyá»‡n Phá»• YÃªn,ThÃ¡i NguyÃªn</diachi>
+    <traituyen>0</traituyen>
+    <chandoan>Bá»‡nh báº¡ch cáº§u dáº¡ng tuá»· cáº¥p;</chandoan>
+    <songaydt>26</songaydt>
+    <tinhtrangrv>1</tinhtrangrv>
+    <ketqua>2</ketqua>
+    <loaibn>1</loaibn>
+    <makp_byt>K10</makp_byt>
+    <tenkp>Khoa Äiá»u Trá»‹ HÃ³a Cháº¥t [H7]</tenkp>
+  </data>
+  <data>
+    <id>180418142724259635</id>
+    <maql>180410083925591385</maql>
+    <mavaovien>180410085714034561</mavaovien>
+    <mabn>14034561</mabn>
+    <hoten>HÃ€ VÄ‚N MÆ¯á»œI</hoten>
+    <namsinh>19630606</namsinh>
+    <phai>1</phai>
+    <ngayvao>201804100857</ngayvao>
+    <ngayra>201804181009</ngayra>
+    <ngaythu>201804181430</ngaythu>
+    <sophieu>0</sophieu>
+    <sotien>10166781</sotien>
+    <bhtra>8045128</bhtra>
+    <bntra>2121653</bntra>
+    <bntt>0</bntt>
+    <nguonkhac>0</nguonkhac>
+    <sothe>CH4171710005101</sothe>
+    <madkkcb>17004</madkkcb>
+    <denngay>20181231</denngay>
+    <maicd>D56.1;</maicd>
+    <makp>30</makp>
+    <diachi> VÄ‚N TIáº¾N XÃ£ DÃ¢n Háº¡,Huyá»‡n Ká»³ SÆ¡n,HÃ²a BÃ¬nh</diachi>
+    <traituyen>0</traituyen>
+    <chandoan>Beta thalassaemia;</chandoan>
+    <songaydt>9</songaydt>
+    <tinhtrangrv>1</tinhtrangrv>
+    <ketqua>1</ketqua>
+    <loaibn>1</loaibn>
+    <makp_byt>K10</makp_byt>
+    <tenkp>Trung tÃ¢m Thalassemia</tenkp>
+  </data>
+  <data>
+    <id>180418141830232635</id>
+    <maql>180409110434290385</maql>
+    <mavaovien>180409112210007204</mavaovien>
+    <mabn>10007204</mabn>
+    <hoten>ÄÃ€M VÄ‚N HÆ¯NG</hoten>
+    <namsinh>19841007</namsinh>
+    <phai>1</phai>
+    <ngayvao>201804091122</ngayvao>
+    <ngayra>201804181009</ngayra>
+    <ngaythu>201804181421</ngaythu>
+    <sophieu>0</sophieu>
+    <sotien>12289711</sotien>
+    <bhtra>12179340</bhtra>
+    <bntra>110371</bntra>
+    <bntt>0</bntt>
+    <nguonkhac>0</nguonkhac>
+    <sothe>BT2141420555637</sothe>
+    <madkkcb>14110</madkkcb>
+    <denngay>20181231</denngay>
+    <maicd>D56.1;</maicd>
+    <makp>30</makp>
+    <diachi> XÆ°á»Ÿng ChÃ¨ XÃ£ MÆ°á»ng CÆ¡i,Huyá»‡n PhÃ¹ YÃªn,SÆ¡n La</diachi>
+    <traituyen>0</traituyen>
+    <chandoan>Beta thalassaemia;</chandoan>
+    <songaydt>10</songaydt>
+    <tinhtrangrv>1</tinhtrangrv>
+    <ketqua>1</ketqua>
+    <loaibn>1</loaibn>
+    <makp_byt>K10</makp_byt>
+    <tenkp>Trung tÃ¢m Thalassemia</tenkp>
+  </data>
+  <data>
+    <id>180418111722465635</id>
+    <maql>180417075704744316</maql>
+    <mavaovien>180417075917024496</mavaovien>
+    <mabn>17024496</mabn>
+    <hoten>LÃŠ VÅ¨ HÃ€ MY</hoten>
+    <namsinh>20150928</namsinh>
+    <phai>2</phai>
+    <ngayvao>201804170759</ngayvao>
+    <ngayra>201804181027</ngayra>
+    <ngaythu>201804181122</ngaythu>
+    <sophieu>0</sophieu>
+    <sotien>1932395</sotien>
+    <bhtra>1923599</bhtra>
+    <bntra>8796</bntra>
+    <bntt>0</bntt>
+    <nguonkhac>0</nguonkhac>
+    <sothe>TE1141420806540</sothe>
+    <madkkcb>14234</madkkcb>
+    <denngay>20210930</denngay>
+    <maicd>C91;</maicd>
+    <makp>23</makp>
+    <diachi> Tiá»ƒu Khu 8 nÃ  bÃ³,Huyá»‡n Mai SÆ¡n,SÆ¡n La</diachi>
+    <traituyen>0</traituyen>
+    <chandoan>Bá»‡nh báº¡ch cáº§u dáº¡ng lympho;</chandoan>
+    <songaydt>2</songaydt>
+    <tinhtrangrv>1</tinhtrangrv>
+    <ketqua>2</ketqua>
+    <loaibn>1</loaibn>
+    <makp_byt>K10</makp_byt>
+    <tenkp>Khoa Bá»‡nh MÃ¡u Tráº» Em</tenkp>
+  </data>
+  <data>
+    <id>180419101246991441</id>
+    <maql>180416111855775385</maql>
+    <mavaovien>180416112213002706</mavaovien>
+    <mabn>13002706</mabn>
+    <hoten>NGUYá»„N THá»Š LÃ‚M</hoten>
+    <namsinh>19870601</namsinh>
+    <phai>2</phai>
+    <ngayvao>201804161122</ngayvao>
+    <ngayra>201804181011</ngayra>
+    <ngaythu>201804181013</ngaythu>
+    <sophieu>0</sophieu>
+    <sotien>4313448</sotien>
+    <bhtra>3367048</bhtra>
+    <bntra>946400</bntra>
+    <bntt>0</bntt>
+    <nguonkhac>0</nguonkhac>
+    <sothe>CH4171713005182</sothe>
+    <madkkcb>17003</madkkcb>
+    <denngay>20181231</denngay>
+    <maicd>D56.1; ^D56.1;</maicd>
+    <makp>30</makp>
+    <diachi> XÃ³m 4 XÃ£ Sá»§ NgÃ²i,thÃ nh phá»‘ HÃ²a BÃ¬nh,HÃ²a BÃ¬nh</diachi>
+    <traituyen>0</traituyen>
+    <chandoan>Beta thalassaemia; ^Beta thalassaemia;</chandoan>
+    <songaydt>3</songaydt>
+    <tinhtrangrv>1</tinhtrangrv>
+    <ketqua>1</ketqua>
+    <loaibn>1</loaibn>
+    <makp_byt>K10</makp_byt>
+    <tenkp>Trung tÃ¢m Thalassemia</tenkp>
+  </data>
+  <data>
+    <id>180418142600025486</id>
+    <maql>180417075648337385</maql>
+    <mavaovien>180417080018002047</mavaovien>
+    <mabn>18002047</mabn>
+    <hoten>ÄIÃŠU THá»Š Há»’NG NHáº N</hoten>
+    <namsinh>2013</namsinh>
+    <phai>2</phai>
+    <ngayvao>201804170800</ngayvao>
+    <ngayra>201804181033</ngayra>
+    <ngaythu>201804181434</ngaythu>
+    <sophieu>0</sophieu>
+    <sotien>2803318</sotien>
+    <bhtra>2698680</bhtra>
+    <bntra>104638</bntra>
+    <bntt>0</bntt>
+    <nguonkhac>0</nguonkhac>
+    <sothe>TE1141420095762</sothe>
+    <madkkcb>14243</madkkcb>
+    <denngay>20191031</denngay>
+    <maicd>D56.1; ^D56.1;</maicd>
+    <makp>30</makp>
+    <diachi> Báº£n Bo XÃ£ MÆ°á»ng GiÃ´n,Huyá»‡n Quá»³nh Nhai,SÆ¡n La</diachi>
+    <traituyen>0</traituyen>
+    <chandoan>Beta thalassaemia; ^Beta thalassaemia;</chandoan>
+    <songaydt>2</songaydt>
+    <tinhtrangrv>1</tinhtrangrv>
+    <ketqua>1</ketqua>
+    <loaibn>1</loaibn>
+    <makp_byt>K10</makp_byt>
+    <tenkp>Trung tÃ¢m Thalassemia</tenkp>
+  </data>
+  <data>
+    <id>180418142311561486</id>
+    <maql>180417075611540316</maql>
+    <mavaovien>180417075818002247</mavaovien>
+    <mabn>18002247</mabn>
+    <hoten>ÄIÃŠU TRUNG DÅ¨NG</hoten>
+    <namsinh>20080814</namsinh>
+    <phai>1</phai>
+    <ngayvao>201804170758</ngayvao>
+    <ngayra>201804181034</ngayra>
+    <ngaythu>201804181431</ngaythu>
+    <sophieu>0</sophieu>
+    <sotien>2913318</sotien>
+    <bhtra>2808680</bhtra>
+    <bntra>104638</bntra>
+    <bntt>0</bntt>
+    <nguonkhac>0</nguonkhac>
+    <sothe>DT2141420108650</sothe>
+    <madkkcb>14243</madkkcb>
+    <denngay>20181231</denngay>
+    <maicd>D56.1; ^D56.1;</maicd>
+    <makp>30</makp>
+    <diachi> Báº£n Bo XÃ£ MÆ°á»ng GiÃ´n,Huyá»‡n Quá»³nh Nhai,SÆ¡n La</diachi>
+    <traituyen>0</traituyen>
+    <chandoan>Beta thalassaemia; ^Beta thalassaemia;</chandoan>
+    <songaydt>2</songaydt>
+    <tinhtrangrv>1</tinhtrangrv>
+    <ketqua>1</ketqua>
+    <loaibn>1</loaibn>
+    <makp_byt>K10</makp_byt>
+    <tenkp>Trung tÃ¢m Thalassemia</tenkp>
+  </data>
+  <data>
+    <id>180418105232851486</id>
+    <maql>180413075658845385</maql>
+    <mavaovien>180413080015004563</mavaovien>
+    <mabn>15004563</mabn>
+    <hoten>LÃ’ VÄ‚N TUÃ‚N</hoten>
+    <namsinh>20050810</namsinh>
+    <phai>1</phai>
+    <ngayvao>201804130800</ngayvao>
+    <ngayra>201804181029</ngayra>
+    <ngaythu>201804181100</ngaythu>
+    <sophieu>0</sophieu>
+    <sotien>25704050</sotien>
+    <bhtra>25702424</bhtra>
+    <bntra>1626</bntra>
+    <bntt>0</bntt>
+    <nguonkhac>0</nguonkhac>
+    <sothe>BT2141420855928</sothe>
+    <madkkcb>14193</madkkcb>
+    <denngay>20181231</denngay>
+    <maicd>D66;</maicd>
+    <makp>17</makp>
+    <diachi> Báº£n Bá»“n XÃ£ Chiá»ng LÆ°Æ¡ng,Huyá»‡n Mai SÆ¡n,SÆ¡n La</diachi>
+    <traituyen>0</traituyen>
+    <chandoan>Thiáº¿u yáº¿u tá»‘ VIII di truyá»n;</chandoan>
+    <songaydt>6</songaydt>
+    <tinhtrangrv>1</tinhtrangrv>
+    <ketqua>2</ketqua>
+    <loaibn>1</loaibn>
+    <makp_byt>K10</makp_byt>
+    <tenkp>Trung TÃ¢m Äiá»u Trá»‹ Hemophilia</tenkp>
+  </data>
+  <data>
+    <id>180418154249036748</id>
+    <maql>180417112334143316</maql>
+    <mavaovien>180417112616011974</mavaovien>
+    <mabn>16011974</mabn>
+    <hoten>LÃŠ VIáº¾T TUáº¤N MINH</hoten>
+    <namsinh>20151016</namsinh>
+    <phai>1</phai>
+    <ngayvao>201804171126</ngayvao>
+    <ngayra>201804181033</ngayra>
+    <ngaythu>201804181547</ngaythu>
+    <sophieu>0</sophieu>
+    <sotien>2895180</sotien>
+    <bhtra>2235680</bhtra>
+    <bntra>659500</bntra>
+    <bntt>0</bntt>
+    <nguonkhac>0</nguonkhac>
+    <sothe>TE1383821783137</sothe>
+    <madkkcb>38347</madkkcb>
+    <denngay>20211015</denngay>
+    <maicd>D56.1; ^D56.1;</maicd>
+    <makp>30</makp>
+    <diachi> Trung ThÃ nh XÃ£ LÆ°Æ¡ng SÆ¡n,Huyá»‡n ThÆ°á»ng XuÃ¢n,Thanh HÃ³a</diachi>
+    <traituyen>0</traituyen>
+    <chandoan>Beta thalassaemia; ^Beta thalassaemia;</chandoan>
+    <songaydt>2</songaydt>
+    <tinhtrangrv>1</tinhtrangrv>
+    <ketqua>1</ketqua>
+    <loaibn>1</loaibn>
+    <makp_byt>K10</makp_byt>
+    <tenkp>Trung tÃ¢m Thalassemia</tenkp>
+  </data>
+  <data>
+    <id>180418141802842635</id>
+    <maql>180409111204573385</maql>
+    <mavaovien>180409113016034778</mavaovien>
+    <mabn>16034778</mabn>
+    <hoten>QUÃCH HOÃ€NG QUÃ‚N</hoten>
+    <namsinh>20011205</namsinh>
+    <phai>1</phai>
+    <ngayvao>201804091130</ngayvao>
+    <ngayra>201804181010</ngayra>
+    <ngaythu>201804181421</ngaythu>
+    <sophieu>0</sophieu>
+    <sotien>10857711</sotien>
+    <bhtra>10747340</bhtra>
+    <bntra>110371</bntra>
+    <bntt>0</bntt>
+    <nguonkhac>0</nguonkhac>
+    <sothe>DT2383820962159</sothe>
+    <madkkcb>38161</madkkcb>
+    <denngay>20181231</denngay>
+    <maicd>D56.1;</maicd>
+    <makp>30</makp>
+    <diachi> ThÃ´n Má»±c Thá»‹ tráº¥n Cáº©m Thá»§y,Huyá»‡n Cáº©m Thá»§y,Thanh HÃ³a</diachi>
+    <traituyen>0</traituyen>
+    <chandoan>Beta thalassaemia;</chandoan>
+    <songaydt>10</songaydt>
+    <tinhtrangrv>1</tinhtrangrv>
+    <ketqua>1</ketqua>
+    <loaibn>1</loaibn>
+    <makp_byt>K10</makp_byt>
+    <tenkp>Trung tÃ¢m Thalassemia</tenkp>
+  </data>
+  <data>
+    <id>180418102318681748</id>
+    <maql>180315061544568360</maql>
+    <mavaovien>180315063118005831</mavaovien>
+    <mabn>18005831</mabn>
+    <hoten>NGUYá»„N VÄ‚N TRá»¢</hoten>
+    <namsinh>19590901</namsinh>
+    <phai>1</phai>
+    <ngayvao>201803150631</ngayvao>
+    <ngayra>201804180915</ngayra>
+    <ngaythu>201804181027</ngaythu>
+    <sophieu>0</sophieu>
+    <sotien>39706986</sotien>
+    <bhtra>39590126</bhtra>
+    <bntra>116860</bntra>
+    <bntt>0</bntt>
+    <nguonkhac>0</nguonkhac>
+    <sothe>CK2424216256281</sothe>
+    <madkkcb>42088</madkkcb>
+    <denngay>20191231</denngay>
+    <maicd>D61; D69.3; ^D61;</maicd>
+    <makp>02</makp>
+    <diachi>  XÃ£ Äá»©c Thá»‹nh,Huyá»‡n Äá»©c Thá»,HÃ  TÄ©nh</diachi>
+    <traituyen>0</traituyen>
+    <chandoan>CÃ¡c thá»ƒ suy tá»§y xÆ°Æ¡ng khÃ¡c; Ban xuáº¥t huyáº¿t giáº£m tiá»ƒu cáº§u vÃ´ cÄƒn; ^CÃ¡c thá»ƒ suy tá»§y xÆ°Æ¡ng khÃ¡c;</chandoan>
+    <songaydt>35</songaydt>
+    <tinhtrangrv>1</tinhtrangrv>
+    <ketqua>2</ketqua>
+    <loaibn>1</loaibn>
+    <makp_byt>K10</makp_byt>
+    <tenkp>Khoa Bá»‡nh MÃ¡u Tá»•ng Há»£p I [H4]</tenkp>
+  </data>
+  <data>
+    <id>180418110250443635</id>
+    <maql>180416074630933385</maql>
+    <mavaovien>180416075017023261</mavaovien>
+    <mabn>17023261</mabn>
+    <hoten>NGUYá»„N CÃ”NG TRá»¨</hoten>
+    <namsinh>1948</namsinh>
+    <phai>1</phai>
+    <ngayvao>201804160750</ngayvao>
+    <ngayra>201804180934</ngayra>
+    <ngaythu>201804181106</ngaythu>
+    <sophieu>0</sophieu>
+    <sotien>2294850</sotien>
+    <bhtra>1891850</bhtra>
+    <bntra>403000</bntra>
+    <bntt>0</bntt>
+    <nguonkhac>0</nguonkhac>
+    <sothe>HT2404018116692</sothe>
+    <madkkcb>40026</madkkcb>
+    <denngay>20200630</denngay>
+    <maicd>C85; ^C85;</maicd>
+    <makp>04</makp>
+    <diachi> C91.1-297, TÃ¢n YÃªn PhÆ°á»ng HÆ°ng BÃ¬nh,ThÃ nh phá»‘ Vinh,Nghá»‡ An</diachi>
+    <traituyen>0</traituyen>
+    <chandoan>U lympho khÃ´ng Hodgkin, loáº¡i khÃ¡c vÃ  khÃ´ng xÃ¡c Ä‘á»‹nh; ^U lympho khÃ´ng Hodgkin, loáº¡i khÃ¡c vÃ  khÃ´ng xÃ¡c Ä‘á»‹nh;</chandoan>
+    <songaydt>3</songaydt>
+    <tinhtrangrv>1</tinhtrangrv>
+    <ketqua>2</ketqua>
+    <loaibn>1</loaibn>
+    <makp_byt>K10</makp_byt>
+    <tenkp>Khoa GhÃ©p Táº¿ BÃ o Gá»‘c</tenkp>
+  </data>
+  <data>
+    <id>180418135020861635</id>
+    <maql>180417092437779316</maql>
+    <mavaovien>180417092716024767</mavaovien>
+    <mabn>16024767</mabn>
+    <hoten>Há»’ Báº¢O MINH</hoten>
+    <namsinh>20110308</namsinh>
+    <phai>1</phai>
+    <ngayvao>201804170927</ngayvao>
+    <ngayra>201804181700</ngayra>
+    <ngaythu>201804181353</ngaythu>
+    <sophieu>0</sophieu>
+    <sotien>2344492</sotien>
+    <bhtra>2334454</bhtra>
+    <bntra>10038</bntra>
+    <bntt>0</bntt>
+    <nguonkhac>0</nguonkhac>
+    <sothe>BT2404019185463</sothe>
+    <madkkcb>40093</madkkcb>
+    <denngay>20181231</denngay>
+    <maicd>C91; ^C91;</maicd>
+    <makp>23</makp>
+    <diachi> Khá»‘i Giang 1 PhÆ°á»ng Nghi Háº£i,Thá»‹ xÃ£ Cá»­a LÃ²,Nghá»‡ An</diachi>
+    <traituyen>0</traituyen>
+    <chandoan>Bá»‡nh báº¡ch cáº§u dáº¡ng lympho; ^Bá»‡nh báº¡ch cáº§u dáº¡ng lympho;</chandoan>
+    <songaydt>2</songaydt>
+    <tinhtrangrv>1</tinhtrangrv>
+    <ketqua>2</ketqua>
+    <loaibn>1</loaibn>
+    <makp_byt>K10</makp_byt>
+    <tenkp>Khoa Bá»‡nh MÃ¡u Tráº» Em</tenkp>
+  </data>
+  <data>
+    <id>180418085748651486</id>
+    <maql>180412073221249385</maql>
+    <mavaovien>180412075017008561</mavaovien>
+    <mabn>17008561</mabn>
+    <hoten>NGUYá»„N BÃ Äá»ŠCH</hoten>
+    <namsinh>19840210</namsinh>
+    <phai>1</phai>
+    <ngayvao>201804120750</ngayvao>
+    <ngayra>201804180745</ngayra>
+    <ngaythu>201804180906</ngaythu>
+    <sophieu>0</sophieu>
+    <sotien>14825756</sotien>
+    <bhtra>14822984</bhtra>
+    <bntra>2772</bntra>
+    <bntt>0</bntt>
+    <nguonkhac>0</nguonkhac>
+    <sothe>BT2404018874159</sothe>
+    <madkkcb>40385</madkkcb>
+    <denngay>20181231</denngay>
+    <maicd>C90; ^C90;</maicd>
+    <makp>24</makp>
+    <diachi>C90-462 XÃ“M 8 XÃ£ LiÃªn ThÃ nh,Huyá»‡n YÃªn ThÃ nh,Nghá»‡ An</diachi>
+    <traituyen>0</traituyen>
+    <chandoan>Äa u tuá»· vÃ  cÃ¡c u tÆ°Æ¡ng bÃ o; ^Äa u tuá»· vÃ  cÃ¡c u tÆ°Æ¡ng bÃ o;</chandoan>
+    <songaydt>7</songaydt>
+    <tinhtrangrv>1</tinhtrangrv>
+    <ketqua>2</ketqua>
+    <loaibn>1</loaibn>
+    <makp_byt>K10</makp_byt>
+    <tenkp>Khoa bá»‡nh mÃ¡u tá»•ng há»£p II (H5)</tenkp>
+  </data>
+  <data>
+    <id>180418090619195635</id>
+    <maql>180404113530248316</maql>
+    <mavaovien>180404115417033585</mavaovien>
+    <mabn>17033585</mabn>
+    <hoten>TRáº¦N THá»Š HOÃ€N</hoten>
+    <namsinh>19731009</namsinh>
+    <phai>2</phai>
+    <ngayvao>201804041154</ngayvao>
+    <ngayra>201804180831</ngayra>
+    <ngaythu>201804180909</ngaythu>
+    <sophieu>0</sophieu>
+    <sotien>43912827</sotien>
+    <bhtra>35124559</bhtra>
+    <bntra>8788268</bntra>
+    <bntt>0</bntt>
+    <nguonkhac>0</nguonkhac>
+    <sothe>GB4404016925213</sothe>
+    <madkkcb>40254</madkkcb>
+    <denngay>20181231</denngay>
+    <maicd>C85;</maicd>
+    <makp>24</makp>
+    <diachi> XÃ³m 12 XÃ£ SÆ¡n Háº£i,Huyá»‡n Quá»³nh LÆ°u,Nghá»‡ An</diachi>
+    <traituyen>0</traituyen>
+    <chandoan>U lympho khÃ´ng Hodgkin, loáº¡i khÃ¡c vÃ  khÃ´ng xÃ¡c Ä‘á»‹nh;</chandoan>
+    <songaydt>15</songaydt>
+    <tinhtrangrv>2</tinhtrangrv>
+    <ketqua>2</ketqua>
+    <loaibn>1</loaibn>
+    <makp_byt>K10</makp_byt>
+    <tenkp>Khoa bá»‡nh mÃ¡u tá»•ng há»£p II (H5)</tenkp>
+  </data>
+  <data>
+    <id>180418105049581486</id>
+    <maql>180416142122896316</maql>
+    <mavaovien>180416142415123467</mavaovien>
+    <mabn>15123467</mabn>
+    <hoten>NGUYá»„N NHáº¬T NAM</hoten>
+    <namsinh>20110307</namsinh>
+    <phai>1</phai>
+    <ngayvao>201804161424</ngayvao>
+    <ngayra>201804180933</ngayra>
+    <ngaythu>201804181059</ngaythu>
+    <sophieu>0</sophieu>
+    <sotien>7682950</sotien>
+    <bhtra>7682137</bhtra>
+    <bntra>813</bntra>
+    <bntt>0</bntt>
+    <nguonkhac>0</nguonkhac>
+    <sothe>HN2383821052539</sothe>
+    <madkkcb>38192</madkkcb>
+    <denngay>20181231</denngay>
+    <maicd>D66; ^D66;</maicd>
+    <makp>17</makp>
+    <diachi>A1004 Äá»“ng Thá»‹nh XÃ£ Tháº¡ch Äá»“ng,Huyá»‡n Tháº¡ch ThÃ nh,Thanh HÃ³a</diachi>
+    <traituyen>0</traituyen>
+    <chandoan>Thiáº¿u yáº¿u tá»‘ VIII di truyá»n; ^Thiáº¿u yáº¿u tá»‘ VIII di truyá»n;</chandoan>
+    <songaydt>3</songaydt>
+    <tinhtrangrv>1</tinhtrangrv>
+    <ketqua>2</ketqua>
+    <loaibn>1</loaibn>
+    <makp_byt>K10</makp_byt>
+    <tenkp>Trung TÃ¢m Äiá»u Trá»‹ Hemophilia</tenkp>
+  </data>
+  <data>
+    <id>180418145010548748</id>
+    <maql>180411074003032553</maql>
+    <mavaovien>180411075618004917</mavaovien>
+    <mabn>18004917</mabn>
+    <hoten>NGUYá»„N Há»’NG VÅ¨</hoten>
+    <namsinh>20130102</namsinh>
+    <phai>1</phai>
+    <ngayvao>201804110756</ngayvao>
+    <ngayra>201804181438</ngayra>
+    <ngaythu>201804181454</ngaythu>
+    <sophieu>0</sophieu>
+    <sotien>10241508</sotien>
+    <bhtra>10127732</bhtra>
+    <bntra>113776</bntra>
+    <bntt>0</bntt>
+    <nguonkhac>0</nguonkhac>
+    <sothe>TE1404016753098</sothe>
+    <madkkcb>40466</madkkcb>
+    <denngay>20190930</denngay>
+    <maicd>D69.3; ^D69.3;</maicd>
+    <makp>23</makp>
+    <diachi>882 Báº¯c SÆ¡n Hai XÃ£ Nghi Quang,Huyá»‡n Nghi Lá»™c,Nghá»‡ An</diachi>
+    <traituyen>0</traituyen>
+    <chandoan>Ban xuáº¥t huyáº¿t giáº£m tiá»ƒu cáº§u vÃ´ cÄƒn; ^Ban xuáº¥t huyáº¿t giáº£m tiá»ƒu cáº§u vÃ´ cÄƒn;</chandoan>
+    <songaydt>8</songaydt>
+    <tinhtrangrv>1</tinhtrangrv>
+    <ketqua>2</ketqua>
+    <loaibn>1</loaibn>
+    <makp_byt>K10</makp_byt>
+    <tenkp>Khoa Bá»‡nh MÃ¡u Tráº» Em</tenkp>
+  </data>
+  <data>
+    <id>180418143017538635</id>
+    <maql>180411132720646385</maql>
+    <mavaovien>180411134518001727</mavaovien>
+    <mabn>18001727</mabn>
+    <hoten>HÃ€ VÄ‚N Cáº¢NH</hoten>
+    <namsinh>19930909</namsinh>
+    <phai>1</phai>
+    <ngayvao>201804111345</ngayvao>
+    <ngayra>201804181010</ngayra>
+    <ngaythu>201804181433</ngaythu>
+    <sophieu>0</sophieu>
+    <sotien>7679293</sotien>
+    <bhtra>7570560</bhtra>
+    <bntra>108733</bntra>
+    <bntt>0</bntt>
+    <nguonkhac>0</nguonkhac>
+    <sothe>BT2383820534129</sothe>
+    <madkkcb>38073</madkkcb>
+    <denngay>20181231</denngay>
+    <maicd>D56.1;</maicd>
+    <makp>30</makp>
+    <diachi> Báº¢N Lá»šT XÃ£ ThiÃªn PhÃº,Huyá»‡n Quan HÃ³a,Thanh HÃ³a</diachi>
+    <traituyen>0</traituyen>
+    <chandoan>Beta thalassaemia;</chandoan>
+    <songaydt>8</songaydt>
+    <tinhtrangrv>1</tinhtrangrv>
+    <ketqua>1</ketqua>
+    <loaibn>1</loaibn>
+    <makp_byt>K10</makp_byt>
+    <tenkp>Trung tÃ¢m Thalassemia</tenkp>
+  </data>
+  <data>
+    <id>180418142431411635</id>
+    <maql>180410092833539385</maql>
+    <mavaovien>180410094616005240</mavaovien>
+    <mabn>16005240</mabn>
+    <hoten>HÃ€ THá»Š NÆ¯Æ NG</hoten>
+    <namsinh>19900102</namsinh>
+    <phai>2</phai>
+    <ngayvao>201804100946</ngayvao>
+    <ngayra>201804181034</ngayra>
+    <ngaythu>201804181427</ngaythu>
+    <sophieu>0</sophieu>
+    <sotien>10929902</sotien>
+    <bhtra>10820350</bhtra>
+    <bntra>109552</bntra>
+    <bntt>0</bntt>
+    <nguonkhac>0</nguonkhac>
+    <sothe>DT2383820526451</sothe>
+    <madkkcb>38072</madkkcb>
+    <denngay>20181231</denngay>
+    <maicd>D56.1;</maicd>
+    <makp>30</makp>
+    <diachi>  XÃ£ Há»“i XuÃ¢n,Huyá»‡n Quan HÃ³a,Thanh HÃ³a</diachi>
+    <traituyen>0</traituyen>
+    <chandoan>Beta thalassaemia;</chandoan>
+    <songaydt>9</songaydt>
+    <tinhtrangrv>1</tinhtrangrv>
+    <ketqua>1</ketqua>
+    <loaibn>1</loaibn>
+    <makp_byt>K10</makp_byt>
+    <tenkp>Trung tÃ¢m Thalassemia</tenkp>
+  </data>
+  <data>
+    <id>180418102930892748</id>
+    <maql>180410102735377316</maql>
+    <mavaovien>180410104317023047</mavaovien>
+    <mabn>17023047</mabn>
+    <hoten>BÃ™I THá»Š Há»’NG DUYÃŠN</hoten>
+    <namsinh>19991008</namsinh>
+    <phai>2</phai>
+    <ngayvao>201804101043</ngayvao>
+    <ngayra>201804180914</ngayra>
+    <ngaythu>201804181034</ngaythu>
+    <sophieu>0</sophieu>
+    <sotien>13911091</sotien>
+    <bhtra>13895320</bhtra>
+    <bntra>15771</bntra>
+    <bntt>0</bntt>
+    <nguonkhac>0</nguonkhac>
+    <sothe>DT2171720694002</sothe>
+    <madkkcb>17211</madkkcb>
+    <denngay>20181231</denngay>
+    <maicd>D69.3;</maicd>
+    <makp>02</makp>
+    <diachi>766 XÃ³m Tren XÃ£ Tá»± Do,Huyá»‡n Láº¡c SÆ¡n,HÃ²a BÃ¬nh</diachi>
+    <traituyen>0</traituyen>
+    <chandoan>Ban xuáº¥t huyáº¿t giáº£m tiá»ƒu cáº§u vÃ´ cÄƒn;</chandoan>
+    <songaydt>9</songaydt>
+    <tinhtrangrv>1</tinhtrangrv>
+    <ketqua>2</ketqua>
+    <loaibn>1</loaibn>
+    <makp_byt>K10</makp_byt>
+    <tenkp>Khoa Bá»‡nh MÃ¡u Tá»•ng Há»£p I [H4]</tenkp>
+  </data>
+  <data>
+    <id>180418145303459635</id>
+    <maql>180404154300775385</maql>
+    <mavaovien>180404160117039149</mavaovien>
+    <mabn>17039149</mabn>
+    <hoten>BÃ™I HOÃ€NG Háº¢I</hoten>
+    <namsinh>20160328</namsinh>
+    <phai>1</phai>
+    <ngayvao>201804041601</ngayvao>
+    <ngayra>201804181004</ngayra>
+    <ngaythu>201804181456</ngaythu>
+    <sophieu>0</sophieu>
+    <sotien>13215770</sotien>
+    <bhtra>13066885</bhtra>
+    <bntra>148885</bntra>
+    <bntt>0</bntt>
+    <nguonkhac>0</nguonkhac>
+    <sothe>TE1171720775808</sothe>
+    <madkkcb>17011</madkkcb>
+    <denngay>20220930</denngay>
+    <maicd>C91.0; ^C91;</maicd>
+    <makp>23</makp>
+    <diachi> QUYáº¾T THáº®NG XÃ£ Láº¡c LÆ°Æ¡ng,Huyá»‡n YÃªn Thá»§y,HÃ²a BÃ¬nh</diachi>
+    <traituyen>0</traituyen>
+    <chandoan>Bá»‡nh báº¡ch cáº§u dáº¡ng nguyÃªn bÃ o lympho cáº¥p (ALL); ^Bá»‡nh báº¡ch cáº§u dáº¡ng lympho;</chandoan>
+    <songaydt>15</songaydt>
+    <tinhtrangrv>1</tinhtrangrv>
+    <ketqua>2</ketqua>
+    <loaibn>1</loaibn>
+    <makp_byt>K10</makp_byt>
+    <tenkp>Khoa Bá»‡nh MÃ¡u Tráº» Em</tenkp>
+  </data>
+  <data>
+    <id>180418141741452486</id>
+    <maql>180416160902166385</maql>
+    <mavaovien>180416161217027639</mavaovien>
+    <mabn>17027639</mabn>
+    <hoten>ÄINH QUá»²NH NHI</hoten>
+    <namsinh>20100426</namsinh>
+    <phai>2</phai>
+    <ngayvao>201804161612</ngayvao>
+    <ngayra>201804181009</ngayra>
+    <ngaythu>201804181426</ngaythu>
+    <sophieu>0</sophieu>
+    <sotien>3113687</sotien>
+    <bhtra>3008230</bhtra>
+    <bntra>105457</bntra>
+    <bntt>0</bntt>
+    <nguonkhac>0</nguonkhac>
+    <sothe>DT2171720263096</sothe>
+    <madkkcb>17081</madkkcb>
+    <denngay>20181231</denngay>
+    <maicd>D56.1;</maicd>
+    <makp>30</makp>
+    <diachi> XÃ³m Suá»‘i Bu XÃ£ TrÆ°á»ng SÆ¡n,Huyá»‡n LÆ°Æ¡ng SÆ¡n,HÃ²a BÃ¬nh</diachi>
+    <traituyen>0</traituyen>
+    <chandoan>Beta thalassaemia;</chandoan>
+    <songaydt>3</songaydt>
+    <tinhtrangrv>1</tinhtrangrv>
+    <ketqua>1</ketqua>
+    <loaibn>1</loaibn>
+    <makp_byt>K10</makp_byt>
+    <tenkp>Trung tÃ¢m Thalassemia</tenkp>
+  </data>
+  <data>
+    <id>180418095958025748</id>
+    <maql>180409080215272316</maql>
+    <mavaovien>180409071718001524</mavaovien>
+    <mabn>18001524</mabn>
+    <hoten>VÅ¨ VÄ‚N TÃŒNH</hoten>
+    <namsinh>19720520</namsinh>
+    <phai>1</phai>
+    <ngayvao>201804090717</ngayvao>
+    <ngayra>201804180842</ngayra>
+    <ngaythu>201804181004</ngaythu>
+    <sophieu>0</sophieu>
+    <sotien>10588649</sotien>
+    <bhtra>8381967</bhtra>
+    <bntra>2206682</bntra>
+    <bntt>0</bntt>
+    <nguonkhac>0</nguonkhac>
+    <sothe>GB4404018754166</sothe>
+    <madkkcb>40361</madkkcb>
+    <denngay>20181231</denngay>
+    <maicd>C92.1;</maicd>
+    <makp>03</makp>
+    <diachi>C92.1-1336 BÃI TRáº CH XÃ£ Thá» ThÃ nh,Huyá»‡n YÃªn ThÃ nh,Nghá»‡ An</diachi>
+    <traituyen>0</traituyen>
+    <chandoan>Bá»‡nh báº¡ch cáº§u dáº¡ng tuá»· máº¡n [CML], BCR/ABL- dÆ°Æ¡ng tÃ­nh;</chandoan>
+    <songaydt>10</songaydt>
+    <tinhtrangrv>1</tinhtrangrv>
+    <ketqua>2</ketqua>
+    <loaibn>1</loaibn>
+    <makp_byt>K10</makp_byt>
+    <tenkp>Khoa Äiá»u Trá»‹ HÃ³a Cháº¥t [H7]</tenkp>
+  </data>
+  <data>
+    <id>180418085359880486</id>
+    <maql>180410073853323188</maql>
+    <mavaovien>180410075716019411</mavaovien>
+    <mabn>16019411</mabn>
+    <hoten>TRáº¦N THá»Š ÃI</hoten>
+    <namsinh>19750205</namsinh>
+    <phai>2</phai>
+    <ngayvao>201804100757</ngayvao>
+    <ngayra>201804180734</ngayra>
+    <ngaythu>201804180902</ngaythu>
+    <sophieu>0</sophieu>
+    <sotien>19432212</sotien>
+    <bhtra>13325202</bhtra>
+    <bntra>6107010</bntra>
+    <bntt>0</bntt>
+    <nguonkhac>0</nguonkhac>
+    <sothe>DN4444408002079</sothe>
+    <madkkcb>44006</madkkcb>
+    <denngay>20181231</denngay>
+    <maicd>D75.2; ^D75.2;</maicd>
+    <makp>24</makp>
+    <diachi>d46-462 PhÃºc Má»¹ XÃ£ XuÃ¢n Ninh,Huyá»‡n Quáº£ng Ninh,Quáº£ng BÃ¬nh</diachi>
+    <traituyen>0</traituyen>
+    <chandoan>TÄƒng tiá»ƒu cáº§u tiá»n phÃ¡t; ^TÄƒng tiá»ƒu cáº§u tiá»n phÃ¡t;</chandoan>
+    <songaydt>9</songaydt>
+    <tinhtrangrv>1</tinhtrangrv>
+    <ketqua>2</ketqua>
+    <loaibn>1</loaibn>
+    <makp_byt>K10</makp_byt>
+    <tenkp>Khoa bá»‡nh mÃ¡u tá»•ng há»£p II (H5)</tenkp>
+  </data>
+  <data>
+    <id>180418112231887486</id>
+    <maql>180301074239903316</maql>
+    <mavaovien>180301075817014766</mavaovien>
+    <mabn>17014766</mabn>
+    <hoten>BÃ™I MINH KHANG</hoten>
+    <namsinh>20130722</namsinh>
+    <phai>1</phai>
+    <ngayvao>201803010758</ngayvao>
+    <ngayra>201804181031</ngayra>
+    <ngaythu>201804181130</ngaythu>
+    <sophieu>0</sophieu>
+    <sotien>56017875</sotien>
+    <bhtra>55844675</bhtra>
+    <bntra>173200</bntra>
+    <bntt>0</bntt>
+    <nguonkhac>0</nguonkhac>
+    <sothe>TE1444420639192</sothe>
+    <madkkcb>44139</madkkcb>
+    <denngay>20190930</denngay>
+    <maicd>C91; ^C91;</maicd>
+    <makp>23</makp>
+    <diachi> XuÃ¢n SÆ¡n XÃ£ Váº¡n Ninh,Huyá»‡n Quáº£ng Ninh,Quáº£ng BÃ¬nh</diachi>
+    <traituyen>0</traituyen>
+    <chandoan>Bá»‡nh báº¡ch cáº§u dáº¡ng lympho; ^Bá»‡nh báº¡ch cáº§u dáº¡ng lympho;</chandoan>
+    <songaydt>49</songaydt>
+    <tinhtrangrv>1</tinhtrangrv>
+    <ketqua>2</ketqua>
+    <loaibn>1</loaibn>
+    <makp_byt>K10</makp_byt>
+    <tenkp>Khoa Bá»‡nh MÃ¡u Tráº» Em</tenkp>
+  </data>
+  <data>
+    <id>180418164000257635</id>
+    <maql>180406101222014385</maql>
+    <mavaovien>180406103018005713</mavaovien>
+    <mabn>18005713</mabn>
+    <hoten>NGUYá»„N VÄ‚N TOÃ€N</hoten>
+    <namsinh>19621010</namsinh>
+    <phai>1</phai>
+    <ngayvao>201804061030</ngayvao>
+    <ngayra>201804071000</ngayra>
+    <ngaythu>201804181643</ngaythu>
+    <sophieu>0</sophieu>
+    <sotien>8236147</sotien>
+    <bhtra>8132751</bhtra>
+    <bntra>103396</bntra>
+    <bntt>0</bntt>
+    <nguonkhac>0</nguonkhac>
+    <sothe>BT2383822457191</sothe>
+    <madkkcb>38484</madkkcb>
+    <denngay>20181231</denngay>
+    <maicd>D61;</maicd>
+    <makp>02</makp>
+    <diachi> HÃ  Pháº¥n XÃ£ Tuy Lá»™c,Huyá»‡n Háº­u Lá»™c,Thanh HÃ³a</diachi>
+    <traituyen>0</traituyen>
+    <chandoan>CÃ¡c thá»ƒ suy tá»§y xÆ°Æ¡ng khÃ¡c;</chandoan>
+    <songaydt>2</songaydt>
+    <tinhtrangrv>4</tinhtrangrv>
+    <ketqua>3</ketqua>
+    <loaibn>1</loaibn>
+    <makp_byt>K10</makp_byt>
+    <tenkp>Khoa Bá»‡nh MÃ¡u Tá»•ng Há»£p I [H4]</tenkp>
+  </data>
+  <data>
+    <id>180418141612369486</id>
+    <maql>180416120710559360</maql>
+    <mavaovien>180416120913020240</mavaovien>
+    <mabn>13020240</mabn>
+    <hoten>PHáº M THá»Š HOA</hoten>
+    <namsinh>19950812</namsinh>
+    <phai>2</phai>
+    <ngayvao>201804161209</ngayvao>
+    <ngayra>201804181011</ngayra>
+    <ngaythu>201804181424</ngaythu>
+    <sophieu>0</sophieu>
+    <sotien>4313448</sotien>
+    <bhtra>4208810</bhtra>
+    <bntra>104638</bntra>
+    <bntt>0</bntt>
+    <nguonkhac>0</nguonkhac>
+    <sothe>HN2383823368050</sothe>
+    <madkkcb>38685</madkkcb>
+    <denngay>20181231</denngay>
+    <maicd>D56.1;</maicd>
+    <makp>30</makp>
+    <diachi>  XÃ£ TrÃºc LÃ¢m,Huyá»‡n TÄ©nh Gia,Thanh HÃ³a</diachi>
+    <traituyen>0</traituyen>
+    <chandoan>Beta thalassaemia;</chandoan>
+    <songaydt>3</songaydt>
+    <tinhtrangrv>1</tinhtrangrv>
+    <ketqua>1</ketqua>
+    <loaibn>1</loaibn>
+    <makp_byt>K10</makp_byt>
+    <tenkp>Trung tÃ¢m Thalassemia</tenkp>
+  </data>
+  <data>
+    <id>180418142025921486</id>
+    <maql>180417064528034360</maql>
+    <mavaovien>180417064714014452</mavaovien>
+    <mabn>14014452</mabn>
+    <hoten>NGUYá»„N THá»Š TOÃ€N</hoten>
+    <namsinh>19780410</namsinh>
+    <phai>2</phai>
+    <ngayvao>201804170647</ngayvao>
+    <ngayra>201804181034</ngayra>
+    <ngaythu>201804181428</ngaythu>
+    <sophieu>0</sophieu>
+    <sotien>2951610</sotien>
+    <bhtra>2846972</bhtra>
+    <bntra>104638</bntra>
+    <bntt>0</bntt>
+    <nguonkhac>0</nguonkhac>
+    <sothe>BT2383821715331</sothe>
+    <madkkcb>38319</madkkcb>
+    <denngay>20181231</denngay>
+    <maicd>D56.1; ^D56.1;</maicd>
+    <makp>30</makp>
+    <diachi> Luáº­n VÄƒn 1 XÃ£ Thá» XÆ°Æ¡ng,Huyá»‡n Thá» XuÃ¢n,Thanh HÃ³a</diachi>
+    <traituyen>0</traituyen>
+    <chandoan>Beta thalassaemia; ^Beta thalassaemia;</chandoan>
+    <songaydt>2</songaydt>
+    <tinhtrangrv>1</tinhtrangrv>
+    <ketqua>1</ketqua>
+    <loaibn>1</loaibn>
+    <makp_byt>K10</makp_byt>
+    <tenkp>Trung tÃ¢m Thalassemia</tenkp>
+  </data>
+  <data>
+    <id>180418100956374748</id>
+    <maql>180326141900969188</maql>
+    <mavaovien>180326143718005777</mavaovien>
+    <mabn>18005777</mabn>
+    <hoten>LÆ¯U THá»Š TÃŒNH</hoten>
+    <namsinh>19790404</namsinh>
+    <phai>2</phai>
+    <ngayvao>201803261437</ngayvao>
+    <ngayra>201804180837</ngayra>
+    <ngaythu>201804181014</ngaythu>
+    <sophieu>0</sophieu>
+    <sotien>30416816</sotien>
+    <bhtra>29962760</bhtra>
+    <bntra>454056</bntra>
+    <bntt>0</bntt>
+    <nguonkhac>0</nguonkhac>
+    <sothe>HN2404016862156</sothe>
+    <madkkcb>40520</madkkcb>
+    <denngay>20181231</denngay>
+    <maicd>C92.1;</maicd>
+    <makp>03</makp>
+    <diachi> C92.1-1351 ThÃ´n 5 XÃ£ HÆ°ng Äáº¡o,Huyá»‡n HÆ°ng NguyÃªn,Nghá»‡ An</diachi>
+    <traituyen>0</traituyen>
+    <chandoan>Bá»‡nh báº¡ch cáº§u dáº¡ng tuá»· máº¡n [CML], BCR/ABL- dÆ°Æ¡ng tÃ­nh;</chandoan>
+    <songaydt>24</songaydt>
+    <tinhtrangrv>1</tinhtrangrv>
+    <ketqua>2</ketqua>
+    <loaibn>1</loaibn>
+    <makp_byt>K10</makp_byt>
+    <tenkp>Khoa Äiá»u Trá»‹ HÃ³a Cháº¥t [H7]</tenkp>
+  </data>
+  <data>
+    <id>180418111935857748</id>
+    <maql>180416104717349431</maql>
+    <mavaovien>180416104212008313</mavaovien>
+    <mabn>12008313</mabn>
+    <hoten>HOÃ€NG BÃ VÆ¯á»¢NG</hoten>
+    <namsinh>20040710</namsinh>
+    <phai>1</phai>
+    <ngayvao>201804161042</ngayvao>
+    <ngayra>201804181006</ngayra>
+    <ngaythu>201804181124</ngaythu>
+    <sophieu>0</sophieu>
+    <sotien>1946335</sotien>
+    <bhtra>1834115</bhtra>
+    <bntra>112220</bntra>
+    <bntt>0</bntt>
+    <nguonkhac>0</nguonkhac>
+    <sothe>BT2424216185011</sothe>
+    <madkkcb>42157</madkkcb>
+    <denngay>20181231</denngay>
+    <maicd>C83; ^C92.4;</maicd>
+    <makp>23</makp>
+    <diachi>148  XÃ£ Trung Lá»™c,Huyá»‡n Can Lá»™c,HÃ  TÄ©nh</diachi>
+    <traituyen>0</traituyen>
+    <chandoan>U Lympho dáº¡ng khÃ´ng pháº£i nang; ^Bá»‡nh báº¡ch cáº§u dáº¡ng tiá»n tuá»· bÃ o (PML);</chandoan>
+    <songaydt>3</songaydt>
+    <tinhtrangrv>1</tinhtrangrv>
+    <ketqua>2</ketqua>
+    <loaibn>1</loaibn>
+    <makp_byt>K10</makp_byt>
+    <tenkp>Khoa Bá»‡nh MÃ¡u Tráº» Em</tenkp>
+  </data>
+  <data>
+    <id>180418143717856748</id>
+    <maql>180402074923235385</maql>
+    <mavaovien>180402080716006630</mavaovien>
+    <mabn>16006630</mabn>
+    <hoten>ÄÃ€O XUÃ‚N Háº¢I</hoten>
+    <namsinh>19600113</namsinh>
+    <phai>1</phai>
+    <ngayvao>201804020807</ngayvao>
+    <ngayra>201804181357</ngayra>
+    <ngaythu>201804181442</ngaythu>
+    <sophieu>0</sophieu>
+    <sotien>41284865</sotien>
+    <bhtra>39109545</bhtra>
+    <bntra>2175320</bntra>
+    <bntt>0</bntt>
+    <nguonkhac>0</nguonkhac>
+    <sothe>CN3424216258706</sothe>
+    <madkkcb>42214</madkkcb>
+    <denngay>20181231</denngay>
+    <maicd>C92.0;</maicd>
+    <makp>03</makp>
+    <diachi> C92.0-348, Ká»³ Phong XÃ£ Tháº¡ch ÄÃ i,Huyá»‡n Tháº¡ch HÃ ,HÃ  TÄ©nh</diachi>
+    <traituyen>0</traituyen>
+    <chandoan>Bá»‡nh báº¡ch cáº§u dáº¡ng tuá»· cáº¥p;</chandoan>
+    <songaydt>17</songaydt>
+    <tinhtrangrv>1</tinhtrangrv>
+    <ketqua>2</ketqua>
+    <loaibn>1</loaibn>
+    <makp_byt>K10</makp_byt>
+    <tenkp>Khoa Äiá»u Trá»‹ HÃ³a Cháº¥t [H7]</tenkp>
+  </data>
+  <data>
+    <id>180418111828522635</id>
+    <maql>180412153916344316</maql>
+    <mavaovien>180412154118010545</mavaovien>
+    <mabn>18010545</mabn>
+    <hoten>NGUYá»„N THá»Š PHÆ¯Æ NG ANH</hoten>
+    <namsinh>2004</namsinh>
+    <phai>2</phai>
+    <ngayvao>201804121541</ngayvao>
+    <ngayra>201804181004</ngayra>
+    <ngaythu>201804181123</ngaythu>
+    <sophieu>0</sophieu>
+    <sotien>4903347</sotien>
+    <bhtra>3822251</bhtra>
+    <bntra>1081096</bntra>
+    <bntt>0</bntt>
+    <nguonkhac>0</nguonkhac>
+    <sothe>HS4010124866550</sothe>
+    <madkkcb>01828</madkkcb>
+    <denngay>20181231</denngay>
+    <maicd>C83; ^C91;</maicd>
+    <makp>23</makp>
+    <diachi> 64 XÃ£ Há»¯u Báº±ng,Huyá»‡n Tháº¡ch Tháº¥t,HÃ  Ná»™i</diachi>
+    <traituyen>0</traituyen>
+    <chandoan>U Lympho dáº¡ng khÃ´ng pháº£i nang; ^Bá»‡nh báº¡ch cáº§u dáº¡ng lympho;</chandoan>
+    <songaydt>7</songaydt>
+    <tinhtrangrv>1</tinhtrangrv>
+    <ketqua>2</ketqua>
+    <loaibn>1</loaibn>
+    <makp_byt>K10</makp_byt>
+    <tenkp>Khoa Bá»‡nh MÃ¡u Tráº» Em</tenkp>
+  </data>
+  <data>
+    <id>180418090441054635</id>
+    <maql>180411094042906385</maql>
+    <mavaovien>180411095817056506</mavaovien>
+    <mabn>17056506</mabn>
+    <hoten>NGUYá»„N VÄ‚N NAM</hoten>
+    <namsinh>19710101</namsinh>
+    <phai>1</phai>
+    <ngayvao>201804110958</ngayvao>
+    <ngayra>201804180818</ngayra>
+    <ngaythu>201804180907</ngaythu>
+    <sophieu>0</sophieu>
+    <sotien>32033792</sotien>
+    <bhtra>25624499</bhtra>
+    <bntra>6409293</bntra>
+    <bntt>0</bntt>
+    <nguonkhac>0</nguonkhac>
+    <sothe>HG4010122533170</sothe>
+    <madkkcb>01824</madkkcb>
+    <denngay>20181231</denngay>
+    <maicd>C85;</maicd>
+    <makp>24</makp>
+    <diachi> PHÃš ÄA XÃ£ Äá»©c ThÆ°á»£ng,Huyá»‡n HoÃ i Äá»©c,HÃ  Ná»™i</diachi>
+    <traituyen>0</traituyen>
+    <chandoan>U lympho khÃ´ng Hodgkin, loáº¡i khÃ¡c vÃ  khÃ´ng xÃ¡c Ä‘á»‹nh;</chandoan>
+    <songaydt>8</songaydt>
+    <tinhtrangrv>1</tinhtrangrv>
+    <ketqua>2</ketqua>
+    <loaibn>1</loaibn>
+    <makp_byt>K10</makp_byt>
+    <tenkp>Khoa bá»‡nh mÃ¡u tá»•ng há»£p II (H5)</tenkp>
+  </data>
+  <data>
+    <id>180418094639653635</id>
+    <maql>180410081220240385</maql>
+    <mavaovien>180410083017059215</mavaovien>
+    <mabn>17059215</mabn>
+    <hoten>NGUYá»„N ÄÃŒNH SÃ‚M</hoten>
+    <namsinh>19590201</namsinh>
+    <phai>1</phai>
+    <ngayvao>201804100830</ngayvao>
+    <ngayra>201804180746</ngayra>
+    <ngaythu>201804180950</ngaythu>
+    <sophieu>0</sophieu>
+    <sotien>62911191</sotien>
+    <bhtra>57593001</bhtra>
+    <bntra>5318190</bntra>
+    <bntt>0</bntt>
+    <nguonkhac>0</nguonkhac>
+    <sothe>CH4012299065151</sothe>
+    <madkkcb>01824</madkkcb>
+    <denngay>20181231</denngay>
+    <maicd>C85; C83; ^C85;</maicd>
+    <makp>24</makp>
+    <diachi> ThÃ´n Vá»±c XÃ£ Di Tráº¡ch,Huyá»‡n HoÃ i Äá»©c,HÃ  Ná»™i</diachi>
+    <traituyen>0</traituyen>
+    <chandoan>U lympho khÃ´ng Hodgkin, loáº¡i khÃ¡c vÃ  khÃ´ng xÃ¡c Ä‘á»‹nh; U Lympho dáº¡ng khÃ´ng pháº£i nang; ^U lympho khÃ´ng Hodgkin, loáº¡i khÃ¡c vÃ  khÃ´ng xÃ¡c Ä‘á»‹nh;</chandoan>
+    <songaydt>9</songaydt>
+    <tinhtrangrv>1</tinhtrangrv>
+    <ketqua>2</ketqua>
+    <loaibn>1</loaibn>
+    <makp_byt>K10</makp_byt>
+    <tenkp>Khoa bá»‡nh mÃ¡u tá»•ng há»£p II (H5)</tenkp>
+  </data>
+  <data>
+    <id>180418112618343486</id>
+    <maql>180417092144059385</maql>
+    <mavaovien>180417092514009402</mavaovien>
+    <mabn>14009402</mabn>
+    <hoten>Äá»– TIáº¾N SON</hoten>
+    <namsinh>20090607</namsinh>
+    <phai>1</phai>
+    <ngayvao>201804170925</ngayvao>
+    <ngayra>201804181028</ngayra>
+    <ngaythu>201804181134</ngaythu>
+    <sophieu>0</sophieu>
+    <sotien>1281671</sotien>
+    <bhtra>1208829</bhtra>
+    <bntra>72842</bntra>
+    <bntt>0</bntt>
+    <nguonkhac>0</nguonkhac>
+    <sothe>CN3010120537625</sothe>
+    <madkkcb>01L05</madkkcb>
+    <denngay>20181231</denngay>
+    <maicd>C91;</maicd>
+    <makp>23</makp>
+    <diachi>618 C91(343), YÃªn Kiá»‡n XÃ£ ÄÃ´ng SÆ¡n,Huyá»‡n ChÆ°Æ¡ng Má»¹,HÃ  Ná»™i</diachi>
+    <traituyen>0</traituyen>
+    <chandoan>Bá»‡nh báº¡ch cáº§u dáº¡ng lympho;</chandoan>
+    <songaydt>2</songaydt>
+    <tinhtrangrv>1</tinhtrangrv>
+    <ketqua>2</ketqua>
+    <loaibn>1</loaibn>
+    <makp_byt>K10</makp_byt>
+    <tenkp>Khoa Bá»‡nh MÃ¡u Tráº» Em</tenkp>
+  </data>
+  <data>
+    <id>180418153845531635</id>
+    <maql>180409094815212385</maql>
+    <mavaovien>180409100618003187</mavaovien>
+    <mabn>18003187</mabn>
+    <hoten>Táº  TUáº¤N PHONG</hoten>
+    <namsinh>20130822</namsinh>
+    <phai>1</phai>
+    <ngayvao>201804091006</ngayvao>
+    <ngayra>201804181516</ngayra>
+    <ngaythu>201804181542</ngaythu>
+    <sophieu>0</sophieu>
+    <sotien>14954768</sotien>
+    <bhtra>14938178</bhtra>
+    <bntra>16590</bntra>
+    <bntt>0</bntt>
+    <nguonkhac>0</nguonkhac>
+    <sothe>TE1262620764962</sothe>
+    <madkkcb>26523</madkkcb>
+    <denngay>20190930</denngay>
+    <maicd>C92; ^C92;</maicd>
+    <makp>23</makp>
+    <diachi> NghÄ©a Láº­p XÃ£ NghÄ©a HÆ°ng,Huyá»‡n VÄ©nh TÆ°á»ng,VÄ©nh PhÃºc</diachi>
+    <traituyen>0</traituyen>
+    <chandoan>Bá»‡nh báº¡ch cáº§u tuá»·; ^Bá»‡nh báº¡ch cáº§u tuá»·;</chandoan>
+    <songaydt>10</songaydt>
+    <tinhtrangrv>1</tinhtrangrv>
+    <ketqua>2</ketqua>
+    <loaibn>1</loaibn>
+    <makp_byt>K10</makp_byt>
+    <tenkp>Khoa Bá»‡nh MÃ¡u Tráº» Em</tenkp>
+  </data>
+  <data>
+    <id>180418104931727635</id>
+    <maql>180416130353701360</maql>
+    <mavaovien>180416130612017386</mavaovien>
+    <mabn>12017386</mabn>
+    <hoten>HOÃ€NG Há»®U TIáº¾N</hoten>
+    <namsinh>20120516</namsinh>
+    <phai>1</phai>
+    <ngayvao>201804161306</ngayvao>
+    <ngayra>201804181038</ngayra>
+    <ngaythu>201804181053</ngaythu>
+    <sophieu>0</sophieu>
+    <sotien>7682950</sotien>
+    <bhtra>7682137</bhtra>
+    <bntra>813</bntra>
+    <bntt>0</bntt>
+    <nguonkhac>0</nguonkhac>
+    <sothe>TE1262620851572</sothe>
+    <madkkcb>26507</madkkcb>
+    <denngay>20180930</denngay>
+    <maicd>D66; ^D66;</maicd>
+    <makp>17</makp>
+    <diachi> Äan ThÆ°á»£ng XÃ£ PhÃº Thá»‹nh,Huyá»‡n VÄ©nh TÆ°á»ng,VÄ©nh PhÃºc</diachi>
+    <traituyen>0</traituyen>
+    <chandoan>Thiáº¿u yáº¿u tá»‘ VIII di truyá»n; ^Thiáº¿u yáº¿u tá»‘ VIII di truyá»n;</chandoan>
+    <songaydt>3</songaydt>
+    <tinhtrangrv>1</tinhtrangrv>
+    <ketqua>2</ketqua>
+    <loaibn>1</loaibn>
+    <makp_byt>K10</makp_byt>
+    <tenkp>Trung TÃ¢m Äiá»u Trá»‹ Hemophilia</tenkp>
+  </data>
+  <data>
+    <id>180418100742684748</id>
+    <maql>180402103551653316</maql>
+    <mavaovien>180402105116007491</mavaovien>
+    <mabn>16007491</mabn>
+    <hoten>PHÃ™NG THá»Š HÆ¯Æ NG</hoten>
+    <namsinh>19960316</namsinh>
+    <phai>2</phai>
+    <ngayvao>201804021051</ngayvao>
+    <ngayra>201804180837</ngayra>
+    <ngaythu>201804181012</ngaythu>
+    <sophieu>0</sophieu>
+    <sotien>40408219</sotien>
+    <bhtra>40385896</bhtra>
+    <bntra>22323</bntra>
+    <bntt>0</bntt>
+    <nguonkhac>0</nguonkhac>
+    <sothe>HN2010130005423</sothe>
+    <madkkcb>01831</madkkcb>
+    <denngay>20181231</denngay>
+    <maicd>C92.0;</maicd>
+    <makp>03</makp>
+    <diachi> NgÃµ 1 PhÆ°á»ng NgÃ´ Quyá»n,Thá»‹ xÃ£ SÆ¡n TÃ¢y,HÃ  Ná»™i</diachi>
+    <traituyen>0</traituyen>
+    <chandoan>Bá»‡nh báº¡ch cáº§u dáº¡ng tuá»· cáº¥p;</chandoan>
+    <songaydt>17</songaydt>
+    <tinhtrangrv>1</tinhtrangrv>
+    <ketqua>2</ketqua>
+    <loaibn>1</loaibn>
+    <makp_byt>K10</makp_byt>
+    <tenkp>Khoa Äiá»u Trá»‹ HÃ³a Cháº¥t [H7]</tenkp>
+  </data>
+  <data>
+    <id>180418103550794748</id>
+    <maql>180410094020111385</maql>
+    <mavaovien>180410095818009428</mavaovien>
+    <mabn>18009428</mabn>
+    <hoten>TRáº¦N THáº¾ CÆ¯á»œNG</hoten>
+    <namsinh>19980412</namsinh>
+    <phai>1</phai>
+    <ngayvao>201804100958</ngayvao>
+    <ngayra>201804180939</ngayra>
+    <ngaythu>201804181040</ngaythu>
+    <sophieu>0</sophieu>
+    <sotien>17068109</sotien>
+    <bhtra>13570136</bhtra>
+    <bntra>3497973</bntra>
+    <bntt>0</bntt>
+    <nguonkhac>0</nguonkhac>
+    <sothe>GD4010130374635</sothe>
+    <madkkcb>01831</madkkcb>
+    <denngay>20180514</denngay>
+    <maicd>D61; ^D61;</maicd>
+    <makp>02</makp>
+    <diachi> ÄoÃ n Káº¿t XÃ£ Cá»• ÄÃ´ng,Thá»‹ xÃ£ SÆ¡n TÃ¢y,HÃ  Ná»™i</diachi>
+    <traituyen>0</traituyen>
+    <chandoan>CÃ¡c thá»ƒ suy tá»§y xÆ°Æ¡ng khÃ¡c; ^CÃ¡c thá»ƒ suy tá»§y xÆ°Æ¡ng khÃ¡c;</chandoan>
+    <songaydt>9</songaydt>
+    <tinhtrangrv>1</tinhtrangrv>
+    <ketqua>2</ketqua>
+    <loaibn>1</loaibn>
+    <makp_byt>K10</makp_byt>
+    <tenkp>Khoa Bá»‡nh MÃ¡u Tá»•ng Há»£p I [H4]</tenkp>
+  </data>
+  <data>
+    <id>180418105207365486</id>
+    <maql>180416101033742385</maql>
+    <mavaovien>180416101413020823</mavaovien>
+    <mabn>13020823</mabn>
+    <hoten>NGUYá»„N DANH MINH</hoten>
+    <namsinh>20120324</namsinh>
+    <phai>1</phai>
+    <ngayvao>201804161014</ngayvao>
+    <ngayra>201804180939</ngayra>
+    <ngaythu>201804181100</ngaythu>
+    <sophieu>0</sophieu>
+    <sotien>7608950</sotien>
+    <bhtra>7608137</bhtra>
+    <bntra>813</bntra>
+    <bntt>0</bntt>
+    <nguonkhac>0</nguonkhac>
+    <sothe>TE1010120040085</sothe>
+    <madkkcb>01120</madkkcb>
+    <denngay>20180930</denngay>
+    <maicd>D66; ^D66;^D66;</maicd>
+    <makp>17</makp>
+    <diachi>A836 Äan KhÃª XÃ£ SÆ¡n ÄÃ ,Huyá»‡n Ba VÃ¬,HÃ  Ná»™i</diachi>
+    <traituyen>0</traituyen>
+    <chandoan>Thiáº¿u yáº¿u tá»‘ VIII di truyá»n; ^Thiáº¿u yáº¿u tá»‘ VIII di truyá»n;^Thiáº¿u yáº¿u tá»‘ VIII di truyá»n;</chandoan>
+    <songaydt>3</songaydt>
+    <tinhtrangrv>1</tinhtrangrv>
+    <ketqua>2</ketqua>
+    <loaibn>1</loaibn>
+    <makp_byt>K10</makp_byt>
+    <tenkp>Trung TÃ¢m Äiá»u Trá»‹ Hemophilia</tenkp>
+  </data>
+  <data>
+    <id>180418144139148486</id>
+    <maql>180410101157689316</maql>
+    <mavaovien>180410102818000835</mavaovien>
+    <mabn>18000835</mabn>
+    <hoten>LÃŠ PHI HÃ™NG</hoten>
+    <namsinh>20091226</namsinh>
+    <phai>1</phai>
+    <ngayvao>201804101028</ngayvao>
+    <ngayra>201804181007</ngayra>
+    <ngaythu>201804181450</ngaythu>
+    <sophieu>0</sophieu>
+    <sotien>7843141</sotien>
+    <bhtra>6172776</bhtra>
+    <bntra>1670365</bntra>
+    <bntt>0</bntt>
+    <nguonkhac>0</nguonkhac>
+    <sothe>HS4010120274514</sothe>
+    <madkkcb>01822</madkkcb>
+    <denngay>20181231</denngay>
+    <maicd>D75; ^C91;</maicd>
+    <makp>23</makp>
+    <diachi> XÃ³m 1 XÃ£ PhÃº PhÆ°Æ¡ng,Huyá»‡n Ba VÃ¬,HÃ  Ná»™i</diachi>
+    <traituyen>0</traituyen>
+    <chandoan>CÃ¡c bá»‡nh mÃ¡u vÃ  cÆ¡ quan táº¡o mÃ¡u khÃ¡c; ^Bá»‡nh báº¡ch cáº§u dáº¡ng lympho;</chandoan>
+    <songaydt>9</songaydt>
+    <tinhtrangrv>1</tinhtrangrv>
+    <ketqua>2</ketqua>
+    <loaibn>1</loaibn>
+    <makp_byt>K10</makp_byt>
+    <tenkp>Khoa Bá»‡nh MÃ¡u Tráº» Em</tenkp>
+  </data>
+  <data>
+    <id>180418144621194486</id>
+    <maql>180416091035299385</maql>
+    <mavaovien>180416091418010619</mavaovien>
+    <mabn>18010619</mabn>
+    <hoten>Äá»– THá»Š Há»¢I</hoten>
+    <namsinh>19470212</namsinh>
+    <phai>2</phai>
+    <ngayvao>201804160914</ngayvao>
+    <ngayra>201804181442</ngayra>
+    <ngaythu>201804181454</ngaythu>
+    <sophieu>0</sophieu>
+    <sotien>2900700</sotien>
+    <bhtra>2797158</bhtra>
+    <bntra>103542</bntra>
+    <bntt>0</bntt>
+    <nguonkhac>0</nguonkhac>
+    <sothe>HT2010124792577</sothe>
+    <madkkcb>01E59</madkkcb>
+    <denngay>20201231</denngay>
+    <maicd>D69.1; D68; ^D69.1;</maicd>
+    <makp>17</makp>
+    <diachi>d68-238 Phá»‘ MÃ£ XÃ£ PhÃ¹ Linh,Huyá»‡n SÃ³c SÆ¡n,HÃ  Ná»™i</diachi>
+    <traituyen>0</traituyen>
+    <chandoan>Báº¥t thÆ°á»ng cháº¥t lÆ°á»£ng tiá»ƒu cáº§u; CÃ¡c báº¥t thÆ°á»ng Ä‘Ã´ng mÃ¡u khÃ¡c; ^Báº¥t thÆ°á»ng cháº¥t lÆ°á»£ng tiá»ƒu cáº§u;</chandoan>
+    <songaydt>3</songaydt>
+    <tinhtrangrv>1</tinhtrangrv>
+    <ketqua>2</ketqua>
+    <loaibn>1</loaibn>
+    <makp_byt>K10</makp_byt>
+    <tenkp>Trung TÃ¢m Äiá»u Trá»‹ Hemophilia</tenkp>
+  </data>
+  <data>
+    <id>180418105625059635</id>
+    <maql>180414085004582360</maql>
+    <mavaovien>180414085213024886</mavaovien>
+    <mabn>13024886</mabn>
+    <hoten>NGUYá»„N CHU UY VÅ¨</hoten>
+    <namsinh>20120827</namsinh>
+    <phai>1</phai>
+    <ngayvao>201804140852</ngayvao>
+    <ngayra>201804180907</ngayra>
+    <ngaythu>201804181100</ngaythu>
+    <sophieu>0</sophieu>
+    <sotien>20925311</sotien>
+    <bhtra>20923956</bhtra>
+    <bntra>1355</bntra>
+    <bntt>0</bntt>
+    <nguonkhac>0</nguonkhac>
+    <sothe>TE1010121566720</sothe>
+    <madkkcb>01F08</madkkcb>
+    <denngay>20180930</denngay>
+    <maicd>D66; ^D66;</maicd>
+    <makp>17</makp>
+    <diachi>A838 Thiáº¿t BÃ¬nh XÃ£ VÃ¢n HÃ ,Huyá»‡n ÄÃ´ng Anh,HÃ  Ná»™i</diachi>
+    <traituyen>0</traituyen>
+    <chandoan>Thiáº¿u yáº¿u tá»‘ VIII di truyá»n; ^Thiáº¿u yáº¿u tá»‘ VIII di truyá»n;</chandoan>
+    <songaydt>5</songaydt>
+    <tinhtrangrv>1</tinhtrangrv>
+    <ketqua>2</ketqua>
+    <loaibn>1</loaibn>
+    <makp_byt>K10</makp_byt>
+    <tenkp>Trung TÃ¢m Äiá»u Trá»‹ Hemophilia</tenkp>
+  </data>
+  <data>
+    <id>180418102427440748</id>
+    <maql>180417140141632385</maql>
+    <mavaovien>180417140517032399</mavaovien>
+    <mabn>17032399</mabn>
+    <hoten>BÃ™I XUÃ‚N KÃNH</hoten>
+    <namsinh>19480101</namsinh>
+    <phai>1</phai>
+    <ngayvao>201804171405</ngayvao>
+    <ngayra>201804180914</ngayra>
+    <ngaythu>201804181028</ngaythu>
+    <sophieu>0</sophieu>
+    <sotien>1477649</sotien>
+    <bhtra>1373830</bhtra>
+    <bntra>103819</bntra>
+    <bntt>0</bntt>
+    <nguonkhac>0</nguonkhac>
+    <sothe>CK2010121262643</sothe>
+    <madkkcb>01031</madkkcb>
+    <denngay>20201231</denngay>
+    <maicd>D61;</maicd>
+    <makp>02</makp>
+    <diachi> TiÃªn Há»™i XÃ£ ÄÃ´ng Há»™i,Huyá»‡n ÄÃ´ng Anh,HÃ  Ná»™i</diachi>
+    <traituyen>0</traituyen>
+    <chandoan>CÃ¡c thá»ƒ suy tá»§y xÆ°Æ¡ng khÃ¡c;</chandoan>
+    <songaydt>2</songaydt>
+    <tinhtrangrv>1</tinhtrangrv>
+    <ketqua>2</ketqua>
+    <loaibn>1</loaibn>
+    <makp_byt>K10</makp_byt>
+    <tenkp>Khoa Bá»‡nh MÃ¡u Tá»•ng Há»£p I [H4]</tenkp>
+  </data>
+  <data>
+    <id>180418100343466748</id>
+    <maql>180412104220384316</maql>
+    <mavaovien>180412104417058645</mavaovien>
+    <mabn>17058645</mabn>
+    <hoten>LÃŠ THá»Š VÆ¯á»¢NG</hoten>
+    <namsinh>19460828</namsinh>
+    <phai>2</phai>
+    <ngayvao>201804121044</ngayvao>
+    <ngayra>201804180845</ngayra>
+    <ngaythu>201804181008</ngaythu>
+    <sophieu>0</sophieu>
+    <sotien>13806101</sotien>
+    <bhtra>11597368</bhtra>
+    <bntra>2208733</bntra>
+    <bntt>0</bntt>
+    <nguonkhac>0</nguonkhac>
+    <sothe>MS2303022238852</sothe>
+    <madkkcb>30273</madkkcb>
+    <denngay>20181231</denngay>
+    <maicd>C92.0;</maicd>
+    <makp>03</makp>
+    <diachi> HoÃ nh Lá»™c XÃ£ Cáº©m VÄƒn,Huyá»‡n Cáº©m GiÃ ng,Háº£i DÆ°Æ¡ng</diachi>
+    <traituyen>0</traituyen>
+    <chandoan>Bá»‡nh báº¡ch cáº§u dáº¡ng tuá»· cáº¥p;</chandoan>
+    <songaydt>7</songaydt>
+    <tinhtrangrv>1</tinhtrangrv>
+    <ketqua>2</ketqua>
+    <loaibn>1</loaibn>
+    <makp_byt>K10</makp_byt>
+    <tenkp>Khoa Äiá»u Trá»‹ HÃ³a Cháº¥t [H7]</tenkp>
+  </data>
+  <data>
+    <id>180418112504075748</id>
+    <maql>180416112136345316</maql>
+    <mavaovien>180416112417025894</mavaovien>
+    <mabn>17025894</mabn>
+    <hoten>NGUYá»„N Äáº I DÆ¯Æ NG</hoten>
+    <namsinh>20100421</namsinh>
+    <phai>1</phai>
+    <ngayvao>201804161124</ngayvao>
+    <ngayra>201804181007</ngayra>
+    <ngaythu>201804181129</ngaythu>
+    <sophieu>0</sophieu>
+    <sotien>6051184</sotien>
+    <bhtra>4840292</bhtra>
+    <bntra>1210892</bntra>
+    <bntt>0</bntt>
+    <nguonkhac>0</nguonkhac>
+    <sothe>HS4313122393645</sothe>
+    <madkkcb>31007</madkkcb>
+    <denngay>20181231</denngay>
+    <maicd>C81; ^C91;</maicd>
+    <makp>23</makp>
+    <diachi> TIÃŠN NÃ”NG Ä‘áº¡i báº£n,Huyá»‡n An DÆ°Æ¡ng,Háº£i PhÃ²ng</diachi>
+    <traituyen>0</traituyen>
+    <chandoan>U lympho Hodgkin; ^Bá»‡nh báº¡ch cáº§u dáº¡ng lympho;</chandoan>
+    <songaydt>3</songaydt>
+    <tinhtrangrv>1</tinhtrangrv>
+    <ketqua>2</ketqua>
+    <loaibn>1</loaibn>
+    <makp_byt>K10</makp_byt>
+    <tenkp>Khoa Bá»‡nh MÃ¡u Tráº» Em</tenkp>
+  </data>
+  <data>
+    <id>180418142132601635</id>
+    <maql>180409105711860316</maql>
+    <mavaovien>180409231314006882</mavaovien>
+    <mabn>14006882</mabn>
+    <hoten>NGUYá»„N VÄ‚N LÃ</hoten>
+    <namsinh>20080221</namsinh>
+    <phai>1</phai>
+    <ngayvao>201804092313</ngayvao>
+    <ngayra>201804181100</ngayra>
+    <ngaythu>201804181424</ngaythu>
+    <sophieu>0</sophieu>
+    <sotien>9675011</sotien>
+    <bhtra>9564640</bhtra>
+    <bntra>110371</bntra>
+    <bntt>0</bntt>
+    <nguonkhac>0</nguonkhac>
+    <sothe>BT2010123469074</sothe>
+    <madkkcb>01P17</madkkcb>
+    <denngay>20181231</denngay>
+    <maicd>D56.1;</maicd>
+    <makp>30</makp>
+    <diachi> TrÃ¡ng Viá»‡t XÃ£ TrÃ¡ng Viá»‡t,Huyá»‡n MÃª Linh,HÃ  Ná»™i</diachi>
+    <traituyen>0</traituyen>
+    <chandoan>Beta thalassaemia;</chandoan>
+    <songaydt>10</songaydt>
+    <tinhtrangrv>1</tinhtrangrv>
+    <ketqua>2</ketqua>
+    <loaibn>1</loaibn>
+    <makp_byt>K10</makp_byt>
+    <tenkp>Trung tÃ¢m Thalassemia</tenkp>
+  </data>
+  <data>
+    <id>180418142132309486</id>
+    <maql>180417103917279385</maql>
+    <mavaovien>180417104218006670</mavaovien>
+    <mabn>18006670</mabn>
+    <hoten>BÃ™I DUY HÆ¯NG</hoten>
+    <namsinh>20130903</namsinh>
+    <phai>1</phai>
+    <ngayvao>201804171042</ngayvao>
+    <ngayra>201804181600</ngayra>
+    <ngaythu>201804181429</ngaythu>
+    <sophieu>0</sophieu>
+    <sotien>2801680</sotien>
+    <bhtra>2698680</bhtra>
+    <bntra>103000</bntra>
+    <bntt>0</bntt>
+    <nguonkhac>0</nguonkhac>
+    <sothe>TE1171720194453</sothe>
+    <madkkcb>17097</madkkcb>
+    <denngay>20190930</denngay>
+    <maicd>D56.1; ^D56.1;</maicd>
+    <makp>30</makp>
+    <diachi> TiÃªn Há»™i XÃ£ TÃ¢n ThÃ nh,Huyá»‡n LÆ°Æ¡ng SÆ¡n,HÃ²a BÃ¬nh</diachi>
+    <traituyen>0</traituyen>
+    <chandoan>Beta thalassaemia; ^Beta thalassaemia;</chandoan>
+    <songaydt>2</songaydt>
+    <tinhtrangrv>1</tinhtrangrv>
+    <ketqua>2</ketqua>
+    <loaibn>1</loaibn>
+    <makp_byt>K10</makp_byt>
+    <tenkp>Trung tÃ¢m Thalassemia</tenkp>
+  </data>
+  <data>
+    <id>180418085931350486</id>
+    <maql>180411083621212385</maql>
+    <mavaovien>180411085417032771</mavaovien>
+    <mabn>17032771</mabn>
+    <hoten>PHAN THá»Š TÆ¯</hoten>
+    <namsinh>19490101</namsinh>
+    <phai>2</phai>
+    <ngayvao>201804110854</ngayvao>
+    <ngayra>201804180739</ngayra>
+    <ngaythu>201804180907</ngaythu>
+    <sophieu>0</sophieu>
+    <sotien>12070260</sotien>
+    <bhtra>12067550</bhtra>
+    <bntra>2710</bntra>
+    <bntt>0</bntt>
+    <nguonkhac>0</nguonkhac>
+    <sothe>HT2011300100690</sothe>
+    <madkkcb>01009</madkkcb>
+    <denngay>20191231</denngay>
+    <maicd>C90; ^C90;</maicd>
+    <makp>24</makp>
+    <diachi> NGá»ŒC Äáº I Äáº¡i Má»—,Quáº­n Nam Tá»« LiÃªm,HÃ  Ná»™i</diachi>
+    <traituyen>0</traituyen>
+    <chandoan>Äa u tuá»· vÃ  cÃ¡c u tÆ°Æ¡ng bÃ o; ^Äa u tuá»· vÃ  cÃ¡c u tÆ°Æ¡ng bÃ o;</chandoan>
+    <songaydt>8</songaydt>
+    <tinhtrangrv>1</tinhtrangrv>
+    <ketqua>2</ketqua>
+    <loaibn>1</loaibn>
+    <makp_byt>K10</makp_byt>
+    <tenkp>Khoa bá»‡nh mÃ¡u tá»•ng há»£p II (H5)</tenkp>
+  </data>
+  <data>
+    <id>180418100454122635</id>
+    <maql>180409163707204251</maql>
+    <mavaovien>180409165518010615</mavaovien>
+    <mabn>18010615</mabn>
+    <hoten>BÃ™I THá»Š SÃU</hoten>
+    <namsinh>19670104</namsinh>
+    <phai>2</phai>
+    <ngayvao>201804091655</ngayvao>
+    <ngayra>201804180845</ngayra>
+    <ngaythu>201804181008</ngaythu>
+    <sophieu>0</sophieu>
+    <sotien>8849104</sotien>
+    <bhtra>3320407</bhtra>
+    <bntra>5528697</bntra>
+    <bntt>0</bntt>
+    <nguonkhac>0</nguonkhac>
+    <sothe>CN3313121106791</sothe>
+    <madkkcb>31311</madkkcb>
+    <denngay>20181231</denngay>
+    <maicd>C91; C90; ^C91;</maicd>
+    <makp>03</makp>
+    <diachi> XÃ³m 1 XÃ£ Thuá»· Triá»u,Huyá»‡n Thuá»· NguyÃªn,Háº£i PhÃ²ng</diachi>
+    <traituyen>1</traituyen>
+    <chandoan>Bá»‡nh báº¡ch cáº§u dáº¡ng lympho; Äa u tuá»· vÃ  cÃ¡c u tÆ°Æ¡ng bÃ o; ^Bá»‡nh báº¡ch cáº§u dáº¡ng lympho;</chandoan>
+    <songaydt>10</songaydt>
+    <tinhtrangrv>1</tinhtrangrv>
+    <ketqua>2</ketqua>
+    <loaibn>1</loaibn>
+    <makp_byt>K10</makp_byt>
+    <tenkp>Khoa Äiá»u Trá»‹ HÃ³a Cháº¥t [H7]</tenkp>
+  </data>
+  <data>
+    <id>180418152015717635</id>
+    <maql>180417094538438316</maql>
+    <mavaovien>180417094816006163</mavaovien>
+    <mabn>16006163</mabn>
+    <hoten>ÄÃ€M PHÆ¯Æ NG THáº¢O</hoten>
+    <namsinh>20081011</namsinh>
+    <phai>2</phai>
+    <ngayvao>201804170948</ngayvao>
+    <ngayra>201804181008</ngayra>
+    <ngaythu>201804181523</ngaythu>
+    <sophieu>0</sophieu>
+    <sotien>2158373</sotien>
+    <bhtra>1383323</bhtra>
+    <bntra>775050</bntra>
+    <bntt>0</bntt>
+    <nguonkhac>0</nguonkhac>
+    <sothe>HS4010120703311</sothe>
+    <madkkcb>01003</madkkcb>
+    <denngay>20181231</denngay>
+    <maicd>C91; ^C91;</maicd>
+    <makp>23</makp>
+    <diachi> Tá»• 9 PhÆ°á»ng Dá»‹ch Vá»ng,Quáº­n Cáº§u Giáº¥y,HÃ  Ná»™i</diachi>
+    <traituyen>0</traituyen>
+    <chandoan>Bá»‡nh báº¡ch cáº§u dáº¡ng lympho; ^Bá»‡nh báº¡ch cáº§u dáº¡ng lympho;</chandoan>
+    <songaydt>2</songaydt>
+    <tinhtrangrv>1</tinhtrangrv>
+    <ketqua>2</ketqua>
+    <loaibn>1</loaibn>
+    <makp_byt>K10</makp_byt>
+    <tenkp>Khoa Bá»‡nh MÃ¡u Tráº» Em</tenkp>
+  </data>
+  <data>
+    <id>180418093704546635</id>
+    <maql>180416161753378385</maql>
+    <mavaovien>180416162108000436</mavaovien>
+    <mabn>08000436</mabn>
+    <hoten>QUÃCH THá»Š Báº¢O</hoten>
+    <namsinh>19560610</namsinh>
+    <phai>2</phai>
+    <ngayvao>201804161621</ngayvao>
+    <ngayra>201804172300</ngayra>
+    <ngaythu>201804180940</ngaythu>
+    <sophieu>0</sophieu>
+    <sotien>5526794</sotien>
+    <bhtra>5204602</bhtra>
+    <bntra>322192</bntra>
+    <bntt>0</bntt>
+    <nguonkhac>0</nguonkhac>
+    <sothe>HN2010124665023</sothe>
+    <madkkcb>01E58</madkkcb>
+    <denngay>20181231</denngay>
+    <maicd>D61; ^D61;</maicd>
+    <makp>02</makp>
+    <diachi> PHÃš Háº  XÃ£ Minh PhÃº,Huyá»‡n SÃ³c SÆ¡n,HÃ  Ná»™i</diachi>
+    <traituyen>0</traituyen>
+    <chandoan>CÃ¡c thá»ƒ suy tá»§y xÆ°Æ¡ng khÃ¡c; ^CÃ¡c thá»ƒ suy tá»§y xÆ°Æ¡ng khÃ¡c;</chandoan>
+    <songaydt>2</songaydt>
+    <tinhtrangrv>2</tinhtrangrv>
+    <ketqua>3</ketqua>
+    <loaibn>1</loaibn>
+    <makp_byt>K10</makp_byt>
+    <tenkp>Khoa Bá»‡nh MÃ¡u Tá»•ng Há»£p I [H4]</tenkp>
+  </data>
+  <data>
+    <id>180418112644561486</id>
+    <maql>180417102828816316</maql>
+    <mavaovien>180417103116034521</mavaovien>
+    <mabn>16034521</mabn>
+    <hoten>NGUYá»„N TRáº¦N TRUNG</hoten>
+    <namsinh>20021116</namsinh>
+    <phai>1</phai>
+    <ngayvao>201804171031</ngayvao>
+    <ngayra>201804181027</ngayra>
+    <ngaythu>201804181135</ngaythu>
+    <sophieu>0</sophieu>
+    <sotien>1678443</sotien>
+    <bhtra>1669647</bhtra>
+    <bntra>8796</bntra>
+    <bntt>0</bntt>
+    <nguonkhac>0</nguonkhac>
+    <sothe>HN2010124392775</sothe>
+    <madkkcb>01E63</madkkcb>
+    <denngay>20181231</denngay>
+    <maicd>C91;</maicd>
+    <makp>23</makp>
+    <diachi> NINH MÃ”N XÃ£ Hiá»n Ninh,Huyá»‡n SÃ³c SÆ¡n,HÃ  Ná»™i</diachi>
+    <traituyen>0</traituyen>
+    <chandoan>Bá»‡nh báº¡ch cáº§u dáº¡ng lympho;</chandoan>
+    <songaydt>2</songaydt>
+    <tinhtrangrv>1</tinhtrangrv>
+    <ketqua>2</ketqua>
+    <loaibn>1</loaibn>
+    <makp_byt>K10</makp_byt>
+    <tenkp>Khoa Bá»‡nh MÃ¡u Tráº» Em</tenkp>
+  </data>
+  <data>
+    <id>180418151220352635</id>
+    <maql>180416141336505316</maql>
+    <mavaovien>180416141616018210</mavaovien>
+    <mabn>16018210</mabn>
+    <hoten>NGUYá»„N THÃ€NH NAM</hoten>
+    <namsinh>20040307</namsinh>
+    <phai>1</phai>
+    <ngayvao>201804161416</ngayvao>
+    <ngayra>201804181600</ngayra>
+    <ngaythu>201804181515</ngaythu>
+    <sophieu>0</sophieu>
+    <sotien>4094376</sotien>
+    <bhtra>3988919</bhtra>
+    <bntra>105457</bntra>
+    <bntt>0</bntt>
+    <nguonkhac>0</nguonkhac>
+    <sothe>BT2313120046106</sothe>
+    <madkkcb>31002</madkkcb>
+    <denngay>20181231</denngay>
+    <maicd>D56.0;</maicd>
+    <makp>30</makp>
+    <diachi> NÃºi Voi PhÆ°á»ng Tráº¡i Chuá»‘i,Quáº­n Há»“ng BÃ ng,Háº£i PhÃ²ng</diachi>
+    <traituyen>0</traituyen>
+    <chandoan>Alpha thalassaemia;</chandoan>
+    <songaydt>3</songaydt>
+    <tinhtrangrv>1</tinhtrangrv>
+    <ketqua>1</ketqua>
+    <loaibn>1</loaibn>
+    <makp_byt>K10</makp_byt>
+    <tenkp>Trung tÃ¢m Thalassemia</tenkp>
+  </data>
+  <data>
+    <id>180418090139166635</id>
+    <maql>180404075134591385</maql>
+    <mavaovien>180404080917028287</mavaovien>
+    <mabn>17028287</mabn>
+    <hoten>LÃŠ THá»Š MÆ </hoten>
+    <namsinh>19480507</namsinh>
+    <phai>2</phai>
+    <ngayvao>201804040809</ngayvao>
+    <ngayra>201804180829</ngayra>
+    <ngaythu>201804180904</ngaythu>
+    <sophieu>0</sophieu>
+    <sotien>29857960</sotien>
+    <bhtra>29852020</bhtra>
+    <bntra>5940</bntra>
+    <bntt>0</bntt>
+    <nguonkhac>0</nguonkhac>
+    <sothe>CK2313120411512</sothe>
+    <madkkcb>31142</madkkcb>
+    <denngay>20181231</denngay>
+    <maicd>C85;</maicd>
+    <makp>24</makp>
+    <diachi> 13/285, Miáº¿u 2 XÃ£ PhÆ°á»ng HÃ ng KÃªnh,Quáº­n LÃª ChÃ¢n,Háº£i PhÃ²ng</diachi>
+    <traituyen>0</traituyen>
+    <chandoan>U lympho khÃ´ng Hodgkin, loáº¡i khÃ¡c vÃ  khÃ´ng xÃ¡c Ä‘á»‹nh;</chandoan>
+    <songaydt>15</songaydt>
+    <tinhtrangrv>1</tinhtrangrv>
+    <ketqua>2</ketqua>
+    <loaibn>1</loaibn>
+    <makp_byt>K10</makp_byt>
+    <tenkp>Khoa bá»‡nh mÃ¡u tá»•ng há»£p II (H5)</tenkp>
+  </data>
+  <data>
+    <id>180418144315092635</id>
+    <maql>180314081517863385</maql>
+    <mavaovien>180314083015028269</mavaovien>
+    <mabn>15028269</mabn>
+    <hoten>NGUYá»„N KIM TUáº¤N</hoten>
+    <namsinh>20040903</namsinh>
+    <phai>1</phai>
+    <ngayvao>201803140830</ngayvao>
+    <ngayra>201804181301</ngayra>
+    <ngaythu>201804181446</ngaythu>
+    <sophieu>0</sophieu>
+    <sotien>176175078</sotien>
+    <bhtra>106140666</bhtra>
+    <bntra>70034412</bntra>
+    <bntt>0</bntt>
+    <nguonkhac>0</nguonkhac>
+    <sothe>GD4303020027534</sothe>
+    <madkkcb>30001</madkkcb>
+    <denngay>20190107</denngay>
+    <maicd>C85; ^C85;</maicd>
+    <makp>04</makp>
+    <diachi>47H8  tÃ¢n bÃ¬nh,ThÃ nh phá»‘ Háº£i DÆ°Æ¡ng,Háº£i DÆ°Æ¡ng</diachi>
+    <traituyen>0</traituyen>
+    <chandoan>U lympho khÃ´ng Hodgkin, loáº¡i khÃ¡c vÃ  khÃ´ng xÃ¡c Ä‘á»‹nh; ^U lympho khÃ´ng Hodgkin, loáº¡i khÃ¡c vÃ  khÃ´ng xÃ¡c Ä‘á»‹nh;</chandoan>
+    <songaydt>36</songaydt>
+    <tinhtrangrv>1</tinhtrangrv>
+    <ketqua>2</ketqua>
+    <loaibn>1</loaibn>
+    <makp_byt>K10</makp_byt>
+    <tenkp>Khoa GhÃ©p Táº¿ BÃ o Gá»‘c</tenkp>
+  </data>
+  <data>
+    <id>180418142948400635</id>
+    <maql>180411072745548316</maql>
+    <mavaovien>180411074413022404</mavaovien>
+    <mabn>13022404</mabn>
+    <hoten>HOÃ€NG MINH QUANG</hoten>
+    <namsinh>20130102</namsinh>
+    <phai>1</phai>
+    <ngayvao>201804110744</ngayvao>
+    <ngayra>201804181012</ngayra>
+    <ngaythu>201804181433</ngaythu>
+    <sophieu>0</sophieu>
+    <sotien>5686693</sotien>
+    <bhtra>5577960</bhtra>
+    <bntra>108733</bntra>
+    <bntt>0</bntt>
+    <nguonkhac>0</nguonkhac>
+    <sothe>TE1040420297655</sothe>
+    <madkkcb>04272</madkkcb>
+    <denngay>20190930</denngay>
+    <maicd>D56.1;</maicd>
+    <makp>30</makp>
+    <diachi> Phia Máº¡ Ngá»c CÃ´n,Huyá»‡n TrÃ¹ng KhÃ¡nh,Cao Báº±ng</diachi>
+    <traituyen>0</traituyen>
+    <chandoan>Beta thalassaemia;</chandoan>
+    <songaydt>8</songaydt>
+    <tinhtrangrv>1</tinhtrangrv>
+    <ketqua>1</ketqua>
+    <loaibn>1</loaibn>
+    <makp_byt>K10</makp_byt>
+    <tenkp>Trung tÃ¢m Thalassemia</tenkp>
+  </data>
+  <data>
+    <id>180418142630383635</id>
+    <maql>180411081111683385</maql>
+    <mavaovien>180411082915013413</mavaovien>
+    <mabn>15013413</mabn>
+    <hoten>CÃ€ Báº¢O AN</hoten>
+    <namsinh>20130121</namsinh>
+    <phai>1</phai>
+    <ngayvao>201804110829</ngayvao>
+    <ngayra>201804181008</ngayra>
+    <ngaythu>201804181429</ngaythu>
+    <sophieu>0</sophieu>
+    <sotien>4560832</sotien>
+    <bhtra>4451280</bhtra>
+    <bntra>109552</bntra>
+    <bntt>0</bntt>
+    <nguonkhac>0</nguonkhac>
+    <sothe>TE1111120005335</sothe>
+    <madkkcb>11001</madkkcb>
+    <denngay>20190930</denngay>
+    <maicd>D56.1;</maicd>
+    <makp>30</makp>
+    <diachi> Báº£n Má»› THANH TRÆ¯á»œNG,thÃ nh phá»‘ Äiá»‡n BiÃªn,Äiá»‡n BiÃªn</diachi>
+    <traituyen>0</traituyen>
+    <chandoan>Beta thalassaemia;</chandoan>
+    <songaydt>8</songaydt>
+    <tinhtrangrv>1</tinhtrangrv>
+    <ketqua>1</ketqua>
+    <loaibn>1</loaibn>
+    <makp_byt>K10</makp_byt>
+    <tenkp>Trung tÃ¢m Thalassemia</tenkp>
+  </data>
+  <data>
+    <id>180418144424584748</id>
+    <maql>180410094910600385</maql>
+    <mavaovien>180410100718005701</mavaovien>
+    <mabn>18005701</mabn>
+    <hoten>QUÃCH THá»Š THOA</hoten>
+    <namsinh>20100216</namsinh>
+    <phai>2</phai>
+    <ngayvao>201804101007</ngayvao>
+    <ngayra>201804181008</ngayra>
+    <ngaythu>201804181449</ngaythu>
+    <sophieu>0</sophieu>
+    <sotien>7152981</sotien>
+    <bhtra>7042610</bhtra>
+    <bntra>110371</bntra>
+    <bntt>0</bntt>
+    <nguonkhac>0</nguonkhac>
+    <sothe>DT2171720204117</sothe>
+    <madkkcb>17119</madkkcb>
+    <denngay>20181231</denngay>
+    <maicd>D56.1;</maicd>
+    <makp>30</makp>
+    <diachi> XÃ³m Gáº¡o há»£p thanh,Huyá»‡n LÆ°Æ¡ng SÆ¡n,HÃ²a BÃ¬nh</diachi>
+    <traituyen>0</traituyen>
+    <chandoan>Beta thalassaemia;</chandoan>
+    <songaydt>9</songaydt>
+    <tinhtrangrv>1</tinhtrangrv>
+    <ketqua>1</ketqua>
+    <loaibn>1</loaibn>
+    <makp_byt>K10</makp_byt>
+    <tenkp>Trung tÃ¢m Thalassemia</tenkp>
+  </data>
+  <data>
+    <id>180418145755912486</id>
+    <maql>180416132946197360</maql>
+    <mavaovien>180416133218099587</mavaovien>
+    <mabn>18099587</mabn>
+    <hoten>NGUYá»„N NGá»ŒC DIá»†P</hoten>
+    <namsinh>20171217</namsinh>
+    <phai>2</phai>
+    <ngayvao>201804161332</ngayvao>
+    <ngayra>201804171417</ngayra>
+    <ngaythu>201804181506</ngaythu>
+    <sophieu>0</sophieu>
+    <sotien>3881011</sotien>
+    <bhtra>3760419</bhtra>
+    <bntra>120592</bntra>
+    <bntt>0</bntt>
+    <nguonkhac>0</nguonkhac>
+    <sothe>TE1313122606110</sothe>
+    <madkkcb>31305</madkkcb>
+    <denngay>20231231</denngay>
+    <maicd>C92; ^C92;</maicd>
+    <makp>23</makp>
+    <diachi> 144-tá»• 1 hÃ²a nghÄ©a,Quáº­n DÆ°Æ¡ng Kinh,Háº£i PhÃ²ng</diachi>
+    <traituyen>0</traituyen>
+    <chandoan>Bá»‡nh báº¡ch cáº§u tuá»·; ^Bá»‡nh báº¡ch cáº§u tuá»·;</chandoan>
+    <songaydt>2</songaydt>
+    <tinhtrangrv>2</tinhtrangrv>
+    <ketqua>3</ketqua>
+    <loaibn>1</loaibn>
+    <makp_byt>K10</makp_byt>
+    <tenkp>Khoa Bá»‡nh MÃ¡u Tráº» Em</tenkp>
+  </data>
+  <data>
+    <id>180418142940881748</id>
+    <maql>180415110401586360</maql>
+    <mavaovien>180415110518008822</mavaovien>
+    <mabn>18008822</mabn>
+    <hoten>CAO THá»Š NGA</hoten>
+    <namsinh>19910902</namsinh>
+    <phai>2</phai>
+    <ngayvao>201804151105</ngayvao>
+    <ngayra>201804181023</ngayra>
+    <ngaythu>201804181434</ngaythu>
+    <sophieu>0</sophieu>
+    <sotien>2315701</sotien>
+    <bhtra>1768195</bhtra>
+    <bntra>547506</bntra>
+    <bntt>0</bntt>
+    <nguonkhac>0</nguonkhac>
+    <sothe>GD4222220067244</sothe>
+    <madkkcb>22058</madkkcb>
+    <denngay>20190325</denngay>
+    <maicd>C81; ^C81;</maicd>
+    <makp>04</makp>
+    <diachi> Tá»• 3 Äáº¡i YÃªn,ThÃ nh phá»‘ Háº¡ Long,Quáº£ng Ninh</diachi>
+    <traituyen>0</traituyen>
+    <chandoan>U lympho Hodgkin; ^U lympho Hodgkin;</chandoan>
+    <songaydt>4</songaydt>
+    <tinhtrangrv>1</tinhtrangrv>
+    <ketqua>2</ketqua>
+    <loaibn>1</loaibn>
+    <makp_byt>K10</makp_byt>
+    <tenkp>Khoa GhÃ©p Táº¿ BÃ o Gá»‘c</tenkp>
+  </data>
+  <data>
+    <id>180418112823866635</id>
+    <maql>180416144222011385</maql>
+    <mavaovien>180416144506001055</mavaovien>
+    <mabn>06001055</mabn>
+    <hoten>LÃŠ XUÃ‚N TIáº¾N</hoten>
+    <namsinh>19891010</namsinh>
+    <phai>1</phai>
+    <ngayvao>201804161445</ngayvao>
+    <ngayra>201804181041</ngayra>
+    <ngaythu>201804181134</ngaythu>
+    <sophieu>0</sophieu>
+    <sotien>25154163</sotien>
+    <bhtra>25153350</bhtra>
+    <bntra>813</bntra>
+    <bntt>0</bntt>
+    <nguonkhac>0</nguonkhac>
+    <sothe>BT2383823823942</sothe>
+    <madkkcb>38427</madkkcb>
+    <denngay>20181231</denngay>
+    <maicd>D66;</maicd>
+    <makp>17</makp>
+    <diachi>A194 ThÃ nh Thang 1 PhÆ°á»ng TÃ o XuyÃªn,ThÃ nh phá»‘ Thanh HÃ³a,Thanh HÃ³a</diachi>
+    <traituyen>0</traituyen>
+    <chandoan>Thiáº¿u yáº¿u tá»‘ VIII di truyá»n;</chandoan>
+    <songaydt>3</songaydt>
+    <tinhtrangrv>1</tinhtrangrv>
+    <ketqua>2</ketqua>
+    <loaibn>1</loaibn>
+    <makp_byt>K10</makp_byt>
+    <tenkp>Trung TÃ¢m Äiá»u Trá»‹ Hemophilia</tenkp>
+  </data>
+  <data>
+    <id>180418102837731635</id>
+    <maql>180413101100190316</maql>
+    <mavaovien>180413101317030999</mavaovien>
+    <mabn>17030999</mabn>
+    <hoten>NGUYá»„N VÄ‚N Háº¢I</hoten>
+    <namsinh>19550728</namsinh>
+    <phai>1</phai>
+    <ngayvao>201804131013</ngayvao>
+    <ngayra>201804180838</ngayra>
+    <ngaythu>201804181032</ngaythu>
+    <sophieu>0</sophieu>
+    <sotien>5825272</sotien>
+    <bhtra>5431490</bhtra>
+    <bntra>393782</bntra>
+    <bntt>0</bntt>
+    <nguonkhac>0</nguonkhac>
+    <sothe>CN3010122229395</sothe>
+    <madkkcb>01832</madkkcb>
+    <denngay>20181231</denngay>
+    <maicd>C92.0;</maicd>
+    <makp>03</makp>
+    <diachi>c92.1-1059 Äá»™c Láº­p Váº¡n PhÃºc,Quáº­n HÃ  ÄÃ´ng,HÃ  Ná»™i</diachi>
+    <traituyen>0</traituyen>
+    <chandoan>Bá»‡nh báº¡ch cáº§u dáº¡ng tuá»· cáº¥p;</chandoan>
+    <songaydt>6</songaydt>
+    <tinhtrangrv>1</tinhtrangrv>
+    <ketqua>2</ketqua>
+    <loaibn>1</loaibn>
+    <makp_byt>K10</makp_byt>
+    <tenkp>Khoa Äiá»u Trá»‹ HÃ³a Cháº¥t [H7]</tenkp>
+  </data>
+  <data>
+    <id>180418091644020635</id>
+    <maql>180227143138055385</maql>
+    <mavaovien>180227134617022957</mavaovien>
+    <mabn>17022957</mabn>
+    <hoten>DÆ¯Æ NG TUáº¤N ANH</hoten>
+    <namsinh>19740216</namsinh>
+    <phai>1</phai>
+    <ngayvao>201802271346</ngayvao>
+    <ngayra>201804152200</ngayra>
+    <ngaythu>201804180920</ngaythu>
+    <sophieu>0</sophieu>
+    <sotien>158273695</sotien>
+    <bhtra>107680460</bhtra>
+    <bntra>50593235</bntra>
+    <bntt>0</bntt>
+    <nguonkhac>0</nguonkhac>
+    <sothe>DN4240103026119</sothe>
+    <madkkcb>24013</madkkcb>
+    <denngay>20181231</denngay>
+    <maicd>C91;</maicd>
+    <makp>03</makp>
+    <diachi> KHU TT VIá»†N QUÃ‚N Y110 PhÆ°á»ng ÄÃ¡p Cáº§u,ThÃ nh phá»‘ Báº¯c Ninh,Báº¯c Ninh</diachi>
+    <traituyen>0</traituyen>
+    <chandoan>Bá»‡nh báº¡ch cáº§u dáº¡ng lympho;</chandoan>
+    <songaydt>48</songaydt>
+    <tinhtrangrv>4</tinhtrangrv>
+    <ketqua>4</ketqua>
+    <loaibn>1</loaibn>
+    <makp_byt>K10</makp_byt>
+    <tenkp>Khoa Äiá»u Trá»‹ HÃ³a Cháº¥t [H7]</tenkp>
+  </data>
+  <data>
+    <id>180418105237334635</id>
+    <maql>180416142451842316</maql>
+    <mavaovien>180416142715039984</mavaovien>
+    <mabn>15039984</mabn>
+    <hoten>NGÃ” Äá»¨C TÃš</hoten>
+    <namsinh>20150430</namsinh>
+    <phai>1</phai>
+    <ngayvao>201804161427</ngayvao>
+    <ngayra>201804180940</ngayra>
+    <ngaythu>201804181056</ngaythu>
+    <sophieu>0</sophieu>
+    <sotien>9644500</sotien>
+    <bhtra>9643687</bhtra>
+    <bntra>813</bntra>
+    <bntt>0</bntt>
+    <nguonkhac>0</nguonkhac>
+    <sothe>TE1272720801331</sothe>
+    <madkkcb>27096</madkkcb>
+    <denngay>20210930</denngay>
+    <maicd>D66; ^D66;</maicd>
+    <makp>17</makp>
+    <diachi> Chi XÃ£ Tam SÆ¡n,Huyá»‡n Tá»« SÆ¡n,Báº¯c Ninh</diachi>
+    <traituyen>0</traituyen>
+    <chandoan>Thiáº¿u yáº¿u tá»‘ VIII di truyá»n; ^Thiáº¿u yáº¿u tá»‘ VIII di truyá»n;</chandoan>
+    <songaydt>3</songaydt>
+    <tinhtrangrv>1</tinhtrangrv>
+    <ketqua>2</ketqua>
+    <loaibn>1</loaibn>
+    <makp_byt>K10</makp_byt>
+    <tenkp>Trung TÃ¢m Äiá»u Trá»‹ Hemophilia</tenkp>
+  </data>
+  <data>
+    <id>180418105148445635</id>
+    <maql>180416151606158385</maql>
+    <mavaovien>180416151916009194</mavaovien>
+    <mabn>16009194</mabn>
+    <hoten>PHáº M ÄÃŒNH Báº¢O</hoten>
+    <namsinh>20150128</namsinh>
+    <phai>1</phai>
+    <ngayvao>201804161519</ngayvao>
+    <ngayra>201804180949</ngayra>
+    <ngaythu>201804181055</ngaythu>
+    <sophieu>0</sophieu>
+    <sotien>16199113</sotien>
+    <bhtra>16198300</bhtra>
+    <bntra>813</bntra>
+    <bntt>0</bntt>
+    <nguonkhac>0</nguonkhac>
+    <sothe>TE1272721203205</sothe>
+    <madkkcb>27146</madkkcb>
+    <denngay>20210930</denngay>
+    <maicd>D67; ^D67;</maicd>
+    <makp>17</makp>
+    <diachi>B 221 LAI Háº  XÃ£ Lai Háº¡,Huyá»‡n LÆ°Æ¡ng TÃ i,Báº¯c Ninh</diachi>
+    <traituyen>0</traituyen>
+    <chandoan>Thiáº¿u yáº¿u tá»‘ IX di truyá»n; ^Thiáº¿u yáº¿u tá»‘ IX di truyá»n;</chandoan>
+    <songaydt>3</songaydt>
+    <tinhtrangrv>1</tinhtrangrv>
+    <ketqua>2</ketqua>
+    <loaibn>1</loaibn>
+    <makp_byt>K10</makp_byt>
+    <tenkp>Trung TÃ¢m Äiá»u Trá»‹ Hemophilia</tenkp>
+  </data>
+  <data>
+    <id>180418100533697748</id>
+    <maql>180406094513439385</maql>
+    <mavaovien>180406100310000912</mavaovien>
+    <mabn>10000912</mabn>
+    <hoten>NGUYá»„N THá»Š TUYáº¾T</hoten>
+    <namsinh>19560620</namsinh>
+    <phai>2</phai>
+    <ngayvao>201804061003</ngayvao>
+    <ngayra>201804180837</ngayra>
+    <ngaythu>201804181010</ngaythu>
+    <sophieu>0</sophieu>
+    <sotien>12451709</sotien>
+    <bhtra>11811029</bhtra>
+    <bntra>640680</bntra>
+    <bntt>0</bntt>
+    <nguonkhac>0</nguonkhac>
+    <sothe>CN3333320566924</sothe>
+    <madkkcb>33090</madkkcb>
+    <denngay>20181231</denngay>
+    <maicd>C91;</maicd>
+    <makp>03</makp>
+    <diachi>906 PhÃº Há»¯u XÃ£ DÆ°Æ¡ng Quang,Huyá»‡n Má»¹ HÃ o,HÆ°ng YÃªn</diachi>
+    <traituyen>0</traituyen>
+    <chandoan>Bá»‡nh báº¡ch cáº§u dáº¡ng lympho;</chandoan>
+    <songaydt>13</songaydt>
+    <tinhtrangrv>1</tinhtrangrv>
+    <ketqua>2</ketqua>
+    <loaibn>1</loaibn>
+    <makp_byt>K10</makp_byt>
+    <tenkp>Khoa Äiá»u Trá»‹ HÃ³a Cháº¥t [H7]</tenkp>
+  </data>
+  <data>
+    <id>180418163652649486</id>
+    <maql>180417113210841459</maql>
+    <mavaovien>180417113314018821</mavaovien>
+    <mabn>14018821</mabn>
+    <hoten>NGUYá»„N QUANG Äá»¨C</hoten>
+    <namsinh>2012</namsinh>
+    <phai>1</phai>
+    <ngayvao>201804171133</ngayvao>
+    <ngayra>201804181033</ngayra>
+    <ngaythu>201804181645</ngaythu>
+    <sophieu>0</sophieu>
+    <sotien>3309180</sotien>
+    <bhtra>3206180</bhtra>
+    <bntra>103000</bntra>
+    <bntt>0</bntt>
+    <nguonkhac>0</nguonkhac>
+    <sothe>TE1010129514221</sothe>
+    <madkkcb>01025</madkkcb>
+    <denngay>20181130</denngay>
+    <maicd>D56.1; ^D56.1;</maicd>
+    <makp>30</makp>
+    <diachi> Nguyá»…n VÄƒn Cá»« PhÆ°á»ng Ngá»c LÃ¢m,Quáº­n Long BiÃªn,HÃ  Ná»™i</diachi>
+    <traituyen>0</traituyen>
+    <chandoan>Beta thalassaemia; ^Beta thalassaemia;</chandoan>
+    <songaydt>2</songaydt>
+    <tinhtrangrv>1</tinhtrangrv>
+    <ketqua>1</ketqua>
+    <loaibn>1</loaibn>
+    <makp_byt>K10</makp_byt>
+    <tenkp>Trung tÃ¢m Thalassemia</tenkp>
+  </data>
+  <data>
+    <id>180418102804176748</id>
+    <maql>180402122909511360</maql>
+    <mavaovien>180402114412008756</mavaovien>
+    <mabn>12008756</mabn>
+    <hoten>PHáº M ÄÃŒNH ÄIá»€M</hoten>
+    <namsinh>19350625</namsinh>
+    <phai>1</phai>
+    <ngayvao>201804021144</ngayvao>
+    <ngayra>201804180925</ngayra>
+    <ngaythu>201804181032</ngaythu>
+    <sophieu>0</sophieu>
+    <sotien>22560175</sotien>
+    <bhtra>22555568</bhtra>
+    <bntra>4607</bntra>
+    <bntt>0</bntt>
+    <nguonkhac>0</nguonkhac>
+    <sothe>BT2333320562513</sothe>
+    <madkkcb>33090</madkkcb>
+    <denngay>20200630</denngay>
+    <maicd>D46;</maicd>
+    <makp>02</makp>
+    <diachi> VÃ¢n An XÃ£ Minh Äá»©c,Huyá»‡n Má»¹ HÃ o,HÆ°ng YÃªn</diachi>
+    <traituyen>0</traituyen>
+    <chandoan>Há»™i chá»©ng loáº¡n sáº£n tuá»· xÆ°Æ¡ng;</chandoan>
+    <songaydt>17</songaydt>
+    <tinhtrangrv>1</tinhtrangrv>
+    <ketqua>2</ketqua>
+    <loaibn>1</loaibn>
+    <makp_byt>K10</makp_byt>
+    <tenkp>Khoa Bá»‡nh MÃ¡u Tá»•ng Há»£p I [H4]</tenkp>
+  </data>
+  <data>
+    <id>180418112412255486</id>
+    <maql>180305075329107385</maql>
+    <mavaovien>180305080817014718</mavaovien>
+    <mabn>17014718</mabn>
+    <hoten>NGÃ” THU HÃ€</hoten>
+    <namsinh>20100824</namsinh>
+    <phai>2</phai>
+    <ngayvao>201803050808</ngayvao>
+    <ngayra>201804181026</ngayra>
+    <ngaythu>201804181132</ngaythu>
+    <sophieu>0</sophieu>
+    <sotien>58346251</sotien>
+    <bhtra>46608985</bhtra>
+    <bntra>11737266</bntra>
+    <bntt>0</bntt>
+    <nguonkhac>0</nguonkhac>
+    <sothe>HS4010122936725</sothe>
+    <madkkcb>01025</madkkcb>
+    <denngay>20181231</denngay>
+    <maicd>C91.0;</maicd>
+    <makp>23</makp>
+    <diachi> Tá»” 12 PhÆ°á»ng Cá»± Khá»‘i,Quáº­n Long BiÃªn,HÃ  Ná»™i</diachi>
+    <traituyen>0</traituyen>
+    <chandoan>Bá»‡nh báº¡ch cáº§u dáº¡ng nguyÃªn bÃ o lympho cáº¥p (ALL);</chandoan>
+    <songaydt>45</songaydt>
+    <tinhtrangrv>1</tinhtrangrv>
+    <ketqua>2</ketqua>
+    <loaibn>1</loaibn>
+    <makp_byt>K10</makp_byt>
+    <tenkp>Khoa Bá»‡nh MÃ¡u Tráº» Em</tenkp>
+  </data>
+  <data>
+    <id>180418111613474486</id>
+    <maql>180416140017720316</maql>
+    <mavaovien>180416140316031852</mavaovien>
+    <mabn>16031852</mabn>
+    <hoten>TRáº¦N THáº¾ HUY</hoten>
+    <namsinh>20100810</namsinh>
+    <phai>1</phai>
+    <ngayvao>201804161403</ngayvao>
+    <ngayra>201804171025</ngayra>
+    <ngaythu>201804181124</ngaythu>
+    <sophieu>0</sophieu>
+    <sotien>2027336</sotien>
+    <bhtra>1607899</bhtra>
+    <bntra>419437</bntra>
+    <bntt>0</bntt>
+    <nguonkhac>0</nguonkhac>
+    <sothe>HS4010123465305</sothe>
+    <madkkcb>01025</madkkcb>
+    <denngay>20181231</denngay>
+    <maicd>C91; ^C91.0;</maicd>
+    <makp>23</makp>
+    <diachi> Tá»• 16 PhÆ°á»ng SÃ i Äá»“ng,Quáº­n Long BiÃªn,HÃ  Ná»™i</diachi>
+    <traituyen>0</traituyen>
+    <chandoan>Bá»‡nh báº¡ch cáº§u dáº¡ng lympho; ^Bá»‡nh báº¡ch cáº§u dáº¡ng nguyÃªn bÃ o lympho cáº¥p (ALL);</chandoan>
+    <songaydt>2</songaydt>
+    <tinhtrangrv>1</tinhtrangrv>
+    <ketqua>2</ketqua>
+    <loaibn>1</loaibn>
+    <makp_byt>K10</makp_byt>
+    <tenkp>Khoa Bá»‡nh MÃ¡u Tráº» Em</tenkp>
+  </data>
+  <data>
+    <id>180418103048890635</id>
+    <maql>180412131550517857</maql>
+    <mavaovien>180412131917040089</mavaovien>
+    <mabn>17040089</mabn>
+    <hoten>SÃ™NG VÄ‚N TU</hoten>
+    <namsinh>1979</namsinh>
+    <phai>1</phai>
+    <ngayvao>201804121319</ngayvao>
+    <ngayra>201804180922</ngayra>
+    <ngaythu>201804181034</ngaythu>
+    <sophieu>0</sophieu>
+    <sotien>10492673</sotien>
+    <bhtra>10364740</bhtra>
+    <bntra>127933</bntra>
+    <bntt>0</bntt>
+    <nguonkhac>0</nguonkhac>
+    <sothe>QN5976604123184</sothe>
+    <madkkcb>06084</madkkcb>
+    <denngay>20181231</denngay>
+    <maicd>D69.3;</maicd>
+    <makp>02</makp>
+    <diachi> Phá»‘ Má»›i yáº¿n láº¡c,Huyá»‡n Na RÃ¬,Báº¯c Káº¡n</diachi>
+    <traituyen>0</traituyen>
+    <chandoan>Ban xuáº¥t huyáº¿t giáº£m tiá»ƒu cáº§u vÃ´ cÄƒn;</chandoan>
+    <songaydt>7</songaydt>
+    <tinhtrangrv>1</tinhtrangrv>
+    <ketqua>2</ketqua>
+    <loaibn>1</loaibn>
+    <makp_byt>K10</makp_byt>
+    <tenkp>Khoa Bá»‡nh MÃ¡u Tá»•ng Há»£p I [H4]</tenkp>
+  </data>
+  <data>
+    <id>180418112038638748</id>
+    <maql>180416075853699316</maql>
+    <mavaovien>180416080117009417</mavaovien>
+    <mabn>17009417</mabn>
+    <hoten>ÄÃ€O Máº NH MINH Äá»¨C</hoten>
+    <namsinh>20070522</namsinh>
+    <phai>1</phai>
+    <ngayvao>201804160801</ngayvao>
+    <ngayra>201804181030</ngayra>
+    <ngaythu>201804181125</ngaythu>
+    <sophieu>0</sophieu>
+    <sotien>2627135</sotien>
+    <bhtra>2618339</bhtra>
+    <bntra>8796</bntra>
+    <bntt>0</bntt>
+    <nguonkhac>0</nguonkhac>
+    <sothe>HN2424217109547</sothe>
+    <madkkcb>42135</madkkcb>
+    <denngay>20181231</denngay>
+    <maicd>C91;</maicd>
+    <makp>23</makp>
+    <diachi> XÃ³m 7 Báº¯c SÆ¡n,Huyá»‡n Can Lá»™c,HÃ  TÄ©nh</diachi>
+    <traituyen>0</traituyen>
+    <chandoan>Bá»‡nh báº¡ch cáº§u dáº¡ng lympho;</chandoan>
+    <songaydt>3</songaydt>
+    <tinhtrangrv>1</tinhtrangrv>
+    <ketqua>2</ketqua>
+    <loaibn>1</loaibn>
+    <makp_byt>K10</makp_byt>
+    <tenkp>Khoa Bá»‡nh MÃ¡u Tráº» Em</tenkp>
+  </data>
+  <data>
+    <id>180418112536873486</id>
+    <maql>180417110226468385</maql>
+    <mavaovien>180417110616003299</mavaovien>
+    <mabn>16003299</mabn>
+    <hoten>BÃ™I TUáº¤N Äáº T</hoten>
+    <namsinh>20010203</namsinh>
+    <phai>1</phai>
+    <ngayvao>201804171106</ngayvao>
+    <ngayra>201804181039</ngayra>
+    <ngaythu>201804181134</ngaythu>
+    <sophieu>0</sophieu>
+    <sotien>1583034</sotien>
+    <bhtra>1573842</bhtra>
+    <bntra>9192</bntra>
+    <bntt>0</bntt>
+    <nguonkhac>0</nguonkhac>
+    <sothe>BT2101020077425</sothe>
+    <madkkcb>10061</madkkcb>
+    <denngay>20181231</denngay>
+    <maicd>C91;</maicd>
+    <makp>23</makp>
+    <diachi> Tá»• 1 Thá»‘ng Nháº¥t,ThÃ nh phá»‘ LÃ o Cai,LÃ o Cai</diachi>
+    <traituyen>0</traituyen>
+    <chandoan>Bá»‡nh báº¡ch cáº§u dáº¡ng lympho;</chandoan>
+    <songaydt>2</songaydt>
+    <tinhtrangrv>1</tinhtrangrv>
+    <ketqua>2</ketqua>
+    <loaibn>1</loaibn>
+    <makp_byt>K10</makp_byt>
+    <tenkp>Khoa Bá»‡nh MÃ¡u Tráº» Em</tenkp>
+  </data>
+</NewDataSet>

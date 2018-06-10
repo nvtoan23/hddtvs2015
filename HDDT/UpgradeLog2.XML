@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="HDDT">
+</Property><Property Name="Solution File" Value="C:\Users\nvtoan\Desktop\HDDT_9i\HDDT\HDDT\HDDT\HDDT.sln">
+</Property><Property Name="Date" Value="Tuesday, March 13, 2018">
+</Property><Property Name="Time" Value="21:35:17 PM">
+</Property><Property Name="Log Number" Value="2">
+</Property></Properties><Event ErrorLevel="1" Project="C:\Users\nvtoan\Desktop\HDDT_9i\LibMedi\LibMedi.csproj" Source="..\..\..\LibMedi\LibMedi.csproj" Description="MSB2014: The project-to-project reference with GUID {557CA660-A33B-42A7-9A64-E3B79BFE6E81} cannot be converted because it is not listed in the file 'C:\Users\nvtoan\Desktop\HDDT_9i\HDDT\HDDT\HDDT\HDDT.sln'.">
+</Event><Event ErrorLevel="1" Project="C:\Users\nvtoan\Desktop\HDDT_9i\LibMedi\LibMedi.csproj" Source="..\..\..\LibMedi\LibMedi.csproj" Description="MSB2014: The project-to-project reference with GUID {99BB785A-34CC-40C9-9ACB-EA6B650A4902} cannot be converted because it is not listed in the file 'C:\Users\nvtoan\Desktop\HDDT_9i\HDDT\HDDT\HDDT\HDDT.sln'.">
+</Event><Event ErrorLevel="0" Project="LibMedi" Source="..\..\..\LibMedi\LibMedi.csproj" Description="Project file successfully backed up as C:\Users\nvtoan\Desktop\HDDT_9i\HDDT\HDDT\HDDT\Backup1\LibMedi.csproj">
+</Event><Event ErrorLevel="0" Project="LibMedi" Source="..\..\..\LibMedi\LibMedi.csproj.user" Description="Project user file successfully backed up as C:\Users\nvtoan\Desktop\HDDT_9i\HDDT\HDDT\HDDT\Backup1\LibMedi.csproj.user">
+</Event><Event ErrorLevel="0" Project="LibMedi" Source="..\..\..\LibMedi\AccessData.cs" Description="File successfully backed up as C:\Users\nvtoan\Desktop\HDDT_9i\HDDT\HDDT\HDDT\Backup1\AccessData.cs">
+</Event><Event ErrorLevel="0" Project="LibMedi" Source="..\..\..\LibMedi\AssemblyInfo.cs" Description="File successfully backed up as C:\Users\nvtoan\Desktop\HDDT_9i\HDDT\HDDT\HDDT\Backup1\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="LibMedi" Source="..\..\..\LibMedi\BaseFormat.cs" Description="File successfully backed up as C:\Users\nvtoan\Desktop\HDDT_9i\HDDT\HDDT\HDDT\Backup1\BaseFormat.cs">
+</Event><Event ErrorLevel="0" Project="LibMedi" Source="..\..\..\LibMedi\Export.cs" Description="File successfully backed up as C:\Users\nvtoan\Desktop\HDDT_9i\HDDT\HDDT\HDDT\Backup1\Export.cs">
+</Event><Event ErrorLevel="0" Project="LibMedi" Source="..\..\..\LibMedi\Run.cs" Description="File successfully backed up as C:\Users\nvtoan\Desktop\HDDT_9i\HDDT\HDDT\HDDT\Backup1\Run.cs">
+</Event><Event ErrorLevel="0" Project="LibMedi" Source="..\..\..\LibMedi\LibMedi.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="LibMedi" Source="..\..\..\LibMedi\LibMedi.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="LibMedi" Source="..\..\..\LibMedi\LibMedi.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

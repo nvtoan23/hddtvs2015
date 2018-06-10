@@ -1,0 +1,42 @@
+C:\Users\mrvui\OneDrive\Máy tính\huyethoc\HDDT_2015(1)\libHDDT\bin\Debug\libHDDT.dll
+C:\Users\mrvui\OneDrive\Máy tính\huyethoc\HDDT_2015(1)\libHDDT\bin\Debug\libHDDT.pdb
+C:\Users\mrvui\OneDrive\Máy tính\huyethoc\HDDT_2015(1)\libHDDT\bin\Debug\Newtonsoft.Json.dll
+C:\Users\mrvui\OneDrive\Máy tính\huyethoc\HDDT_2015(1)\libHDDT\bin\Debug\Newtonsoft.Json.xml
+C:\Users\mrvui\OneDrive\Máy tính\huyethoc\HDDT_2015(1)\libHDDT\obj\Debug\libHDDT.csprojResolveAssemblyReference.cache
+C:\Users\mrvui\OneDrive\Máy tính\huyethoc\HDDT_2015(1)\libHDDT\obj\Debug\libHDDT.csproj.CoreCompileInputs.cache
+C:\Users\mrvui\OneDrive\Máy tính\huyethoc\HDDT_2015(1)\libHDDT\obj\Debug\libHDDT.csproj.CopyComplete
+C:\Users\mrvui\OneDrive\Máy tính\huyethoc\HDDT_2015(1)\libHDDT\obj\Debug\libHDDT.dll
+C:\Users\mrvui\OneDrive\Máy tính\huyethoc\HDDT_2015(1)\libHDDT\obj\Debug\libHDDT.pdb
+C:\Users\nvtoan\AppData\Roaming\Skype\My Skype Received Files\libHDDT\libHDDT\bin\Debug\libHDDT.dll
+C:\Users\nvtoan\AppData\Roaming\Skype\My Skype Received Files\libHDDT\libHDDT\bin\Debug\libHDDT.pdb
+C:\Users\nvtoan\AppData\Roaming\Skype\My Skype Received Files\libHDDT\libHDDT\bin\Debug\Newtonsoft.Json.xml
+C:\Users\nvtoan\AppData\Roaming\Skype\My Skype Received Files\libHDDT\libHDDT\obj\Debug\libHDDT.csprojResolveAssemblyReference.cache
+C:\Users\nvtoan\AppData\Roaming\Skype\My Skype Received Files\libHDDT\libHDDT\obj\Debug\libHDDT.dll
+C:\Users\nvtoan\AppData\Roaming\Skype\My Skype Received Files\libHDDT\libHDDT\obj\Debug\libHDDT.pdb
+C:\Users\nvtoan\Downloads\HDDT_Final\HDDT_2015\libHDDT\bin\Debug\libHDDT.dll
+C:\Users\nvtoan\Downloads\HDDT_Final\HDDT_2015\libHDDT\bin\Debug\libHDDT.pdb
+C:\Users\nvtoan\Downloads\HDDT_Final\HDDT_2015\libHDDT\bin\Debug\Newtonsoft.Json.dll
+C:\Users\nvtoan\Downloads\HDDT_Final\HDDT_2015\libHDDT\bin\Debug\Newtonsoft.Json.xml
+C:\Users\nvtoan\Downloads\HDDT_Final\HDDT_2015\libHDDT\obj\Debug\libHDDT.dll
+C:\Users\nvtoan\Downloads\HDDT_Final\HDDT_2015\libHDDT\obj\Debug\libHDDT.pdb
+C:\Users\nvtoan\Downloads\HDDT_Final\HDDT_2015\libHDDT\obj\Debug\libHDDT.csprojResolveAssemblyReference.cache
+C:\Users\nvtoan\Downloads\HDDT_Final\HDDT_2015_LOCALHOST\libHDDT\bin\Debug\libHDDT.dll
+C:\Users\nvtoan\Downloads\HDDT_Final\HDDT_2015_LOCALHOST\libHDDT\bin\Debug\libHDDT.pdb
+C:\Users\nvtoan\Downloads\HDDT_Final\HDDT_2015_LOCALHOST\libHDDT\bin\Debug\Newtonsoft.Json.dll
+C:\Users\nvtoan\Downloads\HDDT_Final\HDDT_2015_LOCALHOST\libHDDT\bin\Debug\Newtonsoft.Json.xml
+C:\Users\nvtoan\Downloads\HDDT_Final\HDDT_2015_LOCALHOST\libHDDT\obj\Debug\libHDDT.dll
+C:\Users\nvtoan\Downloads\HDDT_Final\HDDT_2015_LOCALHOST\libHDDT\obj\Debug\libHDDT.pdb
+C:\Users\nvtoan\Downloads\HDDT_Final\HDDT_2015_LOCALHOST\libHDDT\obj\Debug\libHDDT.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\HDDT_2015_LOCALHOST\libHDDT\bin\Debug\libHDDT.dll
+C:\Users\Administrator\Desktop\HDDT_2015_LOCALHOST\libHDDT\bin\Debug\libHDDT.pdb
+C:\Users\Administrator\Desktop\HDDT_2015_LOCALHOST\libHDDT\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\HDDT_2015_LOCALHOST\libHDDT\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Administrator\Desktop\HDDT_2015_LOCALHOST\libHDDT\obj\Debug\libHDDT.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\HDDT_2015_LOCALHOST\libHDDT\obj\Debug\libHDDT.dll
+C:\Users\Administrator\Desktop\HDDT_2015_LOCALHOST\libHDDT\obj\Debug\libHDDT.pdb
+C:\WORK\HDDT_2015_LOCALHOST\libHDDT\bin\Debug\libHDDT.dll
+C:\WORK\HDDT_2015_LOCALHOST\libHDDT\bin\Debug\libHDDT.pdb
+C:\WORK\HDDT_2015_LOCALHOST\libHDDT\bin\Debug\Newtonsoft.Json.dll
+C:\WORK\HDDT_2015_LOCALHOST\libHDDT\bin\Debug\Newtonsoft.Json.xml
+C:\WORK\HDDT_2015_LOCALHOST\libHDDT\obj\Debug\libHDDT.dll
+C:\WORK\HDDT_2015_LOCALHOST\libHDDT\obj\Debug\libHDDT.pdb
